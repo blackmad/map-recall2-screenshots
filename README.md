@@ -44,3 +44,14 @@ A full `https://` URL is also accepted.
 cp shot.jpg whats-new/2026-10-30-squares-after.jpg
 git add whats-new && git commit -m "whats-new: squares after" && git push
 ```
+
+## Review strips
+
+```
+review/YYYY-MM-DD-<lane-slug>-<what>.jpg
+```
+
+Before/after strips a lane produced for a decision that is still open (a
+flag flip, a kit batch). They are larger than What's New images (native
+width, under 2 MB) and are linked from the `needs-david` issue that asks the
+question. Once decided, the What's New note gets its own `whats-new/` copy.
