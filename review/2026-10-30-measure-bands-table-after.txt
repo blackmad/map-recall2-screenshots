@@ -1,0 +1,48 @@
+pand-063809 w1                        FAIL        glz 0.28/0.18 blank w01-91h70.jpg glazing storey band off by 0.27; storey 3: widest opening 1.6 m vs photo 13.7 m (a ribbon against windows); co
+pand-063809 w2                        FAIL        glz 0.28/0.23 blank w01-91h70.jpg glazing storey band off by 0.22; storey 1: widest opening 1.6 m vs photo 14.0 m (a ribbon against windows); st
+pand-063809 w3                        FAIL        glz 0.42/0.44 brick-bay-grid w03-271h70L.jpg glazing storey band off by 0.33
+pand-063809 w4                        NO EVIDENCE glz 0.29/0.25 blank w05-181h70.jpg usable upper cells 30 % < 40 %; foliage 59 % > 25 %; washed out 66 % > 30 %
+pand-063809 w5                        FAIL        glz 0.33/0.53 brick-bay-grid w04-0h70.jpg glazing storey band off by 0.56 mean 0.33 vs photo 0.53
+xpd-063809 w1                        FAIL        glz 0.47/0.18 ribbon-windows bb[1,2,3,4,5,6,7,8,9,10,11] w01-91h70.jpg wall family paint vs photo brick; glazing storey band off by 0.46 mean 0.47 vs photo 0.18; columns 18 vs photo
+xpd-063809 w2                        FAIL        glz 0.47/0.23 ribbon-windows bb[1,2,3,4,5,6,7,8,9,10,11] w01-91h70.jpg wall family paint vs photo brick; glazing storey band off by 0.43 mean 0.47 vs photo 0.23
+xpd-063809 w3                        FAIL        glz 0.42/0.44 brick-bay-grid w03-271h70L.jpg glazing storey band off by 0.33
+xpd-063809 w4                        NO EVIDENCE glz 0.29/0.25 blank w05-181h70.jpg usable upper cells 30 % < 40 %; foliage 59 % > 25 %; washed out 66 % > 30 %
+xpd-063809 w5                        FAIL        glz 0.33/0.53 brick-bay-grid w04-0h70.jpg glazing storey band off by 0.56 mean 0.33 vs photo 0.53
+pand-145366 w0 Spanderswoudstraat     NO EVIDENCE glz 0.28/0.22 blank w01-246.jpg foliage 26 % > 25 %
+pand-145366 w1 Spanderswoudstraat     NO EVIDENCE glz 0.28/0.46 blank w01-246.jpg usable upper cells 16 % < 40 %; foliage 65 % > 25 %
+pand-145366 w2 Hilversumstraat        NO EVIDENCE glz 0.28/0.40 blank w04-156.jpg washed out 55 % > 30 %
+pand-145366 w3 IJdoornlaan            FAIL        glz 0.33/0.20 brick-bay-grid w05-336.jpg glazing storey band off by 0.17 mean 0.33 vs photo 0.20
+pand-145366 w4                        WARN        glz 0.53/0.59 ribbon-windows w02-66.jpg wall family unresolved (#45473f is dark and neutral, brick courses not resolved): lightness and hue judged onl
+pand-145366 w5                        FAIL        glz 0.39/0.25 brick-bay-grid w03-66.jpg glazing storey band off by 0.22 mean 0.39 vs photo 0.25; wall family unresolved (#383d3b is dark and neutral, 
+pand-240435 w0 Govert Flinckstraat    NO PHOTO    glz - brick-bay-grid cov 0 
+pand-240435 w1 Ceintuurbaan           NO EVIDENCE glz 0.28/0.29 brick-bay-grid w06-168.jpg washed out 40 % > 30 %
+pand-240435 w2 Ceintuurbaan           NO EVIDENCE glz 0.27/0.49 brick-bay-grid w06-168.jpg washed out 42 % > 30 %
+pand-240435 w3                        NO PHOTO    glz - brick-bay-grid cov 0 
+pand-240435 w4                        FAIL        glz 0.52/0.52 brick-bay-grid w08-258L.jpg glazing storey band off by 0.17
+pand-240435 w5                        NO PHOTO    glz - brick-bay-grid cov 0 
+pand-240435 w6                        PASS        glz 0.71/0.70 curtain-wall w07-344.jpg 
+pand-240435 w7                        NO PHOTO    glz - brick-bay-grid cov 0 
+pand-242968 w0                        WARN        glz 0.54/0.52 ribbon-windows w01-341.jpg mask IoU 0.394 < 0.45
+pand-242968 w1                        FAIL        glz 0.54/0.53 ribbon-windows w02-161.jpg storey 3: widest opening 10.7 m vs photo 8.6 m (a ribbon against windows); storey 4: widest opening 10.7 m vs 
+pand-242968 w2                        FAIL        glz 0.28/0.14 brick-bay-grid w03-96.jpg wall dL +0.14; glazing storey band off by 0.19 mean 0.28 vs photo 0.14; wall family unresolved (#0e080b is dar
+pand-242968 w4                        WARN        glz 0.13/0.13 brick-bay-grid w04-251.jpg mask IoU 0.351 < 0.45
+xpd-242968 w0                        WARN        glz 0.54/0.52 ribbon-windows w01-341.jpg mask IoU 0.394 < 0.45
+xpd-242968 w1                        FAIL        glz 0.50/0.53 ribbon-windows bb[{"storey":1,"bays":[[0,1],[3,4],[7,8],[11,12],[15,16]]},{"storey":2,"bays":[[0,1],[3,4],[7,8],[11,12],[15,16]]},{"storey":3,"bays":[[0,1],[3,4],[7,8],[11,12],[15,16]]}] w02-161.jpg storey 2: widest opening 10.7 m vs photo 19.5 m (a ribbon against windows); wall family unresolved (#322b31 is
+xpd-242968 w2                        FAIL        glz 0.28/0.14 brick-bay-grid w03-96.jpg wall dL +0.14; glazing storey band off by 0.19 mean 0.28 vs photo 0.14; wall family unresolved (#0e080b is dar
+xpd-242968 w4                        WARN        glz 0.13/0.13 brick-bay-grid w04-251.jpg mask IoU 0.351 < 0.45
+pand-247342 w0 Nida Senffstraat       WARN        glz 0.47/0.45 brick-bay-grid w01-131.jpg mask IoU 0.363 < 0.45
+pand-247342 w1 Mary van der Sluisstraat FAIL        glz 0.27/0.19 brick-bay-grid w03-271.jpg glazing storey band off by 0.17; storey 2: widest opening 1.6 m vs photo 8.5 m (a ribbon against windows); sto
+pand-247342 w2 Eef Kamerbeekstraat    PASS        glz 0.72/0.74 brick-bay-grid w06-41.jpg 
+pand-247342 w3 Eef Kamerbeekstraat    FAIL        glz 0.48/0.49 brick-bay-grid w08-42L.jpg glazing storey band off by 0.16
+pand-247342 w4                        FAIL        glz 0.29/0.20 blank w02-13.jpg glazing storey band off by 0.23; storey 4: widest opening 1.6 m vs photo 9.0 m (a ribbon against windows)
+pand-247342 w5                        FAIL        glz 0.41/0.41 brick-bay-grid w04-41L.jpg glazing storey band off by 0.17
+pand-247342 w6                        FAIL        glz 0.28/0.27 brick-bay-grid w05-41L.jpg glazing storey band off by 0.22
+pand-247342 w7                        NO EVIDENCE glz 0.28/0.30 brick-bay-grid w07-221.jpg obliquity 47.3 deg > 45
+xpd-247342 w0 Nida Senffstraat       WARN        glz 0.47/0.45 brick-bay-grid w01-131.jpg mask IoU 0.363 < 0.45
+xpd-247342 w1 Mary van der Sluisstraat FAIL        glz 0.25/0.19 brick-bay-grid bb[{"storey":1,"bays":[[3,4],[6,9],[11,12]]},{"storey":2,"bays":[[3,4],[6,9],[11,12]]},{"storey":3,"bays":[[3,4],[6,9],[11,12]]},{"storey":4,"bays":[[3,4],[6,9],[11,12]]}] w03-271.jpg storey 2: widest opening 1.6 m vs photo 8.5 m (a ribbon against windows); storey 3: widest opening 1.6 m vs ph
+xpd-247342 w2 Eef Kamerbeekstraat    PASS        glz 0.72/0.74 brick-bay-grid w06-41.jpg 
+xpd-247342 w3 Eef Kamerbeekstraat    FAIL        glz 0.48/0.49 brick-bay-grid w08-42L.jpg glazing storey band off by 0.16
+xpd-247342 w4                        FAIL        glz 0.29/0.20 blank w02-13.jpg glazing storey band off by 0.23; storey 4: widest opening 1.6 m vs photo 9.0 m (a ribbon against windows)
+xpd-247342 w5                        FAIL        glz 0.41/0.41 brick-bay-grid w04-41L.jpg glazing storey band off by 0.17
+xpd-247342 w6                        FAIL        glz 0.28/0.27 brick-bay-grid w05-41L.jpg glazing storey band off by 0.22
+xpd-247342 w7                        NO EVIDENCE glz 0.28/0.30 brick-bay-grid w07-221.jpg obliquity 47.3 deg > 45
