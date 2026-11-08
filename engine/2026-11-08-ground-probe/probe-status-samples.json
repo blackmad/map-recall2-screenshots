@@ -1,0 +1,771 @@
+{
+ "tStartMs": 3293,
+ "rows": [
+  {
+   "t": 3.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": false,
+    "workerReady": false,
+    "visible": false,
+    "transition": true,
+    "blend": 0,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 0,
+    "lods": [],
+    "pending": [],
+    "queued": 0,
+    "built": 0,
+    "latencyMsMedian": null,
+    "latencyMsMax": null,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 5.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": false,
+    "workerReady": false,
+    "visible": false,
+    "transition": true,
+    "blend": 0,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 0,
+    "lods": [],
+    "pending": [],
+    "queued": 0,
+    "built": 0,
+    "latencyMsMedian": null,
+    "latencyMsMax": null,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 7.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 0,
+    "lods": [],
+    "pending": [
+     "0_-1",
+     "0_0",
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 0,
+    "latencyMsMedian": null,
+    "latencyMsMax": null,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 10.1,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 0,
+    "lods": [],
+    "pending": [
+     "0_-1",
+     "0_0",
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 0,
+    "latencyMsMedian": null,
+    "latencyMsMax": null,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 12.2,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 0,
+    "lods": [],
+    "pending": [
+     "0_-1",
+     "0_0",
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 0,
+    "latencyMsMedian": null,
+    "latencyMsMax": null,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 14.2,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 1,
+    "lods": [
+     0
+    ],
+    "pending": [
+     "0_0",
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 1,
+    "latencyMsMedian": 7504.8,
+    "latencyMsMax": 7505,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 16.2,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 1,
+    "lods": [
+     0
+    ],
+    "pending": [
+     "0_0",
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 1,
+    "latencyMsMedian": 7504.8,
+    "latencyMsMax": 7505,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 18.2,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 2,
+    "lods": [
+     0,
+     0
+    ],
+    "pending": [
+     "-1_-1",
+     "-1_0",
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 2,
+    "latencyMsMedian": 10759.4,
+    "latencyMsMax": 10759,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 21.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 4,
+    "lods": [
+     0,
+     0,
+     0,
+     0
+    ],
+    "pending": [
+     "1_-1",
+     "1_0",
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 4,
+    "latencyMsMedian": 13190.1,
+    "latencyMsMax": 15583,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 23.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 6,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1
+    ],
+    "pending": [
+     "0_-2",
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 6,
+    "latencyMsMedian": 15582.8,
+    "latencyMsMax": 17436,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 25.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 7,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1
+    ],
+    "pending": [
+     "-1_-2",
+     "0_1",
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 7,
+    "latencyMsMedian": 15582.8,
+    "latencyMsMax": 19344,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 27.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 9,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "pending": [
+     "-1_1",
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 9,
+    "latencyMsMedian": 16798.5,
+    "latencyMsMax": 21330,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 29.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 10,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "pending": [
+     "-2_-1",
+     "-2_0",
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 10,
+    "latencyMsMedian": 17436.3,
+    "latencyMsMax": 22581,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 31.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": false,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 12,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "pending": [
+     "1_-2"
+    ],
+    "queued": 0,
+    "built": 12,
+    "latencyMsMedian": 19344,
+    "latencyMsMax": 25125,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 33.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": true,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 13,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "pending": [],
+    "queued": 0,
+    "built": 13,
+    "latencyMsMedian": 19344,
+    "latencyMsMax": 25796,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  },
+  {
+   "t": 35.3,
+   "state": 4,
+   "intro": 0,
+   "freeRide": true,
+   "engine": "VectorBasemap",
+   "camZoom": 18.04821297784821,
+   "center": {
+    "lng": 4.900746010166115,
+    "lat": 52.36938942910665
+   },
+   "ground": {
+    "enabled": true,
+    "ready": true,
+    "workerReady": true,
+    "visible": true,
+    "transition": true,
+    "blend": 1,
+    "basemapHidden": true,
+    "zoom": 18.04821297784821,
+    "radiusM": 1400,
+    "cells": 13,
+    "lods": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1,
+     1
+    ],
+    "pending": [],
+    "queued": 0,
+    "built": 13,
+    "latencyMsMedian": 19344,
+    "latencyMsMax": 25796,
+    "far": {
+     "blocks": 0,
+     "pending": 0
+    },
+    "errors": []
+   }
+  }
+ ],
+ "errors": []
+}
