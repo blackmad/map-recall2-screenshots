@@ -1,0 +1,85 @@
+[
+ {
+  "name": "sloterdijk",
+  "zoom": 15.22,
+  "pitch": 60,
+  "bearing": 0,
+  "libertyVis": "visible",
+  "liberty": {
+   "S101": 6,
+   "S118": 2,
+   "A5": 3,
+   "A10": 7,
+   "S102": 3,
+   "S104": 1,
+   "S103": 1,
+   "G200": 2,
+   "F200": 1
+  },
+  "ours": null,
+  "shieldStats": null,
+  "pills": [
+   "Petruskerk",
+   "Beest Boulders Het Lab",
+   "Amsterdam Sloterdijk Station",
+   "HNK Amsterdam Sloterdijk"
+  ],
+  "markers": 0
+ },
+ {
+  "name": "stadhouderskade",
+  "zoom": 15.58,
+  "pitch": 60,
+  "bearing": 60,
+  "libertyVis": "visible",
+  "liberty": {
+   "2270": 1,
+   "S116": 2,
+   "S100": 5,
+   "S113": 2,
+   "S108": 1,
+   "S110": 1,
+   "S112": 1
+  },
+  "ours": null,
+  "shieldStats": null,
+  "pills": [
+   "Van Gogh Museum",
+   "De Balie",
+   "Rijksmuseum",
+   "Herepoort",
+   "Heineken Experience",
+   "Amsterdam Pipe Museum",
+   "University of Amsterdam",
+   "De Ateliers",
+   "Museum Van Loon",
+   "Mint Tower",
+   "Christelijke Gereformeerde Kerk - Amstelkerk",
+   "Keizersgrachtkerk"
+  ],
+  "markers": 0
+ },
+ {
+  "name": "hortus",
+  "zoom": 17,
+  "pitch": 75,
+  "bearing": 20,
+  "libertyVis": "visible",
+  "liberty": {
+   "S100": 2,
+   "S116": 4
+  },
+  "ours": null,
+  "shieldStats": null,
+  "pills": [
+   "Canal Ring Area of Amsterdam",
+   "Artis",
+   "Hollandsche Schouwburg",
+   "Micropia",
+   "Auschwitz Memorial",
+   "Luther Museum Amsterdam",
+   "Nederlandse Film en Televisie Academie"
+  ],
+  "markers": 0
+ }
+]

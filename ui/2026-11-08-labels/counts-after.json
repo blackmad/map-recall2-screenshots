@@ -1,0 +1,130 @@
+[
+ {
+  "name": "sloterdijk",
+  "zoom": 15.22,
+  "pitch": 60,
+  "bearing": 0,
+  "libertyVis": "none",
+  "liberty": {},
+  "ours": {
+   "A5": 1,
+   "S101": 1,
+   "A10": 1,
+   "S102": 1,
+   "F200": 1,
+   "S104": 1,
+   "N200": 1,
+   "S103": 1,
+   "G200": 1
+  },
+  "shieldStats": {
+   "anchors": 1288,
+   "placed": 9,
+   "byRef": {
+    "S102": 1,
+    "A10": 1,
+    "A5": 1,
+    "G200": 1,
+    "S101": 1,
+    "S103": 1,
+    "N200": 1,
+    "S104": 1,
+    "F200": 1
+   },
+   "ms": 16.8,
+   "worstMs": 43.7,
+   "plans": 29
+  },
+  "pills": [
+   "Petruskerk",
+   "Beest Boulders Het Lab",
+   "Amsterdam Sloterdijk Station",
+   "HNK Amsterdam Sloterdijk"
+  ],
+  "markers": 0
+ },
+ {
+  "name": "stadhouderskade",
+  "zoom": 15.58,
+  "pitch": 60,
+  "bearing": 60,
+  "libertyVis": "none",
+  "liberty": {},
+  "ours": {
+   "249": 1,
+   "S116": 1,
+   "S106": 1,
+   "S108": 1,
+   "S100": 1,
+   "S112": 1,
+   "S110": 1
+  },
+  "shieldStats": {
+   "anchors": 62331,
+   "placed": 7,
+   "byRef": {
+    "249": 1,
+    "S100": 1,
+    "S108": 1,
+    "S106": 1,
+    "S116": 1,
+    "S110": 1,
+    "S112": 1
+   },
+   "ms": 38.3,
+   "worstMs": 52.1,
+   "plans": 48
+  },
+  "pills": [
+   "Van Gogh Museum",
+   "De Balie",
+   "Rijksmuseum",
+   "Herepoort",
+   "Heineken Experience",
+   "Amsterdam Pipe Museum",
+   "University of Amsterdam",
+   "De Ateliers",
+   "Museum Van Loon",
+   "De Duif",
+   "Keizersgrachtkerk"
+  ],
+  "markers": 0
+ },
+ {
+  "name": "hortus",
+  "zoom": 17,
+  "pitch": 75,
+  "bearing": 20,
+  "libertyVis": "none",
+  "liberty": {},
+  "ours": {
+   "2270": 1,
+   "2470": 1,
+   "S100": 1,
+   "S116": 1
+  },
+  "shieldStats": {
+   "anchors": 340,
+   "placed": 5,
+   "byRef": {
+    "S116": 1,
+    "S117": 1,
+    "A10": 1,
+    "S100": 1,
+    "S118": 1
+   },
+   "ms": 10.5,
+   "worstMs": 52.1,
+   "plans": 96
+  },
+  "pills": [
+   "Canal Ring Area of Amsterdam",
+   "Artis",
+   "Hollandsche Schouwburg",
+   "Micropia",
+   "Auschwitz Memorial",
+   "Luther Museum Amsterdam"
+  ],
+  "markers": 0
+ }
+]
