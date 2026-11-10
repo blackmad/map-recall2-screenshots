@@ -1,0 +1,135 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012157426",
+ "route": "recipe",
+ "routeWhy": "--recipe spec-0363100012157426",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.87382699709051,
+   52.37210000224179
+  ],
+  "b": [
+   4.873826997089513,
+   52.37215500224257
+  ],
+  "lengthM": 6.08,
+  "source": "pand-reference/select.ts pickWall: longest wall on the nearest road"
+ },
+ "groundZ": 0,
+ "house": "spec-0363100012157426",
+ "glb": "artifacts/building-recipes/spec-0363100012157426/model.glb",
+ "triangles": 2736,
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.87,
+  "lines": [
+   0,
+   3.2,
+   6.118,
+   9.037,
+   11.955,
+   14.873
+  ]
+ },
+ "render": {
+  "wall": "#8c7867",
+  "wallRaw": "#96816f",
+  "material": "brick",
+  "glazing": 0.675,
+  "storeyGlazing": [
+   null,
+   1,
+   0.557,
+   0.507,
+   0.531
+  ],
+  "columns": 3,
+  "windowColumns": 3,
+  "pitchM": 1.816,
+  "window": {
+   "w": 0.6,
+   "h": 1,
+   "sill": 0,
+   "aspect": 2.68,
+   "shape": "tall"
+  },
+  "frontClass": "columns",
+  "usable": 0.919,
+  "foliage": 0,
+  "washedOut": 0.204
+ },
+ "photo": {
+  "file": "../../map-recall2-source-data/block-face-strips/nassau-145-152/strip.jpg",
+  "kind": "block-face strip nassau-145-152 2024-11-21 (40 px/m)",
+  "measure": {
+   "wall": "#766243",
+   "wallRaw": "#766243",
+   "material": "brick",
+   "glazing": 0,
+   "storeyGlazing": [
+    null,
+    0,
+    0,
+    0,
+    0
+   ],
+   "columns": 3,
+   "windowColumns": 3,
+   "pitchM": 1.857,
+   "window": null,
+   "frontClass": "blank",
+   "usable": 0.72,
+   "foliage": 0.299,
+   "washedOut": 0.031
+  }
+ },
+ "verdict": {
+  "verdict": "NO EVIDENCE",
+  "reasons": [
+   "reference foliage 30 % > 25 %"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#8c7867",
+   "b": "#766243",
+   "dL": 0.114,
+   "dHue": -8.9,
+   "pass": true
+  },
+  "glazing": {
+   "a": 0.675,
+   "b": 0,
+   "diff": 0.675,
+   "pass": false
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": 3,
+   "b": 3,
+   "pass": null
+  },
+  "window": {
+   "a": "tall",
+   "b": null,
+   "pass": null
+  },
+  "classes": {
+   "a": "columns",
+   "b": "blank"
+  }
+ },
+ "timings": {
+  "compile": 3350,
+  "raster": 2332,
+  "threeq": 514,
+  "photo": 691
+ }
+}

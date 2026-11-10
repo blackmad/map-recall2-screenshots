@@ -1,0 +1,150 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012116526",
+ "route": "installed",
+ "routeWhy": "--chunk clercq-236681: the compiled, not installed staging/block-face chunk",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873878997094355,
+   52.37187900223877
+  ],
+  "b": [
+   4.8738449970923945,
+   52.3719930022403
+  ],
+  "lengthM": 12.81,
+  "source": "pand-reference/select.ts pickWall: longest wall on the nearest road"
+ },
+ "groundZ": 0,
+ "installed": {
+  "key": "chunk-face-clercq-236681",
+  "glb": "staging/block-face/clercq-236681/chunk.glb",
+  "anchor": [
+   4.873450301959339,
+   52.37176734875895
+  ],
+  "northOffsetDegrees": 338.9669,
+  "mirror": false,
+  "source": "staging/block-face/clercq-236681/manifest-entry.json",
+  "triangles": 27660
+ },
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.75,
+  "lines": [
+   0,
+   3.2,
+   6.088,
+   8.977,
+   11.865,
+   14.753
+  ]
+ },
+ "render": {
+  "wall": "#7f6259",
+  "wallRaw": "#8a6b61",
+  "material": "brick",
+  "glazing": 0.336,
+  "storeyGlazing": [
+   null,
+   0.305,
+   0.275,
+   0.257,
+   0.408
+  ],
+  "columns": 6,
+  "windowColumns": 6,
+  "pitchM": 2.001,
+  "window": {
+   "w": 0.55,
+   "h": 0.55,
+   "sill": 0.25,
+   "aspect": 1.44,
+   "shape": "tall"
+  },
+  "frontClass": "punched",
+  "usable": 0.975,
+  "foliage": 0,
+  "washedOut": 0.13
+ },
+ "photo": {
+  "file": "../../map-recall2-source-data/block-face-strips/nassau-145-152/strip.jpg",
+  "kind": "block-face strip nassau-145-152 2024-11-21 (40 px/m)",
+  "measure": {
+   "wall": "#5f4932",
+   "wallRaw": "#5f4932",
+   "material": "brick",
+   "glazing": 0.302,
+   "storeyGlazing": [
+    null,
+    0.391,
+    0.302,
+    0.238,
+    0.305
+   ],
+   "columns": 7,
+   "windowColumns": 7,
+   "pitchM": 1.687,
+   "window": {
+    "w": 0.6,
+    "h": 0.85,
+    "sill": 0.15,
+    "aspect": 2.43,
+    "shape": "tall"
+   },
+   "frontClass": "punched",
+   "usable": 0.794,
+   "foliage": 0.187,
+   "washedOut": 0.003
+  }
+ },
+ "verdict": {
+  "verdict": "FAIL",
+  "reasons": [
+   "wall dL +0.14"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#7f6259",
+   "b": "#5f4932",
+   "dL": 0.139,
+   "dHue": -16.5,
+   "pass": false
+  },
+  "glazing": {
+   "a": 0.336,
+   "b": 0.302,
+   "diff": 0.034,
+   "pass": true
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": 6,
+   "b": 7,
+   "pass": true
+  },
+  "window": {
+   "a": "tall",
+   "b": "tall",
+   "pass": true
+  },
+  "classes": {
+   "a": "punched",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "glb": 26,
+  "raster": 693,
+  "threeq": 785,
+  "photo": 690
+ }
+}

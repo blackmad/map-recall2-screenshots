@@ -1,0 +1,169 @@
+{
+ "pandId": "0363100012161422",
+ "address": "Nassaukade 149",
+ "route": "recipe",
+ "note": null,
+ "handSpec": {
+  "schemaVersion": 1,
+  "pandId": "0363100012161422",
+  "address": "Nassaukade 149",
+  "design": {
+   "palette": {
+    "wallMaterial": "painted-brick"
+   }
+  },
+  "provenance": {
+   "palette/wallMaterial": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: dark painted brick: confirms the face and the H5h hand set",
+    "at": "2026-11-10"
+   }
+  }
+ },
+ "reading": {
+  "address": "Nassaukade 149",
+  "photo": "block-face strip nassau-145-152 2024-11-21",
+  "fields": {
+   "palette/wallMaterial": "painted-brick"
+  },
+  "why": {
+   "palette/wallMaterial": "dark painted brick: confirms the face and the H5h hand set"
+  },
+  "limits": []
+ },
+ "resolved": {
+  "tile": "8413/5384",
+  "d": {
+   "fronts": [
+    {
+     "balconies": {
+      "storeys": [
+       1,
+       2
+      ],
+      "bays": [
+       1
+      ],
+      "style": "timber-bracketed",
+      "rail": "turned"
+     },
+     "bandHeights": {
+      "sill": 0.15,
+      "transom": 0.13
+     },
+     "bandLines": [
+      "sill",
+      "transom"
+     ],
+     "bandTransomAt": 0.65,
+     "bands": "painted",
+     "basement": "none",
+     "bayWidths": [
+      1,
+      1.8
+     ],
+     "bays": 2,
+     "cornice": "heavy",
+     "doorBay": 0,
+     "dormerAt": [
+      {
+       "from": 0.42,
+       "to": 0.68
+      }
+     ],
+     "dormerStyle": "pointed",
+     "dormers": 1,
+     "gable": "cornice",
+     "headLines": [
+      0.86,
+      0.759,
+      0.718,
+      0.716
+     ],
+     "hoist": false,
+     "id": "front0",
+     "partyClip": true,
+     "storeys": 4,
+     "street": "Nassaukade",
+     "tallGround": true,
+     "windowHeights": [
+      0.6,
+      0.64,
+      0.651,
+      0.65
+     ],
+     "windowSills": "consoles",
+     "windowSurround": "eared-keystone",
+     "windows": "t-window"
+    }
+   ],
+   "roof": {
+    "material": "slate"
+   },
+   "palette": {
+    "brick": "#6a685d",
+    "cornice": "white-painted",
+    "door": "#1f2324",
+    "frame": "white-painted",
+    "stone": "#f5f1e7",
+    "stoneMaterial": "painted",
+    "wallMaterial": "painted-brick"
+   },
+   "notes": [
+    "type nassau-1900-two-axis-balcony: crown pointed-dormer, palette grey-paint"
+   ]
+  },
+  "s": {
+   "fronts/0/balconies": "streetlevel-measured",
+   "fronts/0/bandHeights": "streetlevel-measured",
+   "fronts/0/bandLines": "streetlevel-measured",
+   "fronts/0/bandTransomAt": "streetlevel-measured",
+   "fronts/0/bands": "streetlevel-measured",
+   "fronts/0/basement": "streetlevel-measured",
+   "fronts/0/bayWidths": "streetlevel-measured",
+   "fronts/0/bays": "streetlevel-measured",
+   "fronts/0/cornice": "streetlevel-measured",
+   "fronts/0/doorBay": "streetlevel-measured",
+   "fronts/0/dormerAt": "streetlevel-measured",
+   "fronts/0/dormerStyle": "streetlevel-measured",
+   "fronts/0/dormers": "streetlevel-measured",
+   "fronts/0/gable": "streetlevel-measured",
+   "fronts/0/headLines": "streetlevel-measured",
+   "fronts/0/hoist": "streetlevel-measured",
+   "fronts/0/id": "streetlevel-measured",
+   "fronts/0/partyClip": "streetlevel-measured",
+   "fronts/0/storeys": "streetlevel-measured",
+   "fronts/0/street": "streetlevel-measured",
+   "fronts/0/tallGround": "streetlevel-measured",
+   "fronts/0/windowHeights": "streetlevel-measured",
+   "fronts/0/windowSills": "streetlevel-measured",
+   "fronts/0/windowSurround": "streetlevel-measured",
+   "fronts/0/windows": "streetlevel-measured",
+   "roof/material": "streetlevel-measured",
+   "palette/brick": "streetlevel-measured",
+   "palette/cornice": "streetlevel-measured",
+   "palette/door": "streetlevel-measured",
+   "palette/frame": "streetlevel-measured",
+   "palette/stone": "streetlevel-measured",
+   "palette/stoneMaterial": "streetlevel-measured",
+   "palette/wallMaterial": "author",
+   "notes": "streetlevel-measured",
+   "facts/pui": "streetlevel-measured"
+  },
+  "r": "recipe",
+  "v": {
+   "src": {
+    "wallMaterial": "author",
+    "wallHex": "streetlevel-measured",
+    "bays": "streetlevel-measured"
+   },
+   "wallMaterial": "painted-brick",
+   "wallHex": "#6a685d",
+   "bays": 2
+  },
+  "x": {
+   "pui": "residential"
+  }
+ }
+}

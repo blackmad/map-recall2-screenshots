@@ -1,0 +1,9 @@
+{
+ "pandId": "0363100012116526",
+ "address": "Nassaukade 151-152 (corner)",
+ "route": "chunk",
+ "note": "multi-front pand: the Nassaukade front added to chunk-face-clercq-236681 (block-face route), not a HouseSpec; installs with the clercq chunk",
+ "handSpec": null,
+ "reading": null,
+ "resolved": null
+}

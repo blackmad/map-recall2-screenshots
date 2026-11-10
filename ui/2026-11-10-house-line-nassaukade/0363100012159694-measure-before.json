@@ -1,0 +1,181 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012159694",
+ "route": "generic",
+ "routeWhy": "default: no installed model covers the pand",
+ "shader": "lit",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "look": "photo",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873836997087292,
+   52.372276002244355
+  ],
+  "b": [
+   4.873847997086298,
+   52.37232900224515
+  ],
+  "lengthM": 5.91,
+  "source": "pand-reference/select.ts pickWall: longest wall on the nearest road"
+ },
+ "groundZ": 0,
+ "chunk": {
+  "buildings": 30,
+  "contextNeighbours": 6,
+  "vertices": 24131,
+  "ownVertices": 1006,
+  "triangles": 8189,
+  "wholeTile": false
+ },
+ "atlas": {
+  "file": "artifacts/house-preview/atlas-photo-256-c0a9e6d8cd3235cc.bin",
+  "painted": false
+ },
+ "properties": {
+  "id": "NL.IMBAG.Pand.0363100012159694",
+  "tier": 3,
+  "minHeight": 0,
+  "height": 17.23,
+  "constructionYear": 1900,
+  "roofSlot": "zinc",
+  "roofMeasured": "#b5b5b5",
+  "roofConfidence": 1,
+  "roofDormer": false,
+  "houseSpec": {
+   "src": {
+    "wallHex": "streetlevel-measured",
+    "bays": "streetlevel-measured"
+   },
+   "wallHex": "#b58c6f",
+   "bays": 2
+  },
+  "sideColour": "#cdc3ae",
+  "groundColour": "#cdc3ae",
+  "groundFloorHeightM": 3.2,
+  "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+  "wallAppearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+  "groundAppearanceStyleSource": "wall-inherited-not-independently-measured",
+  "roofColour": "#56585e",
+  "roofAppearanceStyleSource": "citywide-flat-cap-palette-v3-not-measured",
+  "facade": "c19-priorPlaster",
+  "facadeStyle": "c19",
+  "roofPlanned": true,
+  "roofShape": "mansard",
+  "roofEavesHeightM": 14.63,
+  "shopQuiet": true
+ },
+ "overrides": null,
+ "heights": {
+  "topM": 18,
+  "eavesM": 14.63,
+  "lines": [
+   0,
+   3.2,
+   6.058,
+   8.915,
+   11.773,
+   14.63
+  ]
+ },
+ "render": {
+  "wall": "#3f1f12",
+  "wallRaw": "#341b0f",
+  "material": "paint",
+  "glazing": 0.857,
+  "storeyGlazing": [
+   null,
+   0.608,
+   0.999,
+   0.999,
+   0.858
+  ],
+  "columns": 2,
+  "windowColumns": 2,
+  "pitchM": 2.542,
+  "window": null,
+  "frontClass": "curtain",
+  "usable": 0.978,
+  "foliage": 0,
+  "washedOut": 0.108
+ },
+ "photo": {
+  "file": "../../map-recall2-source-data/block-face-strips/nassau-145-152/strip.jpg",
+  "kind": "block-face strip nassau-145-152 2024-11-21 (40 px/m)",
+  "measure": {
+   "wall": "#9e7350",
+   "wallRaw": "#b9875c",
+   "material": "brick",
+   "glazing": 0.32,
+   "storeyGlazing": [
+    null,
+    0.431,
+    0.427,
+    0.057,
+    0.221
+   ],
+   "columns": 3,
+   "windowColumns": 3,
+   "pitchM": 2.081,
+   "window": {
+    "w": 0.45,
+    "h": 0.5,
+    "sill": 0,
+    "aspect": 1.53,
+    "shape": "tall"
+   },
+   "frontClass": "punched",
+   "usable": 0.646,
+   "foliage": 0.339,
+   "washedOut": 0.221
+  }
+ },
+ "verdict": {
+  "verdict": "NO EVIDENCE",
+  "reasons": [
+   "reference foliage 34 % > 25 %"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#3f1f12",
+   "b": "#9e7350",
+   "dL": -0.308,
+   "dHue": -9.6,
+   "pass": false
+  },
+  "glazing": {
+   "a": 0.857,
+   "b": 0.32,
+   "diff": 0.537,
+   "pass": false
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": 2,
+   "b": 3,
+   "pass": false
+  },
+  "window": {
+   "a": null,
+   "b": "tall",
+   "pass": false
+  },
+  "classes": {
+   "a": "curtain",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "tiles": 326,
+  "context": 244,
+  "chunk": 57,
+  "atlas": 69,
+  "raster": 579,
+  "photo": 388
+ }
+}

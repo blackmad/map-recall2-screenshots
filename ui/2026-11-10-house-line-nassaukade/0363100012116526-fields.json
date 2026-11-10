@@ -1,0 +1,119 @@
+[
+ {
+  "field": "fronts/1/gable",
+  "value": "cornice",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "the crown: stepped, neck, bell or a cornice line"
+ },
+ {
+  "field": "fronts/1/dormers",
+  "value": 2,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "dormer count"
+ },
+ {
+  "field": "fronts/1/dormerStyle",
+  "value": "pediment",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "dormer form (pediment...)"
+ },
+ {
+  "field": "fronts/1/dormerAt",
+  "value": [
+   {
+    "from": 0.24,
+    "to": 0.38
+   },
+   {
+    "from": 0.68,
+    "to": 0.82
+   }
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "dormer positions along the front"
+ },
+ {
+  "field": "fronts/1/storeys",
+  "value": 5,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "number of full street storeys"
+ },
+ {
+  "field": "fronts/1/bays",
+  "value": 6,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "window axes per storey"
+ },
+ {
+  "field": "fronts/1/doorBay",
+  "value": 5,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "which axis holds the door"
+ },
+ {
+  "field": "fronts/1/basement",
+  "value": "none",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "souterrain/stoop treatment of the base"
+ },
+ {
+  "field": "fronts/1/tallGround",
+  "value": true,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "taller ground storey"
+ },
+ {
+  "field": "fronts/1/cornice",
+  "value": "bracketed",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "cornice style at the eaves"
+ },
+ {
+  "field": "fronts/1/windows",
+  "value": "t-window",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "window kind (T-window, sash, cross...)"
+ },
+ {
+  "field": "fronts/1/windowSurround",
+  "value": "keystone",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "surrounds round each window (keystone, eared...)"
+ },
+ {
+  "field": "fronts/1/shopfront",
+  "value": {
+   "colour": "#1c1d1f",
+   "fascia": false,
+   "bays": [
+    0,
+    2
+   ],
+   "stallriser": "low",
+   "glazing": "transom",
+   "evidence": "strip.jpg 2024-11-21: black-framed bar front over the three left axes, a chalk board, no legible sign; BAG bijeenkomstfunctie, no OSM node"
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "shop front: glazing, fascia, stallriser"
+ },
+ {
+  "field": "fronts/1/hoist",
+  "value": false,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012116526 (strip 2024-11-21), copied to clercq-236681 front \"nassaukade\" by lane H7",
+  "changed": "hoist beam in the crown"
+ }
+]

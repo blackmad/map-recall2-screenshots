@@ -1,0 +1,695 @@
+{
+ "lane": "H7 #354",
+ "batch": "pilot-20261110",
+ "clock": "local wall time 2026-11-10, the user's Mac, load average 17-22 (other lanes)",
+ "events": [
+  "16:05 start lane",
+  "16:07 worktree was pruned by triage (branch == main); recreated, stub commit",
+  "16:10:15 crops start",
+  "16:13:21 crops done: AE03 54s/7, EQ01 41s/7; judge start",
+  "16:14:30 before previews start",
+  "16:14:34 before previews done",
+  "16:15:40 before previews done",
+  "16:21:31 NM recropped with --prefer-bearing 114 (3 runs 51+40+36 s; code fix in select.ts); rejudge+describe NM",
+  "16:23:05 start hand reads (BG)",
+  "16:26:57 116526 chunk extension compiled+previewed (~25 min incl. --chunk flag)",
+  "16:28:20 readings written for 18 pands (not staged: 174173 tree, 174177 crop disagrees w/ register, 160704 recipe compile fails, 116526 chunk route)",
+  "16:28:40 after previews start",
+  "16:30:44 stage start",
+  "16:32:20 staged 18; publish dry-run",
+  "16:32:53 world:compile --shell baseline start",
+  "16:33:21 before ride frames queued under lock"
+ ],
+ "summary": {
+  "firstCropToLastStage": "16:10 -> 16:32 = 22 min for 22 houses (18 staged, the corner by the chunk route, 3 not staged); includes the --prefer-bearing and resolved.ts fixes and the corner chunk (about 6 min)",
+  "medianPerHouseMin": 1.0,
+  "distribution": "Nieuwmarkt ~1.4 min/house (crop + 3 re-crops 3 min, code fix 3 min), Bloemgracht ~0.8 min/house (crops existed), Nassaukade ~1 min/house plus 6 min for the corner",
+  "note": "reading and correcting was done per row from contact strips of the compare sheets, not one house at a time; the per-house minutes are the row time divided by its houses"
+ },
+ "houses": [
+  {
+   "pand": "0363100012171851",
+   "row": "NM",
+   "address": "Nieuwmarkt 6",
+   "cropS": 25.9,
+   "describeS": 1.07,
+   "previewBeforeMs": {
+    "tiles": 474,
+    "context": 263,
+    "chunk": 55,
+    "atlas": 85,
+    "raster": 99,
+    "photo": 599
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: confirms the register (rce) step gable on the photo",
+    "fronts/0/bays: two window axes above the shop (held)",
+    "palette/wallMaterial: bare orange-red brick, no paint"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "palette",
+     "what": "speklagen: white stone bands through the step gable (generic path has no band component)"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012171854",
+   "row": "NM",
+   "address": "Nieuwmarkt 8 (BAG wall of 171854; the crop shows the dark grey painted front with a white cornice the user's photo labels 12)",
+   "cropS": 25.9,
+   "describeS": 0.93,
+   "previewBeforeMs": {
+    "tiles": 549,
+    "context": 250,
+    "chunk": 65,
+    "atlas": 73,
+    "raster": 131
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: straight white cornice on the photo; the register's bell for no. 8 does not match this BAG wall (address-to-pand link suspect)",
+    "fronts/0/bays: three axes (held)"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "palette",
+     "what": "dark grey painted brick: palette/wallMaterial painted-brick maps to the generic 'light' finish (decorate.ts), the wrong way for a dark painted front; not stated"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012182849",
+   "row": "NM",
+   "address": "Nieuwmarkt 10-12",
+   "cropS": 25.9,
+   "describeS": 0.64,
+   "previewBeforeMs": {
+    "tiles": 413,
+    "context": 260,
+    "chunk": 69,
+    "atlas": 81,
+    "raster": 118,
+    "photo": 291
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: two axes (held)",
+    "palette/wallMaterial: orange brick with a white cornice; the generic path drew grey stucco"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "gable ornament",
+     "what": "cornice with a crowned central dormer (attic window under a pediment)"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012182848",
+   "row": "NM",
+   "address": "Nieuwmarkt 14",
+   "cropS": 25.9,
+   "describeS": 0.65,
+   "previewBeforeMs": {
+    "tiles": 470,
+    "context": 315,
+    "chunk": 69,
+    "atlas": 76,
+    "raster": 128,
+    "photo": 276
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: bell gable with white scroll pieces, confirms the register",
+    "fronts/0/bays: two axes (held)",
+    "palette/wallMaterial: orange brick; the generic path drew a near-black wall"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "gable ornament",
+     "what": "white sandstone scroll pieces (klauwstukken) beside the bell"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012182847",
+   "row": "NM",
+   "address": "Nieuwmarkt 16",
+   "cropS": 25.9,
+   "describeS": 0.67,
+   "previewBeforeMs": {
+    "tiles": 430,
+    "context": 236,
+    "chunk": 61,
+    "atlas": 73,
+    "raster": 150,
+    "photo": 298
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.33,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: neck gable, confirms the register",
+    "fronts/0/bays: three axes (held)",
+    "palette/wallMaterial: brick"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012182858",
+   "row": "NM",
+   "address": "Nieuwmarkt 18",
+   "cropS": 25.9,
+   "describeS": 0.69,
+   "previewBeforeMs": {
+    "tiles": 449,
+    "context": 234,
+    "chunk": 80,
+    "atlas": 72,
+    "raster": 70
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.35,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: bell gable with scrolls on the photo; the register text says 'plain', monument-gables.json says bell; the photo decides",
+    "fronts/0/bays: three axes (held)",
+    "palette/wallMaterial: brick"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "gable ornament",
+     "what": "scroll pieces and a crowning piece on the bell"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012182857",
+   "row": "NM",
+   "address": "Nieuwmarkt 20-22",
+   "cropS": 25.9,
+   "describeS": 0.81,
+   "previewBeforeMs": {
+    "tiles": 510,
+    "context": 253,
+    "chunk": 67,
+    "atlas": 71,
+    "raster": 255,
+    "photo": 503
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.33,
+   "staged": true,
+   "handFields": [
+    "fronts/0/gable: step gables, confirms the register",
+    "fronts/0/bays: five axes over the shop storey (2 + 1 + 2; held)",
+    "palette/wallMaterial: brick with white bands"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "gable",
+     "what": "twin step gables on one pand (1605): one front draws one crown"
+    },
+    {
+     "component": "palette",
+     "what": "speklagen and white relieving-arch blocks over every window (Hendrick de Keyser style)"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012167952",
+   "row": "BG",
+   "address": "Bloemgracht 121",
+   "cropS": 0,
+   "describeS": 0.68,
+   "previewBeforeMs": {
+    "tiles": 541,
+    "context": 244,
+    "chunk": 90,
+    "atlas": 72,
+    "raster": 555,
+    "photo": 357
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.39,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes, agrees with Jev 3 (held)"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "palette",
+     "what": "near-black painted brick: no drawable finish for a dark painted front (painted-brick maps to 'light'; wall colours held)"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012167951",
+   "row": "BG",
+   "address": "Bloemgracht 123",
+   "cropS": 0,
+   "describeS": 0.65,
+   "previewBeforeMs": {
+    "tiles": 539,
+    "context": 244,
+    "chunk": 83,
+    "atlas": 71,
+    "raster": 537,
+    "photo": 267
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.33,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes, agrees with Jev (held)",
+    "facts/pui: garage/shop front (GARAGE BAKKER) on the ground storey"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "palette",
+     "what": "dark grey painted brick (as 121)"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012174173",
+   "row": "BG",
+   "address": null,
+   "cropS": 0,
+   "describeS": 0.68,
+   "previewBeforeMs": {
+    "tiles": 552,
+    "context": 246,
+    "chunk": 71,
+    "atlas": 70,
+    "raster": 629,
+    "photo": 450
+   },
+   "readAndCorrectMin": 0.5,
+   "previewIterations": 0,
+   "stageS": null,
+   "staged": false,
+   "handFields": [],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012174177",
+   "row": "BG",
+   "address": null,
+   "cropS": 0,
+   "describeS": 0.64,
+   "previewBeforeMs": {
+    "tiles": 548,
+    "context": 248,
+    "chunk": 72,
+    "atlas": 86,
+    "raster": 606,
+    "photo": 352
+   },
+   "readAndCorrectMin": 0.5,
+   "previewIterations": 0,
+   "stageS": null,
+   "staged": false,
+   "handFields": [],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012168006",
+   "row": "BG",
+   "address": "Bloemgracht (168006)",
+   "cropS": 0,
+   "describeS": 0.67,
+   "previewBeforeMs": {
+    "tiles": 534,
+    "context": 242,
+    "chunk": 64,
+    "atlas": 68,
+    "raster": 589,
+    "photo": 392
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 2,
+   "stageS": 0.34,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes; the preview measured 3 vs 3 but the render draws 2 window columns plus a door column (held)",
+    "palette/brick: charcoal painted wall (houseLine photo wall #524b4f under a grey sky, darkened to the shadowed patch); the strip-measured #030403 drew GREEN on the recipe route (lightness clamp on a near-black hex)",
+    "roof/material: grey slate hipped roof on the photo; the recipe drew red pantiles"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [
+    "palette/brick (writer missed it: the strip hex #030403 drew green on the recipe route)",
+    "roof/material (writer missed it: red pantiles vs slate)"
+   ],
+   "schemaLimits": [
+    {
+     "component": "palette",
+     "what": "black painted brick with a white cornice band: verdict PASS on a red render because both walls are unsaturated (no hue test) and dL 0.05"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012167885",
+   "row": "BG",
+   "address": "Bloemgracht (167885, wide front)",
+   "cropS": 0,
+   "describeS": 0.69,
+   "previewBeforeMs": {
+    "tiles": 534,
+    "context": 287,
+    "chunk": 77,
+    "atlas": 96,
+    "raster": 645,
+    "photo": 482
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "palette/wallMaterial: dark brown brick; the generic path drew white stucco (dL 0.44)"
+   ],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012174828",
+   "row": "BG",
+   "address": "Bloemgracht (174828)",
+   "cropS": 0,
+   "describeS": 0.64,
+   "previewBeforeMs": {
+    "tiles": 534,
+    "context": 246,
+    "chunk": 58,
+    "atlas": 66,
+    "raster": 534,
+    "photo": 303
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.33,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes (held)",
+    "palette/wallMaterial: brick; the generic path drew white stucco"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "gable",
+     "what": "pointed top read but not classed (neck or spout) from a winter-tree crop; left to the register"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012174833",
+   "row": "BG",
+   "address": "Bloemgracht (174833)",
+   "cropS": 0,
+   "describeS": 0.64,
+   "previewBeforeMs": {
+    "tiles": 507,
+    "context": 247,
+    "chunk": 55,
+    "atlas": 89,
+    "raster": 533,
+    "photo": 294
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: two axes (held)",
+    "palette/wallMaterial: dark brick; the generic path drew white stucco (dL 0.47)"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012116526",
+   "row": "NK",
+   "address": null,
+   "cropS": 5.9,
+   "describeS": 1.28,
+   "previewBeforeMs": {
+    "glb": 28,
+    "raster": 750,
+    "photo": 710
+   },
+   "readAndCorrectMin": 0.5,
+   "previewIterations": 0,
+   "stageS": null,
+   "staged": false,
+   "handFields": [],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012164843",
+   "row": "NK",
+   "address": "Nassaukade 150",
+   "cropS": 5.9,
+   "describeS": 0.69,
+   "previewBeforeMs": {
+    "tiles": 329,
+    "context": 235,
+    "chunk": 55,
+    "atlas": 71,
+    "raster": 568,
+    "photo": 405
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes, the centre a balcony stack: confirms the face",
+    "palette/wallMaterial: dark painted brick: confirms the face and the H5h hand set"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "window head",
+     "what": "storey-3 round arches with keystones and springers read over each window; the recipe draws dark semicircles above a lintel course"
+    },
+    {
+     "component": "balcony",
+     "what": "bracketed timber balcony boxes; drawn as thin turned rails"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012161422",
+   "row": "NK",
+   "address": "Nassaukade 149",
+   "cropS": 5.9,
+   "describeS": 0.66,
+   "previewBeforeMs": {
+    "tiles": 326,
+    "context": 238,
+    "chunk": 56,
+    "atlas": 67,
+    "raster": 570,
+    "photo": 388
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "palette/wallMaterial: dark painted brick: confirms the face and the H5h hand set"
+   ],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012157426",
+   "row": "NK",
+   "address": "Nassaukade 148",
+   "cropS": 5.9,
+   "describeS": 1.06,
+   "previewBeforeMs": {
+    "tiles": 330,
+    "context": 233,
+    "chunk": 56,
+    "atlas": 71,
+    "raster": 569,
+    "photo": 408
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.33,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes, agrees with Jev 3 and the face"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "balcony",
+     "what": "cast-iron grille balconies drawn as plain rails"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012160273",
+   "row": "NK",
+   "address": "Nassaukade 147",
+   "cropS": 5.9,
+   "describeS": 0.99,
+   "previewBeforeMs": {
+    "tiles": 324,
+    "context": 241,
+    "chunk": 59,
+    "atlas": 70,
+    "raster": 614,
+    "photo": 483
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: three axes, agrees with Jev 3",
+    "palette/wallMaterial: dark painted brick: confirms the face and the H5h hand set"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": [
+    {
+     "component": "roof",
+     "what": "bell-shaped mansard drawn straight"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012160704",
+   "row": "NK",
+   "address": null,
+   "cropS": 5.9,
+   "describeS": 0.56,
+   "previewBeforeMs": {
+    "tiles": 326,
+    "context": 254,
+    "chunk": 60,
+    "atlas": 70,
+    "raster": 526,
+    "photo": 319
+   },
+   "readAndCorrectMin": 0.5,
+   "previewIterations": 0,
+   "stageS": null,
+   "staged": false,
+   "handFields": [],
+   "heldFields": [],
+   "writerMissed": [],
+   "schemaLimits": []
+  },
+  {
+   "pand": "0363100012159694",
+   "row": "NK",
+   "address": "Nassaukade 145",
+   "cropS": 5.9,
+   "describeS": 0.68,
+   "previewBeforeMs": {
+    "tiles": 326,
+    "context": 244,
+    "chunk": 57,
+    "atlas": 69,
+    "raster": 579,
+    "photo": 388
+   },
+   "readAndCorrectMin": 1.0,
+   "previewIterations": 1,
+   "stageS": 0.32,
+   "staged": true,
+   "handFields": [
+    "fronts/0/bays: two axes with the balcony stack: confirms the face"
+   ],
+   "heldFields": [
+    "fronts/0/bays"
+   ],
+   "writerMissed": [],
+   "schemaLimits": []
+  }
+ ]
+}
