@@ -1,0 +1,176 @@
+{
+ "pandId": "0363100012157426",
+ "address": "Nassaukade 148",
+ "route": "recipe",
+ "note": null,
+ "handSpec": {
+  "schemaVersion": 1,
+  "pandId": "0363100012157426",
+  "address": "Nassaukade 148",
+  "design": {
+   "fronts": [
+    {
+     "bays": 3
+    }
+   ]
+  },
+  "provenance": {
+   "fronts/0/bays": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: three axes, agrees with Jev 3 and the face",
+    "at": "2026-11-10"
+   }
+  },
+  "schemaLimits": [
+   {
+    "component": "balcony",
+    "what": "cast-iron grille balconies drawn as plain rails"
+   }
+  ]
+ },
+ "reading": {
+  "address": "Nassaukade 148",
+  "photo": "block-face strip nassau-145-152 2024-11-21",
+  "fields": {
+   "fronts/0/bays": 3
+  },
+  "why": {
+   "fronts/0/bays": "three axes, agrees with Jev 3 and the face"
+  },
+  "limits": [
+   {
+    "component": "balcony",
+    "what": "cast-iron grille balconies drawn as plain rails"
+   }
+  ]
+ },
+ "resolved": {
+  "tile": "8413/5384",
+  "d": {
+   "fronts": [
+    {
+     "balconies": {
+      "storeys": [
+       1,
+       3
+      ],
+      "bays": [
+       1
+      ],
+      "style": "timber-bracketed",
+      "rail": "iron",
+      "styleStoreys": [
+       1
+      ]
+     },
+     "bandHeights": {
+      "sill": 0.15,
+      "transom": 0.13
+     },
+     "bandLines": [
+      "sill",
+      "transom"
+     ],
+     "bandTransomAt": 0.65,
+     "bands": "painted",
+     "basement": "none",
+     "bays": 3,
+     "cornice": "heavy",
+     "doorBay": 0,
+     "dormerStyle": "pointed",
+     "dormers": 1,
+     "gable": "cornice",
+     "headLines": [
+      0.86,
+      0.744,
+      0.733,
+      0.716
+     ],
+     "hoist": false,
+     "id": "front0",
+     "partyClip": true,
+     "storeys": 4,
+     "street": "Nassaukade",
+     "tallGround": true,
+     "windowHeights": [
+      0.6,
+      0.611,
+      0.636,
+      0.647
+     ],
+     "windowSills": "consoles",
+     "windowSurround": "eared-keystone",
+     "windows": "t-window"
+    }
+   ],
+   "roof": {
+    "material": "slate"
+   },
+   "palette": {
+    "brick": "#665648",
+    "cornice": "white-painted",
+    "door": "#1f2324",
+    "frame": "white-painted",
+    "stone": "#eeeae0",
+    "stoneMaterial": "painted"
+   },
+   "notes": [
+    "type nassau-1900-three-axis: crown pointed-dormer, palette dark-brown-brick",
+    "type deviations: balconies {\"storeys\":[1,3],\"bays\":[1],\"style\":\"timber-bracketed\",\"rail\":\"iron\",\"styleStoreys\":[1]} (type: {\"storeys\":[3],\"bays\":[1]}); palette {\"brick\":\"#665648\"} (type palette dark-brown-brick)"
+   ]
+  },
+  "s": {
+   "fronts/0/balconies": "streetlevel-measured",
+   "fronts/0/bandHeights": "streetlevel-measured",
+   "fronts/0/bandLines": "streetlevel-measured",
+   "fronts/0/bandTransomAt": "streetlevel-measured",
+   "fronts/0/bands": "streetlevel-measured",
+   "fronts/0/basement": "streetlevel-measured",
+   "fronts/0/bays": "author",
+   "fronts/0/cornice": "streetlevel-measured",
+   "fronts/0/doorBay": "streetlevel-measured",
+   "fronts/0/dormerStyle": "streetlevel-measured",
+   "fronts/0/dormers": "streetlevel-measured",
+   "fronts/0/gable": "streetlevel-measured",
+   "fronts/0/headLines": "streetlevel-measured",
+   "fronts/0/hoist": "streetlevel-measured",
+   "fronts/0/id": "streetlevel-measured",
+   "fronts/0/partyClip": "streetlevel-measured",
+   "fronts/0/storeys": "streetlevel-measured",
+   "fronts/0/street": "streetlevel-measured",
+   "fronts/0/tallGround": "streetlevel-measured",
+   "fronts/0/windowHeights": "streetlevel-measured",
+   "fronts/0/windowSills": "streetlevel-measured",
+   "fronts/0/windowSurround": "streetlevel-measured",
+   "fronts/0/windows": "streetlevel-measured",
+   "roof/material": "streetlevel-measured",
+   "palette/brick": "streetlevel-measured",
+   "palette/cornice": "streetlevel-measured",
+   "palette/door": "streetlevel-measured",
+   "palette/frame": "streetlevel-measured",
+   "palette/stone": "streetlevel-measured",
+   "palette/stoneMaterial": "streetlevel-measured",
+   "notes": "streetlevel-measured",
+   "facts/pui": "streetlevel-measured"
+  },
+  "r": "recipe",
+  "v": {
+   "src": {
+    "wallHex": "streetlevel-measured",
+    "bays": "author"
+   },
+   "wallHex": "#665648",
+   "bays": 3
+  },
+  "x": {
+   "pui": "residential"
+  },
+  "l": [
+   {
+    "component": "balcony",
+    "what": "cast-iron grille balconies drawn as plain rails"
+   }
+  ]
+ }
+}

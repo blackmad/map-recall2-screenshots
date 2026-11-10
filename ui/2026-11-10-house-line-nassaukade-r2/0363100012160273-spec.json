@@ -1,0 +1,247 @@
+{
+ "pandId": "0363100012160273",
+ "address": "Nassaukade 147",
+ "route": "recipe",
+ "note": null,
+ "handSpec": {
+  "schemaVersion": 1,
+  "pandId": "0363100012160273",
+  "address": "Nassaukade 147",
+  "design": {
+   "fronts": [
+    {
+     "bays": 3
+    }
+   ],
+   "palette": {
+    "wallMaterial": "painted-brick"
+   }
+  },
+  "provenance": {
+   "fronts/0/bays": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: three axes, agrees with Jev 3",
+    "at": "2026-11-10"
+   },
+   "palette/wallMaterial": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: dark painted brick: confirms the face and the H5h hand set",
+    "at": "2026-11-10"
+   }
+  },
+  "schemaLimits": [
+   {
+    "component": "roof",
+    "what": "bell-shaped mansard drawn straight"
+   }
+  ]
+ },
+ "reading": {
+  "address": "Nassaukade 147",
+  "photo": "block-face strip nassau-145-152 2024-11-21",
+  "fields": {
+   "fronts/0/bays": 3,
+   "palette/wallMaterial": "painted-brick"
+  },
+  "why": {
+   "fronts/0/bays": "three axes, agrees with Jev 3",
+   "palette/wallMaterial": "dark painted brick: confirms the face and the H5h hand set"
+  },
+  "limits": [
+   {
+    "component": "roof",
+    "what": "bell-shaped mansard drawn straight"
+   }
+  ]
+ },
+ "resolved": {
+  "tile": "8413/5384",
+  "d": {
+   "fronts": [
+    {
+     "balconies": {
+      "storeys": [
+       1,
+       2,
+       3
+      ],
+      "bays": [
+       1
+      ],
+      "storeyBays": {
+       "1": [
+        0,
+        1,
+        2
+       ]
+      },
+      "style": "timber-bracketed",
+      "rail": "iron",
+      "styleStoreys": [
+       1,
+       2
+      ]
+     },
+     "bandHeights": {
+      "sill": 0.15,
+      "head": 0.2
+     },
+     "bandLines": [
+      "sill",
+      "head"
+     ],
+     "bandStoreys": [
+      2,
+      3
+     ],
+     "bandTransomAt": 0.65,
+     "bands": "painted",
+     "basement": "none",
+     "bays": 3,
+     "cornice": "simple",
+     "doorBay": 0,
+     "dormerAt": [
+      {
+       "from": 0.3,
+       "to": 0.7
+      }
+     ],
+     "dormers": 1,
+     "gable": "cornice",
+     "headLines": [
+      0.86,
+      0.75,
+      0.712,
+      0.639
+     ],
+     "hoist": false,
+     "id": "front0",
+     "partyClip": true,
+     "roofFront": "mansard",
+     "storeyHeights": [
+      4.45,
+      3.35,
+      3.3,
+      3.4
+     ],
+     "storeys": 4,
+     "street": "Nassaukade",
+     "surroundStoreys": [
+      1,
+      2
+     ],
+     "tallGround": true,
+     "windowHead": {
+      "kind": "relieving",
+      "storeys": [
+       3
+      ],
+      "archRing": {
+       "colour": "stone",
+       "style": "springers",
+       "keystone": true,
+       "shape": "round",
+       "springGap": 0.2
+      },
+      "tympanum": "dark"
+     },
+     "windowHeights": [
+      0.6,
+      0.635,
+      0.615,
+      0.58
+     ],
+     "windowSills": "consoles",
+     "windowSurround": "eared-keystone",
+     "windows": "t-window"
+    }
+   ],
+   "roof": {
+    "material": "slate"
+   },
+   "palette": {
+    "brick": "#535353",
+    "cornice": "white-painted",
+    "door": "#1f2324",
+    "frame": "white-painted",
+    "stone": "#eeeae0",
+    "stoneMaterial": "painted",
+    "wallMaterial": "painted-brick"
+   },
+   "notes": [
+    "type nassau-1900-three-axis: crown mansard-dormer, palette black-paint",
+    "type deviations: balconies {\"storeys\":[1,2,3],\"bays\":[1],\"storeyBays\":{\"1\":[0,1,2]},\"style\":\"timber-bracketed\",\"rail\":\"iron\",\"styleStoreys\":[1,2]} (type: {\"storeys\":[3],\"bays\":[1]}); surroundStoreys [1,2] (type: unset); windowHead {\"kind\":\"relieving\",\"storeys\":[3],\"archRing\":{\"colour\":\"stone\",\"style\":\"springers\",\"keystone\":true,\"shape\":\"round\",\"springGap\":0.2},\"tympanum\":\"dark\"} (type: unset); windowHeights [0.6,0.635,0.615,0.58] (type: [0.6,0.611,0.636,0.647]); headLines [0.86,0.75,0.712,0.639] (type: [0.86,0.744,0.733,0.716]); bandLines [\"sill\",\"head\"] (type: [\"sill\",\"transom\"]); bandHeights {\"sill\":0.15,\"head\":0.2} (type: {\"sill\":0.15,\"transom\":0.13}); bandStoreys [2,3] (type: unset); storeyHeights [4.45,3.35,3.3,3.4] (type: unset); palette {\"brick\":\"#535353\"} (type palette black-paint)"
+   ]
+  },
+  "s": {
+   "fronts/0/balconies": "streetlevel-measured",
+   "fronts/0/bandHeights": "streetlevel-measured",
+   "fronts/0/bandLines": "streetlevel-measured",
+   "fronts/0/bandStoreys": "streetlevel-measured",
+   "fronts/0/bandTransomAt": "streetlevel-measured",
+   "fronts/0/bands": "streetlevel-measured",
+   "fronts/0/basement": "streetlevel-measured",
+   "fronts/0/bays": "author",
+   "fronts/0/cornice": "streetlevel-measured",
+   "fronts/0/doorBay": "streetlevel-measured",
+   "fronts/0/dormerAt": "streetlevel-measured",
+   "fronts/0/dormers": "streetlevel-measured",
+   "fronts/0/gable": "streetlevel-measured",
+   "fronts/0/headLines": "streetlevel-measured",
+   "fronts/0/hoist": "streetlevel-measured",
+   "fronts/0/id": "streetlevel-measured",
+   "fronts/0/partyClip": "streetlevel-measured",
+   "fronts/0/roofFront": "streetlevel-measured",
+   "fronts/0/storeyHeights": "streetlevel-measured",
+   "fronts/0/storeys": "streetlevel-measured",
+   "fronts/0/street": "streetlevel-measured",
+   "fronts/0/surroundStoreys": "streetlevel-measured",
+   "fronts/0/tallGround": "streetlevel-measured",
+   "fronts/0/windowHead": "streetlevel-measured",
+   "fronts/0/windowHeights": "streetlevel-measured",
+   "fronts/0/windowSills": "streetlevel-measured",
+   "fronts/0/windowSurround": "streetlevel-measured",
+   "fronts/0/windows": "streetlevel-measured",
+   "roof/material": "streetlevel-measured",
+   "palette/brick": "streetlevel-measured",
+   "palette/cornice": "streetlevel-measured",
+   "palette/door": "streetlevel-measured",
+   "palette/frame": "streetlevel-measured",
+   "palette/stone": "streetlevel-measured",
+   "palette/stoneMaterial": "streetlevel-measured",
+   "palette/wallMaterial": "author",
+   "notes": "streetlevel-measured",
+   "facts/pui": "streetlevel-measured"
+  },
+  "r": "recipe",
+  "v": {
+   "src": {
+    "wallMaterial": "author",
+    "wallHex": "streetlevel-measured",
+    "bays": "author"
+   },
+   "wallMaterial": "painted-brick",
+   "wallHex": "#535353",
+   "bays": 3
+  },
+  "x": {
+   "pui": "residential"
+  },
+  "l": [
+   {
+    "component": "facade",
+    "what": "the storey-3 windows have blind round relieving arches with dark tympana, two white springers and a keystone: windowHead relieving with archRing {style springers, shape round, keystone} and tympanum dark (kit lane 2026-10-14). Own storey heights (sills 5.0, 8.4, 11.69 m, wall to the 15.5 m mansard foot) and head lines (windows 5.0-7.2, 8.4-10.5, 11.69-13.73 m on the kit's storeys [4.60, 3.47, 3.41, 3.52]); its bands run at the sill and head lines (bandLines sill + head, head band 0.20 m: 13.74-13.95 m on storey 3), not the type's transom line; on storeys 2-3 only (bandStoreys): storey 1's sill band lies behind the full-width balcony platform and its one band is at 0.69 of the window, a line per storey the kit cannot set; the arches spring on the 0.20 m head band (springGap 0.2)"
+   },
+   {
+    "component": "facade",
+    "what": "the mansard's swept bell sides are a straight 72-degree face"
+   },
+   {
+    "component": "roof",
+    "what": "bell-shaped mansard drawn straight"
+   }
+  ]
+ }
+}

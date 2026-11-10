@@ -1,0 +1,307 @@
+[
+ {
+  "field": "fronts/0/balconies",
+  "value": {
+   "storeys": [
+    1,
+    2,
+    3
+   ],
+   "bays": [
+    1
+   ],
+   "storeyBays": {
+    "1": [
+     0,
+     1,
+     2
+    ]
+   },
+   "style": "timber-bracketed",
+   "rail": "iron",
+   "styleStoreys": [
+    1,
+    2
+   ]
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "balconies: which storeys/axes, timber-bracketed, turned rails"
+ },
+ {
+  "field": "fronts/0/bandHeights",
+  "value": {
+   "sill": 0.15,
+   "head": 0.2
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "band depths"
+ },
+ {
+  "field": "fronts/0/bandLines",
+  "value": [
+   "sill",
+   "head"
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "band heights"
+ },
+ {
+  "field": "fronts/0/bandStoreys",
+  "value": [
+   2,
+   3
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "design field read by the recipe compiler"
+ },
+ {
+  "field": "fronts/0/bandTransomAt",
+  "value": 0.65,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "band at the transom line"
+ },
+ {
+  "field": "fronts/0/bands",
+  "value": "painted",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "white painted bands (speklagen) at lintel and sill lines"
+ },
+ {
+  "field": "fronts/0/basement",
+  "value": "none",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "souterrain/stoop treatment of the base"
+ },
+ {
+  "field": "fronts/0/bays",
+  "value": 3,
+  "source": "author",
+  "evidence": "h7 hand read of block-face strip nassau-145-152 2024-11-21: three axes, agrees with Jev 3",
+  "changed": "window axes per storey"
+ },
+ {
+  "field": "fronts/0/cornice",
+  "value": "simple",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "cornice style at the eaves"
+ },
+ {
+  "field": "fronts/0/doorBay",
+  "value": 0,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "which axis holds the door"
+ },
+ {
+  "field": "fronts/0/dormerAt",
+  "value": [
+   {
+    "from": 0.3,
+    "to": 0.7
+   }
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "dormer positions along the front"
+ },
+ {
+  "field": "fronts/0/dormers",
+  "value": 1,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "dormer count"
+ },
+ {
+  "field": "fronts/0/gable",
+  "value": "cornice",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "the crown: stepped, neck, bell or a cornice line"
+ },
+ {
+  "field": "fronts/0/headLines",
+  "value": [
+   0.86,
+   0.75,
+   0.712,
+   0.639
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "window head line per storey"
+ },
+ {
+  "field": "fronts/0/hoist",
+  "value": false,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "hoist beam in the crown"
+ },
+ {
+  "field": "fronts/0/partyClip",
+  "value": true,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "clip the front at the party walls"
+ },
+ {
+  "field": "fronts/0/roofFront",
+  "value": "mansard",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "design field read by the recipe compiler"
+ },
+ {
+  "field": "fronts/0/storeyHeights",
+  "value": [
+   4.45,
+   3.35,
+   3.3,
+   3.4
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "storey heights in metres"
+ },
+ {
+  "field": "fronts/0/storeys",
+  "value": 4,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "number of full street storeys"
+ },
+ {
+  "field": "fronts/0/surroundStoreys",
+  "value": [
+   1,
+   2
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "storeys that carry window surrounds"
+ },
+ {
+  "field": "fronts/0/tallGround",
+  "value": true,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "taller ground storey"
+ },
+ {
+  "field": "fronts/0/windowHead",
+  "value": {
+   "kind": "relieving",
+   "storeys": [
+    3
+   ],
+   "archRing": {
+    "colour": "stone",
+    "style": "springers",
+    "keystone": true,
+    "shape": "round",
+    "springGap": 0.2
+   },
+   "tympanum": "dark"
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "arched/relieving heads with arch ring, springers, keystone"
+ },
+ {
+  "field": "fronts/0/windowHeights",
+  "value": [
+   0.6,
+   0.635,
+   0.615,
+   0.58
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "window height as a share of each storey"
+ },
+ {
+  "field": "fronts/0/windowSills",
+  "value": "consoles",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "sill style (consoles...)"
+ },
+ {
+  "field": "fronts/0/windowSurround",
+  "value": "eared-keystone",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "surrounds round each window (keystone, eared...)"
+ },
+ {
+  "field": "fronts/0/windows",
+  "value": "t-window",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "window kind (T-window, sash, cross...)"
+ },
+ {
+  "field": "roof/material",
+  "value": "slate",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "roof material"
+ },
+ {
+  "field": "palette/brick",
+  "value": "#535353",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "wall colour"
+ },
+ {
+  "field": "palette/cornice",
+  "value": "white-painted",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "cornice style at the eaves"
+ },
+ {
+  "field": "palette/door",
+  "value": "#1f2324",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "door colour"
+ },
+ {
+  "field": "palette/frame",
+  "value": "white-painted",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "window frame colour"
+ },
+ {
+  "field": "palette/stone",
+  "value": "#eeeae0",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "stone/dressing colour"
+ },
+ {
+  "field": "palette/stoneMaterial",
+  "value": "painted",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/nassau-145-152/intent.json house 0363100012160273 (kit lane 2026-10-14; strip 2024-11-21, 80 px/m crops)",
+  "changed": "dressing material"
+ },
+ {
+  "field": "palette/wallMaterial",
+  "value": "painted-brick",
+  "source": "author",
+  "evidence": "h7 hand read of block-face strip nassau-145-152 2024-11-21: dark painted brick: confirms the face and the H5h hand set",
+  "changed": "wall finish (painted brick keeps the measured tint, no lightness clamp)"
+ }
+]

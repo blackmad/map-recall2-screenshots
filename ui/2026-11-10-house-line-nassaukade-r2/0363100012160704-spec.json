@@ -1,0 +1,190 @@
+{
+ "pandId": "0363100012160704",
+ "address": "Nassaukade 146",
+ "route": "recipe",
+ "note": "round 2: staged; the recipe compile takes the block face facts (the frontage chord over the erker), BAG draws the erker into the footprint",
+ "handSpec": {
+  "schemaVersion": 1,
+  "pandId": "0363100012160704",
+  "address": "Nassaukade 146",
+  "design": {
+   "fronts": [
+    {
+     "bays": 3
+    }
+   ]
+  },
+  "provenance": {
+   "fronts/0/bays": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152-w2019 2019-01-09: three axes over the two-storey erker on storeys 1-2, the door in the left axis; the face's bay-outline chord carries the erker",
+    "at": "2026-11-10"
+   }
+  },
+  "schemaLimits": [
+   {
+    "component": "facade",
+    "what": "the timber erker's glazed side cheeks and its balcony on top are drawn as the kit's plain bay window"
+   }
+  ]
+ },
+ "reading": {
+  "address": "Nassaukade 146",
+  "photo": "block-face strip nassau-145-152-w2019 2019-01-09",
+  "fields": {
+   "fronts/0/bays": 3
+  },
+  "why": {
+   "fronts/0/bays": "three axes over the two-storey erker on storeys 1-2, the door in the left axis; the face's bay-outline chord carries the erker"
+  },
+  "limits": [
+   {
+    "component": "facade",
+    "what": "the timber erker's glazed side cheeks and its balcony on top are drawn as the kit's plain bay window"
+   }
+  ]
+ },
+ "resolved": {
+  "tile": "8413/5384",
+  "d": {
+   "fronts": [
+    {
+     "balconies": {
+      "storeys": [
+       3
+      ],
+      "bays": [
+       1
+      ]
+     },
+     "bandHeights": {
+      "sill": 0.15,
+      "transom": 0.13
+     },
+     "bandLines": [
+      "sill",
+      "transom"
+     ],
+     "bandTransomAt": 0.65,
+     "bands": "painted",
+     "basement": "none",
+     "bayWindows": {
+      "bays": {
+       "from": 1,
+       "to": 2
+      },
+      "storeys": [
+       1
+      ],
+      "cap": "flat",
+      "finish": "painted"
+     },
+     "bays": 3,
+     "cornice": "heavy",
+     "doorBay": 0,
+     "dormerStyle": "pointed",
+     "dormers": 1,
+     "gable": "cornice",
+     "headLines": [
+      0.86,
+      0.744,
+      0.733,
+      0.716
+     ],
+     "hoist": false,
+     "id": "front0",
+     "partyClip": true,
+     "storeys": 4,
+     "street": "Nassaukade",
+     "tallGround": true,
+     "windowHeights": [
+      0.6,
+      0.611,
+      0.636,
+      0.647
+     ],
+     "windowSills": "consoles",
+     "windowSurround": "eared-keystone",
+     "windows": "t-window"
+    }
+   ],
+   "roof": {
+    "material": "slate"
+   },
+   "palette": {
+    "brick": "#957d73",
+    "cornice": "white-painted",
+    "door": "#1f2324",
+    "frame": "white-painted",
+    "stone": "#eeeae0",
+    "stoneMaterial": "painted"
+   },
+   "notes": [
+    "type nassau-1900-three-axis: crown pointed-dormer, palette tan-brick",
+    "type deviations: bayWindows {\"bays\":{\"from\":1,\"to\":2},\"storeys\":[1],\"cap\":\"flat\",\"finish\":\"painted\"} (type: unset); palette {\"brick\":\"#957d73\"} (type palette tan-brick)"
+   ]
+  },
+  "s": {
+   "fronts/0/balconies": "streetlevel-measured",
+   "fronts/0/bandHeights": "streetlevel-measured",
+   "fronts/0/bandLines": "streetlevel-measured",
+   "fronts/0/bandTransomAt": "streetlevel-measured",
+   "fronts/0/bands": "streetlevel-measured",
+   "fronts/0/basement": "streetlevel-measured",
+   "fronts/0/bayWindows": "streetlevel-measured",
+   "fronts/0/bays": "author",
+   "fronts/0/cornice": "streetlevel-measured",
+   "fronts/0/doorBay": "streetlevel-measured",
+   "fronts/0/dormerStyle": "streetlevel-measured",
+   "fronts/0/dormers": "streetlevel-measured",
+   "fronts/0/gable": "streetlevel-measured",
+   "fronts/0/headLines": "streetlevel-measured",
+   "fronts/0/hoist": "streetlevel-measured",
+   "fronts/0/id": "streetlevel-measured",
+   "fronts/0/partyClip": "streetlevel-measured",
+   "fronts/0/storeys": "streetlevel-measured",
+   "fronts/0/street": "streetlevel-measured",
+   "fronts/0/tallGround": "streetlevel-measured",
+   "fronts/0/windowHeights": "streetlevel-measured",
+   "fronts/0/windowSills": "streetlevel-measured",
+   "fronts/0/windowSurround": "streetlevel-measured",
+   "fronts/0/windows": "streetlevel-measured",
+   "roof/material": "streetlevel-measured",
+   "palette/brick": "streetlevel-measured",
+   "palette/cornice": "streetlevel-measured",
+   "palette/door": "streetlevel-measured",
+   "palette/frame": "streetlevel-measured",
+   "palette/stone": "streetlevel-measured",
+   "palette/stoneMaterial": "streetlevel-measured",
+   "notes": "streetlevel-measured",
+   "facts/pui": "streetlevel-measured"
+  },
+  "r": "recipe",
+  "v": {
+   "src": {
+    "wallHex": "streetlevel-measured",
+    "bays": "author"
+   },
+   "wallHex": "#957d73",
+   "bays": 3
+  },
+  "x": {
+   "pui": "residential"
+  },
+  "l": [
+   {
+    "component": "facade",
+    "what": "the erker projects about 0.85 m (BAG outline); the kit erker 0.55 m"
+   },
+   {
+    "component": "facade",
+    "what": "the erker is canted in plan with glazed returns; the kit erker has 0.25 m returns"
+   },
+   {
+    "component": "facade",
+    "what": "the timber erker's glazed side cheeks and its balcony on top are drawn as the kit's plain bay window"
+   }
+  ]
+ }
+}

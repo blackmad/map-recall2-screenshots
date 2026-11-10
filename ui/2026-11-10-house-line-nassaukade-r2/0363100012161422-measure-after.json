@@ -1,0 +1,129 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012161422",
+ "route": "recipe",
+ "routeWhy": "--recipe spec-0363100012161422",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.8738339772940735,
+   52.3720438444695
+  ],
+  "b": [
+   4.8738244033319065,
+   52.3720983853919
+  ],
+  "lengthM": 6.06,
+  "source": "--wall face: nassau-145-152 frontage (Nassaukade)"
+ },
+ "groundZ": 0,
+ "house": "spec-0363100012161422",
+ "glb": "artifacts/building-recipes/spec-0363100012161422/model.glb",
+ "triangles": 2576,
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.79,
+  "lines": [
+   0,
+   3.2,
+   6.097,
+   8.994,
+   11.89,
+   14.787
+  ]
+ },
+ "render": {
+  "wall": "#474747",
+  "wallRaw": "#4d4d4d",
+  "material": "paint",
+  "glazing": 0.273,
+  "storeyGlazing": [
+   null,
+   0.449,
+   0.162,
+   0.257,
+   0.149
+  ],
+  "columns": null,
+  "windowColumns": null,
+  "pitchM": null,
+  "window": null,
+  "frontClass": "punched",
+  "usable": 0.951,
+  "foliage": 0,
+  "washedOut": 0.178
+ },
+ "photo": {
+  "file": "staging/block-face/nassau-145-152-w2019/strip.jpg",
+  "kind": "block-face strip nassau-145-152-w2019 2019-01-09 (40 px/m)",
+  "measure": {
+   "wall": "#67646a",
+   "wallRaw": "#525051",
+   "material": "paint",
+   "glazing": 0.325,
+   "storeyGlazing": [
+    null,
+    0.22,
+    0.309,
+    0.499,
+    0.344
+   ],
+   "columns": null,
+   "windowColumns": null,
+   "pitchM": null,
+   "window": null,
+   "frontClass": "punched",
+   "usable": 0.938,
+   "foliage": 0.08,
+   "washedOut": 0.057
+  }
+ },
+ "verdict": {
+  "verdict": "FAIL",
+  "reasons": [
+   "wall dL -0.13"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#474747",
+   "b": "#67646a",
+   "dL": -0.125,
+   "dHue": null,
+   "pass": false
+  },
+  "glazing": {
+   "a": 0.273,
+   "b": 0.325,
+   "diff": -0.052,
+   "pass": true
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": null,
+   "b": null,
+   "pass": null
+  },
+  "window": {
+   "a": null,
+   "b": null,
+   "pass": null
+  },
+  "classes": {
+   "a": "punched",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "compile": 957,
+  "raster": 350,
+  "threeq": 223,
+  "photo": 352
+ }
+}

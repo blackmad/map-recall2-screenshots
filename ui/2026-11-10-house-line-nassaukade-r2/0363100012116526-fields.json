@@ -1,0 +1,147 @@
+[
+ {
+  "field": "fronts/1/gable",
+  "value": "cornice",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "the crown: stepped, neck, bell or a cornice line"
+ },
+ {
+  "field": "fronts/1/storeys",
+  "value": 4,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "number of full street storeys"
+ },
+ {
+  "field": "fronts/1/bays",
+  "value": 7,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "window axes per storey"
+ },
+ {
+  "field": "fronts/1/doorBay",
+  "value": 6,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "which axis holds the door"
+ },
+ {
+  "field": "fronts/1/basement",
+  "value": "none",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "souterrain/stoop treatment of the base"
+ },
+ {
+  "field": "fronts/1/tallGround",
+  "value": true,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "taller ground storey"
+ },
+ {
+  "field": "fronts/1/cornice",
+  "value": "bracketed",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "cornice style at the eaves"
+ },
+ {
+  "field": "fronts/1/windows",
+  "value": "t-window",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "window kind (T-window, sash, cross...)"
+ },
+ {
+  "field": "fronts/1/windowSurround",
+  "value": "keystone",
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "surrounds round each window (keystone, eared...)"
+ },
+ {
+  "field": "fronts/1/shopfront",
+  "value": {
+   "colour": "#1c1d1f",
+   "fascia": false,
+   "bays": [
+    0,
+    2
+   ],
+   "stallriser": "low",
+   "glazing": "transom",
+   "evidence": "strip.jpg 2024-11-21: black-framed bar front over the three left axes, a chalk board, no legible sign; BAG bijeenkomstfunctie, no OSM node"
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "shop front: glazing, fascia, stallriser"
+ },
+ {
+  "field": "fronts/1/hoist",
+  "value": false,
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "hoist beam in the crown"
+ },
+ {
+  "field": "fronts/1/rosettes",
+  "value": [
+   {
+    "bays": [
+     1
+    ],
+    "storeys": [
+     1,
+     2,
+     3
+    ],
+    "diameter": 1
+   }
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "design field read by the recipe compiler"
+ },
+ {
+  "field": "fronts/1/palette",
+  "value": {
+   "brick": "#564543"
+  },
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "design field read by the recipe compiler"
+ },
+ {
+  "field": "fronts/1/towers",
+  "value": [
+   {
+    "bays": {
+     "from": 2,
+     "to": 2
+    },
+    "rise": 0.85,
+    "cap": "flat",
+    "finish": "stone",
+    "lightRise": 0.45,
+    "lightSill": 0.2
+   },
+   {
+    "bays": {
+     "from": 5,
+     "to": 5
+    },
+    "rise": 0.85,
+    "cap": "flat",
+    "finish": "stone",
+    "lightRise": 0.45,
+    "lightSill": 0.2
+   }
+  ],
+  "source": "streetlevel-measured",
+  "evidence": "scripts/block-face/faces/clercq-236681/intent.json front \"nassaukade\" (lane H7: strip 2024-11-21, round 2 towers/rosettes/storeys from the 2019-01-09 strip, palette from wall-fit 2019-2022)",
+  "changed": "design field read by the recipe compiler"
+ }
+]

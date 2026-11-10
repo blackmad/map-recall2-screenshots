@@ -1,0 +1,137 @@
+{
+ "row": "Nassaukade 152-145 (face nassau-145-152)",
+ "batch": "pilot-20261110",
+ "lane": "H7 #354",
+ "houses": [
+  {
+   "pand": "0363100012116526",
+   "address": "Nassaukade 151-152 (corner)",
+   "route": "chunk",
+   "note": "multi-front pand: the Nassaukade front added to chunk-face-clercq-236681 (block-face route), not a HouseSpec; installs with the clercq chunk",
+   "fields": 14,
+   "verdictBefore": "FAIL",
+   "verdictAfter": "PASS",
+   "wallBefore": "#8a6b61",
+   "wallAfter": "#675350",
+   "wallPhoto": "#5f4932",
+   "reasonsAfter": [],
+   "limits": []
+  },
+  {
+   "pand": "0363100012164843",
+   "address": "Nassaukade 150",
+   "route": "recipe",
+   "note": null,
+   "fields": 28,
+   "verdictBefore": "FAIL",
+   "verdictAfter": "PASS",
+   "wallBefore": "#452d27",
+   "wallAfter": "#6a6967",
+   "wallPhoto": "#49402a",
+   "reasonsAfter": [],
+   "limits": [
+    {
+     "component": "window head",
+     "what": "storey-3 round arches with keystones and springers read over each window; the recipe draws dark semicircles above a lintel course"
+    },
+    {
+     "component": "balcony",
+     "what": "bracketed timber balcony boxes; drawn as thin turned rails"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012161422",
+   "address": "Nassaukade 149",
+   "route": "recipe",
+   "note": null,
+   "fields": 31,
+   "verdictBefore": "NO EVIDENCE",
+   "verdictAfter": "FAIL",
+   "wallBefore": "#764124",
+   "wallAfter": "#474747",
+   "wallPhoto": "#998f6a",
+   "reasonsAfter": [
+    "wall dL -0.13"
+   ],
+   "limits": []
+  },
+  {
+   "pand": "0363100012157426",
+   "address": "Nassaukade 148",
+   "route": "recipe",
+   "note": null,
+   "fields": 28,
+   "verdictBefore": "NO EVIDENCE",
+   "verdictAfter": "PASS",
+   "wallBefore": "#837d76",
+   "wallAfter": "#776554",
+   "wallPhoto": "#655339",
+   "reasonsAfter": [],
+   "limits": [
+    {
+     "component": "balcony",
+     "what": "cast-iron grille balconies drawn as plain rails"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012160273",
+   "address": "Nassaukade 147",
+   "route": "recipe",
+   "note": null,
+   "fields": 34,
+   "verdictBefore": "FAIL",
+   "verdictAfter": "FAIL",
+   "wallBefore": "#83878c",
+   "wallAfter": "#53636d",
+   "wallPhoto": "#6e6043",
+   "reasonsAfter": [
+    "columns 3 vs 6"
+   ],
+   "limits": [
+    {
+     "component": "roof",
+     "what": "bell-shaped mansard drawn straight"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012160704",
+   "address": "Nassaukade 146",
+   "route": "recipe",
+   "note": "round 2: staged; the recipe compile takes the block face facts (the frontage chord over the erker), BAG draws the erker into the footprint",
+   "fields": 29,
+   "verdictBefore": "NO EVIDENCE",
+   "verdictAfter": "NO EVIDENCE",
+   "wallBefore": "#61331d",
+   "wallAfter": "#98857d",
+   "wallPhoto": "#9f7652",
+   "reasonsAfter": [
+    "reference washed out 47 % > 30 %"
+   ],
+   "limits": [
+    {
+     "component": "facade",
+     "what": "the timber erker's glazed side cheeks and its balcony on top are drawn as the kit's plain bay window"
+    }
+   ]
+  },
+  {
+   "pand": "0363100012159694",
+   "address": "Nassaukade 145",
+   "route": "recipe",
+   "note": null,
+   "fields": 30,
+   "verdictBefore": "NO EVIDENCE",
+   "verdictAfter": "NO EVIDENCE",
+   "wallBefore": "#3f1f12",
+   "wallAfter": "#927260",
+   "wallPhoto": "#9e7350",
+   "reasonsAfter": [
+    "reference washed out 41 % > 30 %"
+   ],
+   "limits": []
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "pandId": "0363100012164843",
+ "address": "Nassaukade 150",
+ "route": "recipe",
+ "note": null,
+ "handSpec": {
+  "schemaVersion": 1,
+  "pandId": "0363100012164843",
+  "address": "Nassaukade 150",
+  "design": {
+   "fronts": [
+    {
+     "bays": 3
+    }
+   ],
+   "palette": {
+    "wallMaterial": "painted-brick"
+   }
+  },
+  "provenance": {
+   "fronts/0/bays": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: three axes, the centre a balcony stack: confirms the face",
+    "at": "2026-11-10"
+   },
+   "palette/wallMaterial": {
+    "source": "author",
+    "confidence": 0.9,
+    "ref": "h7 hand read of block-face strip nassau-145-152 2024-11-21: dark painted brick: confirms the face and the H5h hand set",
+    "at": "2026-11-10"
+   }
+  },
+  "schemaLimits": [
+   {
+    "component": "window head",
+    "what": "storey-3 round arches with keystones and springers read over each window; the recipe draws dark semicircles above a lintel course"
+   },
+   {
+    "component": "balcony",
+    "what": "bracketed timber balcony boxes; drawn as thin turned rails"
+   }
+  ]
+ },
+ "reading": {
+  "address": "Nassaukade 150",
+  "photo": "block-face strip nassau-145-152 2024-11-21",
+  "fields": {
+   "fronts/0/bays": 3,
+   "palette/wallMaterial": "painted-brick"
+  },
+  "why": {
+   "fronts/0/bays": "three axes, the centre a balcony stack: confirms the face",
+   "palette/wallMaterial": "dark painted brick: confirms the face and the H5h hand set"
+  },
+  "limits": [
+   {
+    "component": "window head",
+    "what": "storey-3 round arches with keystones and springers read over each window; the recipe draws dark semicircles above a lintel course"
+   },
+   {
+    "component": "balcony",
+    "what": "bracketed timber balcony boxes; drawn as thin turned rails"
+   }
+  ]
+ },
+ "resolved": {
+  "tile": "8413/5384",
+  "d": {
+   "fronts": [
+    {
+     "atticWindows": 1,
+     "balconies": {
+      "storeys": [
+       1,
+       2,
+       3
+      ],
+      "bays": [
+       1
+      ],
+      "style": "timber-bracketed",
+      "rail": "turned"
+     },
+     "basement": "stoop-and-windows",
+     "bays": 3,
+     "cornice": "none",
+     "crownRise": 1,
+     "crownSteps": 2,
+     "doorBay": 0,
+     "gable": "step",
+     "headLines": [
+      0.828,
+      0.733,
+      0.733,
+      0.627
+     ],
+     "hoist": false,
+     "id": "front",
+     "partyClip": true,
+     "souterrain": true,
+     "storeyHeights": [
+      2.6,
+      2.9,
+      3,
+      3,
+      3.3
+     ],
+     "storeys": 4,
+     "street": "Nassaukade",
+     "surroundStoreys": [
+      0,
+      1,
+      2
+     ],
+     "tallGround": false,
+     "windowHead": {
+      "kind": "relieving",
+      "storeys": [
+       3
+      ],
+      "archRing": {
+       "colour": "frame",
+       "style": "springers",
+       "keystone": true,
+       "shape": "round",
+       "springGap": 0.55
+      },
+      "tympanum": "dark"
+     },
+     "windowHeights": [
+      0.728,
+      0.623,
+      0.623,
+      0.527
+     ],
+     "windowSills": "consoles",
+     "windowSurround": "keystone",
+     "windows": "t-window"
+    }
+   ],
+   "roof": {
+    "material": "slate"
+   },
+   "palette": {
+    "brick": "#404040",
+    "door": "#1f2324",
+    "frame": "white-painted",
+    "stone": "white-painted",
+    "wallMaterial": "painted-brick"
+   },
+   "notes": [
+    "near-black painted brick (white-balanced wall median #524b3d on the 2024-11-21 crop); granite souterrain front and the arched door portal read as the stone plinth/stoop",
+    "Storey-3 arches (kit lane 2026-10-14): round relieving arches (rise half the span), springers 0.14 x 0.18 m at the arch feet, dark tympanum = wall x 0.72 (measured tympanum/wall luma 0.67-0.68 on this front), exported with the painted wall as a measured tint.",
+    "Heads (kit lane 2026-10-14): the sills climb in a 3.0 m pitch (2.89, 5.83, 8.83, 11.83 m) with heads at 5.0, 7.7, 10.7 and 13.57 m on the 80 px/m crop; storeyHeights (souterrain first) put the floors 0.3 m under the sills and headLines/windowHeights land the heads; the storey-3 arches spring 0.55 m over the heads (a dark lintel course between, springGap) at 14.12 m, crown 14.64 m."
+   ]
+  },
+  "s": {
+   "fronts/0/atticWindows": "streetlevel-measured",
+   "fronts/0/balconies": "streetlevel-measured",
+   "fronts/0/basement": "streetlevel-measured",
+   "fronts/0/bays": "author",
+   "fronts/0/cornice": "streetlevel-measured",
+   "fronts/0/crownRise": "streetlevel-measured",
+   "fronts/0/crownSteps": "streetlevel-measured",
+   "fronts/0/doorBay": "streetlevel-measured",
+   "fronts/0/gable": "streetlevel-measured",
+   "fronts/0/headLines": "streetlevel-measured",
+   "fronts/0/hoist": "streetlevel-measured",
+   "fronts/0/id": "streetlevel-measured",
+   "fronts/0/partyClip": "streetlevel-measured",
+   "fronts/0/souterrain": "streetlevel-measured",
+   "fronts/0/storeyHeights": "streetlevel-measured",
+   "fronts/0/storeys": "streetlevel-measured",
+   "fronts/0/street": "streetlevel-measured",
+   "fronts/0/surroundStoreys": "streetlevel-measured",
+   "fronts/0/tallGround": "streetlevel-measured",
+   "fronts/0/windowHead": "streetlevel-measured",
+   "fronts/0/windowHeights": "streetlevel-measured",
+   "fronts/0/windowSills": "streetlevel-measured",
+   "fronts/0/windowSurround": "streetlevel-measured",
+   "fronts/0/windows": "streetlevel-measured",
+   "roof/material": "streetlevel-measured",
+   "palette/brick": "streetlevel-measured",
+   "palette/door": "streetlevel-measured",
+   "palette/frame": "streetlevel-measured",
+   "palette/stone": "streetlevel-measured",
+   "palette/wallMaterial": "author",
+   "notes": "streetlevel-measured",
+   "facts/pui": "streetlevel-measured"
+  },
+  "r": "recipe",
+  "v": {
+   "src": {
+    "gable": "streetlevel-measured",
+    "wallMaterial": "author",
+    "wallHex": "streetlevel-measured",
+    "bays": "author"
+   },
+   "gable": "step",
+   "wallMaterial": "painted-brick",
+   "wallHex": "#404040",
+   "bays": 3
+  },
+  "x": {
+   "pui": "residential"
+  },
+  "l": [
+   {
+    "component": "facade",
+    "what": "the storey-3 windows sit under blind round relieving arches with a dark recessed tympanum, two white springer blocks and a white keystone: windowHead relieving with archRing {style springers, shape round, keystone} and tympanum dark (kit lane 2026-10-14). The springers and keystone take the white frame paint (archRing colour frame), because the house's stone colour is also its granite souterrain"
+   },
+   {
+    "component": "facade",
+    "what": "the rusticated granite souterrain front is the stone plinth colour only"
+   },
+   {
+    "component": "facade",
+    "what": "no painted bands on this front (it is the odd one of the row)"
+   },
+   {
+    "component": "window head",
+    "what": "storey-3 round arches with keystones and springers read over each window; the recipe draws dark semicircles above a lintel course"
+   },
+   {
+    "component": "balcony",
+    "what": "bracketed timber balcony boxes; drawn as thin turned rails"
+   }
+  ]
+ }
+}

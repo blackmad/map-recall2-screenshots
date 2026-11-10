@@ -1,0 +1,135 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012159694",
+ "route": "recipe",
+ "routeWhy": "--recipe spec-0363100012159694",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873834211292421,
+   52.37227357164396
+  ],
+  "b": [
+   4.873845104964246,
+   52.37232704189036
+  ],
+  "lengthM": 5.96,
+  "source": "--wall face: nassau-145-152 frontage (Nassaukade)"
+ },
+ "groundZ": 0,
+ "house": "spec-0363100012159694",
+ "glb": "artifacts/building-recipes/spec-0363100012159694/model.glb",
+ "triangles": 2686,
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.95,
+  "lines": [
+   0,
+   3.2,
+   6.138,
+   9.075,
+   12.012,
+   14.95
+  ]
+ },
+ "render": {
+  "wall": "#927260",
+  "wallRaw": "#9e7c68",
+  "material": "brick",
+  "glazing": 0.451,
+  "storeyGlazing": [
+   null,
+   0.466,
+   0.477,
+   0.435,
+   0.368
+  ],
+  "columns": null,
+  "windowColumns": null,
+  "pitchM": null,
+  "window": null,
+  "frontClass": "punched",
+  "usable": 0.952,
+  "foliage": 0,
+  "washedOut": 0.197
+ },
+ "photo": {
+  "file": "staging/block-face/nassau-145-152-w2019/strip.jpg",
+  "kind": "block-face strip nassau-145-152-w2019 2019-01-09 (40 px/m)",
+  "measure": {
+   "wall": "#97827a",
+   "wallRaw": "#ae9587",
+   "material": "brick",
+   "glazing": 0.374,
+   "storeyGlazing": [
+    null,
+    0.515,
+    0.341,
+    0.244,
+    null
+   ],
+   "columns": 4,
+   "windowColumns": 4,
+   "pitchM": 1.56,
+   "window": {
+    "w": 0.45,
+    "h": 0.45,
+    "sill": 0.2,
+    "aspect": 1.88,
+    "shape": "tall"
+   },
+   "frontClass": "punched",
+   "usable": 0.743,
+   "foliage": 0.097,
+   "washedOut": 0.412
+  }
+ },
+ "verdict": {
+  "verdict": "NO EVIDENCE",
+  "reasons": [
+   "reference washed out 41 % > 30 %"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#927260",
+   "b": "#97827a",
+   "dL": -0.061,
+   "dHue": 5,
+   "pass": true
+  },
+  "glazing": {
+   "a": 0.451,
+   "b": 0.374,
+   "diff": 0.077,
+   "pass": true
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": null,
+   "b": 4,
+   "pass": false
+  },
+  "window": {
+   "a": null,
+   "b": "tall",
+   "pass": false
+  },
+  "classes": {
+   "a": "punched",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "compile": 1008,
+  "raster": 370,
+  "threeq": 282,
+  "photo": 367
+ }
+}

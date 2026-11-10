@@ -1,0 +1,136 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012164843",
+ "route": "recipe",
+ "routeWhy": "--recipe spec-0363100012164843",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873842037601657,
+   52.37199067210448
+  ],
+  "b": [
+   4.8738339772940735,
+   52.3720438444695
+  ],
+  "lengthM": 5.9,
+  "source": "--wall face: nassau-145-152 frontage (Nassaukade)"
+ },
+ "groundZ": 0,
+ "house": "spec-0363100012164843",
+ "glb": "artifacts/building-recipes/spec-0363100012164843/model.glb",
+ "triangles": 2852,
+ "heights": {
+  "topM": 23,
+  "eavesM": 18,
+  "lines": [
+   0,
+   3.2,
+   6.16,
+   9.12,
+   12.081,
+   15.041,
+   18.001
+  ]
+ },
+ "render": {
+  "wall": "#6a6967",
+  "wallRaw": "#696866",
+  "material": null,
+  "glazing": 0.316,
+  "storeyGlazing": [
+   null,
+   0.44,
+   0.492,
+   0.314,
+   0.207,
+   0.182
+  ],
+  "columns": 3,
+  "windowColumns": 3,
+  "pitchM": 1.737,
+  "window": {
+   "w": 0.55,
+   "h": 1,
+   "sill": 0,
+   "aspect": 3.1,
+   "shape": "tall"
+  },
+  "frontClass": "columns",
+  "usable": 1,
+  "foliage": 0,
+  "washedOut": 0.254
+ },
+ "photo": {
+  "file": "staging/block-face/nassau-145-152-w2019/strip.jpg",
+  "kind": "block-face strip nassau-145-152-w2019 2019-01-09 (40 px/m)",
+  "measure": {
+   "wall": "#5d5c61",
+   "wallRaw": "#454546",
+   "material": "paint",
+   "glazing": 0.309,
+   "storeyGlazing": [
+    null,
+    0.505,
+    0.396,
+    0.083,
+    0.342,
+    0.289
+   ],
+   "columns": null,
+   "windowColumns": null,
+   "pitchM": null,
+   "window": null,
+   "frontClass": "punched",
+   "usable": 0.966,
+   "foliage": 0.01,
+   "washedOut": 0.043
+  }
+ },
+ "verdict": {
+  "verdict": "PASS",
+  "reasons": [],
+  "warns": [],
+  "wall": {
+   "a": "#6a6967",
+   "b": "#5d5c61",
+   "dL": 0.039,
+   "dHue": null,
+   "pass": true
+  },
+  "glazing": {
+   "a": 0.316,
+   "b": 0.309,
+   "diff": 0.007,
+   "pass": true
+  },
+  "storeys": {
+   "a": 5,
+   "b": 5,
+   "pass": true
+  },
+  "columns": {
+   "a": 3,
+   "b": null,
+   "pass": null
+  },
+  "window": {
+   "a": "tall",
+   "b": null,
+   "pass": null
+  },
+  "classes": {
+   "a": "columns",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "compile": 971,
+  "raster": 404,
+  "threeq": 222,
+  "photo": 441
+ }
+}

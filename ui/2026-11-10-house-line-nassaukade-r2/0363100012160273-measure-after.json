@@ -1,0 +1,144 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012160273",
+ "route": "recipe",
+ "routeWhy": "--recipe spec-0363100012160273",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873824297739437,
+   52.37215318307206
+  ],
+  "b": [
+   4.873825422685484,
+   52.37221838488062
+  ],
+  "lengthM": 7.21,
+  "source": "--wall face: nassau-145-152 frontage (Nassaukade)"
+ },
+ "groundZ": 0,
+ "house": "spec-0363100012160273",
+ "glb": "artifacts/building-recipes/spec-0363100012160273/model.glb",
+ "triangles": 2855,
+ "heights": {
+  "topM": 20,
+  "eavesM": 17.36,
+  "lines": [
+   0,
+   3.2,
+   6.033,
+   8.866,
+   11.699,
+   14.532,
+   17.365
+  ]
+ },
+ "render": {
+  "wall": "#53636d",
+  "wallRaw": "#596a75",
+  "material": "brick",
+  "glazing": 0.502,
+  "storeyGlazing": [
+   null,
+   0.435,
+   0.484,
+   0.413,
+   0.568,
+   0.666
+  ],
+  "columns": 3,
+  "windowColumns": 3,
+  "pitchM": 2.132,
+  "window": {
+   "w": 0.3,
+   "h": 0.85,
+   "sill": 0.1,
+   "aspect": 3.77,
+   "shape": "tall"
+  },
+  "frontClass": "punched",
+  "usable": 0.987,
+  "foliage": 0,
+  "washedOut": 0.117
+ },
+ "photo": {
+  "file": "staging/block-face/nassau-145-152-w2019/strip.jpg",
+  "kind": "block-face strip nassau-145-152-w2019 2019-01-09 (40 px/m)",
+  "measure": {
+   "wall": "#564f50",
+   "wallRaw": "#5f5856",
+   "material": "brick",
+   "glazing": 0.625,
+   "storeyGlazing": [
+    null,
+    0.743,
+    0.795,
+    0.717,
+    0.551,
+    0.382
+   ],
+   "columns": 6,
+   "windowColumns": 6,
+   "pitchM": 1.184,
+   "window": {
+    "w": 0.85,
+    "h": 1,
+    "sill": 0,
+    "aspect": 2.81,
+    "shape": "tall"
+   },
+   "frontClass": "ribbon",
+   "usable": 0.879,
+   "foliage": 0.089,
+   "washedOut": 0.209
+  }
+ },
+ "verdict": {
+  "verdict": "FAIL",
+  "reasons": [
+   "columns 3 vs 6"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#53636d",
+   "b": "#564f50",
+   "dL": 0.053,
+   "dHue": null,
+   "pass": true
+  },
+  "glazing": {
+   "a": 0.502,
+   "b": 0.625,
+   "diff": -0.123,
+   "pass": true
+  },
+  "storeys": {
+   "a": 5,
+   "b": 5,
+   "pass": true
+  },
+  "columns": {
+   "a": 3,
+   "b": 6,
+   "pass": false
+  },
+  "window": {
+   "a": "tall",
+   "b": "tall",
+   "pass": true
+  },
+  "classes": {
+   "a": "punched",
+   "b": "ribbon"
+  }
+ },
+ "timings": {
+  "compile": 982,
+  "raster": 351,
+  "threeq": 284,
+  "photo": 443
+ }
+}

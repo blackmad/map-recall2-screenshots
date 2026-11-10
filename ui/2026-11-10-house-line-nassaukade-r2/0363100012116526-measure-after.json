@@ -1,0 +1,148 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012116526",
+ "route": "installed",
+ "routeWhy": "--chunk clercq-236681: the compiled, not installed staging/block-face chunk",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873878997094355,
+   52.37187900223877
+  ],
+  "b": [
+   4.8738449970923945,
+   52.3719930022403
+  ],
+  "lengthM": 12.81,
+  "source": "pand-reference/select.ts pickWall: longest wall on the nearest road"
+ },
+ "groundZ": 0,
+ "installed": {
+  "key": "chunk-face-clercq-236681",
+  "glb": "staging/block-face/clercq-236681/chunk.glb",
+  "anchor": [
+   4.873450301959339,
+   52.37176734875895
+  ],
+  "northOffsetDegrees": 338.9669,
+  "mirror": false,
+  "source": "staging/block-face/clercq-236681/manifest-entry.json",
+  "triangles": 28696
+ },
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.75,
+  "lines": [
+   0,
+   3.2,
+   6.088,
+   8.977,
+   11.865,
+   14.753
+  ]
+ },
+ "render": {
+  "wall": "#675350",
+  "wallRaw": "#705a57",
+  "material": "brick",
+  "glazing": 0.394,
+  "storeyGlazing": [
+   null,
+   0.405,
+   0.303,
+   0.314,
+   0.451
+  ],
+  "columns": 7,
+  "windowColumns": 7,
+  "pitchM": 1.727,
+  "window": {
+   "w": 0.6,
+   "h": 1,
+   "sill": 0,
+   "aspect": 2.79,
+   "shape": "tall"
+  },
+  "frontClass": "columns",
+  "usable": 0.975,
+  "foliage": 0,
+  "washedOut": 0.136
+ },
+ "photo": {
+  "file": "staging/block-face/nassau-145-152-w2019/strip.jpg",
+  "kind": "block-face strip nassau-145-152-w2019 2019-01-09 (40 px/m)",
+  "measure": {
+   "wall": "#594b48",
+   "wallRaw": "#594b48",
+   "material": "brick",
+   "glazing": 0.533,
+   "storeyGlazing": [
+    null,
+    0.711,
+    0.52,
+    0.467,
+    0.446
+   ],
+   "columns": 8,
+   "windowColumns": 8,
+   "pitchM": 1.6,
+   "window": {
+    "w": 0.8,
+    "h": 0.65,
+    "sill": 0.15,
+    "aspect": 1.47,
+    "shape": "tall"
+   },
+   "frontClass": "punched",
+   "usable": 0.995,
+   "foliage": 0.004,
+   "washedOut": 0.003
+  }
+ },
+ "verdict": {
+  "verdict": "PASS",
+  "reasons": [],
+  "warns": [],
+  "wall": {
+   "a": "#675350",
+   "b": "#594b48",
+   "dL": 0.043,
+   "dHue": -2.8,
+   "pass": true
+  },
+  "glazing": {
+   "a": 0.394,
+   "b": 0.533,
+   "diff": -0.139,
+   "pass": true
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": 7,
+   "b": 8,
+   "pass": true
+  },
+  "window": {
+   "a": "tall",
+   "b": "tall",
+   "pass": true
+  },
+  "classes": {
+   "a": "columns",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "glb": 40,
+  "raster": 817,
+  "threeq": 649,
+  "photo": 692
+ }
+}

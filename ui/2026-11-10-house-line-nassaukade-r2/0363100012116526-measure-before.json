@@ -1,0 +1,145 @@
+{
+ "profile": "houseLine",
+ "pandId": "0363100012116526",
+ "route": "installed",
+ "routeWhy": "default: models/covers.json chunk-face-clercq-236681",
+ "shader": "GLB flat game colours",
+ "preBlurPx": 1.5,
+ "tile": "8413/5384",
+ "ppm": 50,
+ "wall": {
+  "a": [
+   4.873878997094355,
+   52.37187900223877
+  ],
+  "b": [
+   4.8738449970923945,
+   52.3719930022403
+  ],
+  "lengthM": 12.81,
+  "source": "pand-reference/select.ts pickWall: longest wall on the nearest road"
+ },
+ "groundZ": 0,
+ "installed": {
+  "key": "chunk-face-clercq-236681",
+  "glb": "public/canal-drive/models/ordinary-buildings/chunks/chunk-face-clercq-236681.glb",
+  "anchor": [
+   4.873450301959339,
+   52.37176734875895
+  ],
+  "northOffsetDegrees": 338.9669,
+  "mirror": false,
+  "source": "ordinary-buildings-data/chunks.json",
+  "triangles": 24975
+ },
+ "heights": {
+  "topM": 18.5,
+  "eavesM": 14.75,
+  "lines": [
+   0,
+   3.2,
+   6.088,
+   8.977,
+   11.865,
+   14.753
+  ]
+ },
+ "render": {
+  "wall": "#8a6b61",
+  "wallRaw": "#8a6b61",
+  "material": "brick",
+  "glazing": 0,
+  "storeyGlazing": [
+   null,
+   0,
+   0,
+   0,
+   0
+  ],
+  "columns": null,
+  "windowColumns": null,
+  "pitchM": null,
+  "window": null,
+  "frontClass": "blank",
+  "usable": 1,
+  "foliage": 0,
+  "washedOut": 0
+ },
+ "photo": {
+  "file": "../../map-recall2-source-data/block-face-strips/nassau-145-152/strip.jpg",
+  "kind": "block-face strip nassau-145-152 2024-11-21 (40 px/m)",
+  "measure": {
+   "wall": "#5f4932",
+   "wallRaw": "#5f4932",
+   "material": "brick",
+   "glazing": 0.302,
+   "storeyGlazing": [
+    null,
+    0.391,
+    0.302,
+    0.238,
+    0.305
+   ],
+   "columns": 7,
+   "windowColumns": 7,
+   "pitchM": 1.687,
+   "window": {
+    "w": 0.6,
+    "h": 0.85,
+    "sill": 0.15,
+    "aspect": 2.43,
+    "shape": "tall"
+   },
+   "frontClass": "punched",
+   "usable": 0.794,
+   "foliage": 0.187,
+   "washedOut": 0.003
+  }
+ },
+ "verdict": {
+  "verdict": "FAIL",
+  "reasons": [
+   "wall dL +0.18",
+   "window shape none vs tall",
+   "columns none vs 7"
+  ],
+  "warns": [],
+  "wall": {
+   "a": "#8a6b61",
+   "b": "#5f4932",
+   "dL": 0.176,
+   "dHue": -16,
+   "pass": false
+  },
+  "glazing": {
+   "a": 0,
+   "b": 0.302,
+   "diff": -0.302,
+   "pass": false
+  },
+  "storeys": {
+   "a": 4,
+   "b": 4,
+   "pass": true
+  },
+  "columns": {
+   "a": null,
+   "b": 7,
+   "pass": false
+  },
+  "window": {
+   "a": null,
+   "b": "tall",
+   "pass": false
+  },
+  "classes": {
+   "a": "blank",
+   "b": "punched"
+  }
+ },
+ "timings": {
+  "glb": 28,
+  "raster": 750,
+  "photo": 710
+ }
+}
