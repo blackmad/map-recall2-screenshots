@@ -1,0 +1,750 @@
+[
+ {
+  "slug": "felix-176312",
+  "id": "NL.IMBAG.Pand.0363100012176312",
+  "buurt": "Felix Meritisbuurt",
+  "score": 9,
+  "facts": {
+   "cd": "1896-1897",
+   "finish": "brick",
+   "el": [
+    "hoistBeam",
+    "shopfront",
+    "corniceConsoles",
+    "dormer",
+    "sashWindows",
+    "bayWindow",
+    "gablestone",
+    "anchors"
+   ],
+   "text": "Inleiding\n\nIn 1896-1897 in opdracht van de scheepsreder August J. Hendrichs  gebouwde WINKEL met BOVENWONINGEN, naar een ontwerp van A.L. van Gendt en J.G. van Gendt in een door het Eclecticisme, de Art Nouveau en Neorenaissance beïnvloede stijl. De namen van de architecten worden vermeld op een gevelsteen boven de toegang aan de Herengracht. \n\nOmschrijving\n\nHet gebouw is op een parallellogram-vor"
+  },
+  "wall": {
+   "mid": [
+    4.887499497026324,
+    52.373202002303536
+   ],
+   "len": 11.4,
+   "normalBearing": 275
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_000444",
+   "lng": 4.88719409090252,
+   "lat": 52.3732183483262,
+   "date": "2021-01-22",
+   "distM": 20.9,
+   "obliquityDeg": 1
+  }
+ },
+ {
+  "slug": "felix-176346",
+  "id": "NL.IMBAG.Pand.0363100012176346",
+  "buurt": "Felix Meritisbuurt",
+  "score": 9,
+  "facts": {
+   "gable": "plain",
+   "finish": "ornamentalBrick",
+   "el": [
+    "stoop",
+    "shopfront",
+    "corniceConsoles",
+    "crownCornice",
+    "dormer",
+    "attic",
+    "balcony",
+    "bayWindow",
+    "sculpture",
+    "balustrade"
+   ],
+   "bands": true,
+   "text": "In boogvorm gebouwde reeks winkelwoningen (van vier bouwlagen) met uitgebouwde galerij op de beganegrond en entresol, en met bovenwoningen verdeeld over twee bouwlagen en kapverdieping, opgetrokken in baksteen, met veelvuldig gebruik van natuurstenen decoraties - veelal naar de opdrachtgeefster verwijzend - in eclectische trant naar ontwerp van A.L. van Gendt ten behoeve van de levensverzekeringsm"
+  },
+  "wall": {
+   "mid": [
+    4.885936997042692,
+    52.373594502307796
+   ],
+   "len": 5.7,
+   "normalBearing": 43
+  },
+  "pano": {
+   "id": "TMX7316010203-001178_pano_0001_000679",
+   "lng": 4.88608760743575,
+   "lat": 52.3736945229642,
+   "date": "2019-05-13",
+   "distM": 15.1,
+   "obliquityDeg": 0
+  }
+ },
+ {
+  "slug": "felix-169116",
+  "id": "NL.IMBAG.Pand.0363100012169116",
+  "buurt": "Felix Meritisbuurt",
+  "score": 6,
+  "facts": {
+   "cd": "1617",
+   "gable": "cornice",
+   "finish": "plaster",
+   "el": [
+    "stoop",
+    "shopfront",
+    "corniceConsoles",
+    "crownCornice",
+    "dormer",
+    "sashWindows",
+    "glazingBars",
+    "pilasters"
+   ],
+   "text": "Inleiding \n\nGRACHTENHUIS gebouwd in 1617 voor Jan Cornelisz. Visscher. Als verwijzing naar de stichter en vanwege de sculptuur van een visser in de geveltop ooit 'De Visser' genaamd. De huidige gedaante van de voorgevel dateert van omstreeks 1809, toen eigenaar Pieter de Putter toestemming kreeg deze te wijzigen. Het interieur bevat meer dan dertig in betimmeringen gevatte behangsels geschilderd o"
+  },
+  "wall": {
+   "mid": [
+    4.8851374970738055,
+    52.371201002266474
+   ],
+   "len": 6,
+   "normalBearing": 274
+  },
+  "pano": {
+   "id": "TMX7316060226-000022_pano_0003_000112",
+   "lng": 4.88502060735332,
+   "lat": 52.3712142771729,
+   "date": "2016-08-16",
+   "distM": 8.1,
+   "obliquityDeg": 7
+  }
+ },
+ {
+  "slug": "felix-177452",
+  "id": "NL.IMBAG.Pand.0363100012177452",
+  "buurt": "Felix Meritisbuurt",
+  "score": 4,
+  "facts": {
+   "fd": "XVIIB",
+   "el": [
+    "stoop",
+    "pediment",
+    "doorSurround",
+    "gablestone"
+   ],
+   "text": "Pand met klokgevel onder siertrossen (XVIIB, fronton verdwenen, benedenhelft verbouwd XVIIIA) met gevelsteen; deuromlijsting en stoep XVIIIA, deur en snijraam XIXA."
+  },
+  "wall": {
+   "mid": [
+    4.887620997093542,
+    52.36965900225238
+   ],
+   "len": 6.3,
+   "normalBearing": 97
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_001398",
+   "lng": 4.88794925626204,
+   "lat": 52.3696239855595,
+   "date": "2021-01-22",
+   "distM": 22.7,
+   "obliquityDeg": 4
+  }
+ },
+ {
+  "slug": "felix-172165",
+  "id": "NL.IMBAG.Pand.0363100012172165",
+  "buurt": "Felix Meritisbuurt",
+  "score": 3.5,
+  "facts": {
+   "fd": "XVIIId",
+   "gable": "cornice",
+   "finish": "stone",
+   "el": [
+    "corniceConsoles",
+    "dormer"
+   ],
+   "text": "Pand met zandstenen gevel onder triglyfenlijst met consoles (XVIIId); gesneden deur uit de bouwtijd, snijraam uit XIXa. Vierraams achterhuis met gesneden dakkapel (XVIII)."
+  },
+  "wall": {
+   "mid": [
+    4.884976997103612,
+    52.36957850224251
+   ],
+   "len": 5.7,
+   "normalBearing": 273
+  },
+  "pano": {
+   "id": "TMX7316010203-000355_pano_0000_000892",
+   "lng": 4.88462333108723,
+   "lat": 52.369627515731,
+   "date": "2017-07-07",
+   "distM": 24.7,
+   "obliquityDeg": 10
+  }
+ },
+ {
+  "slug": "felix-172229",
+  "id": "NL.IMBAG.Pand.0363100012172229",
+  "buurt": "Felix Meritisbuurt",
+  "score": 3.5,
+  "facts": {
+   "fd": "XVIIIc",
+   "cd": "XVII",
+   "gable": "cornice",
+   "el": [
+    "corniceConsoles",
+    "dormer",
+    "doorSurround"
+   ],
+   "text": "Huis (XVII) waarvan de gevel een XVIIIc verbouwde onderhelft en een bovenhelft uit XIX B heeft, onder rechte lijst met consoles en dakkapel; deuromlijsting."
+  },
+  "wall": {
+   "mid": [
+    4.885168997066005,
+    52.37157350227205
+   ],
+   "len": 8.6,
+   "normalBearing": 273
+  },
+  "pano": {
+   "id": "TMX7316060226-000022_pano_0003_000119",
+   "lng": 4.88505293948116,
+   "lat": 52.37153456116,
+   "date": "2016-08-16",
+   "distM": 9,
+   "obliquityDeg": 31
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-180181",
+  "id": "NL.IMBAG.Pand.0363100012180181",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 4.5,
+  "facts": {
+   "fd": "plm 1800",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "dormer",
+    "glazingBars",
+    "doorSurround"
+   ],
+   "text": "Pand met gevel onder rechte lijst met consoles en dakkapel (plm 1800). Empire deuromlijsting, deur, roedenverdeling en 5 stoeppalen."
+  },
+  "wall": {
+   "mid": [
+    4.89250049722206,
+    52.36227800217079
+   ],
+   "len": 6.3,
+   "normalBearing": 193
+  },
+  "pano": {
+   "id": "TMX7316010203-002952_pano_0003_000787",
+   "lng": 4.89242442272205,
+   "lat": 52.3621341914179,
+   "date": "2023-01-30",
+   "distM": 16.8,
+   "obliquityDeg": 6
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-167483",
+  "id": "NL.IMBAG.Pand.0363100012167483",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 3.5,
+  "facts": {
+   "fd": "tweede kwart achttiende eeuw",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "dormer",
+    "glazingBars"
+   ],
+   "text": "Pand met gevel (tweede kwart achttiende eeuw) met versierde stoep uit de bouwtijd en bekroond door een gesneden lijst met consoles (omstreeks 1800) waarboven een schilddakje met dakkapel; empire deur en -roedenverdeling."
+  },
+  "wall": {
+   "mid": [
+    4.894402497200904,
+    52.363355002195526
+   ],
+   "len": 7.5,
+   "normalBearing": 12
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_000064",
+   "lng": 4.89451764543066,
+   "lat": 52.3635619032797,
+   "date": "2021-01-22",
+   "distM": 24.3,
+   "obliquityDeg": 7
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-171023",
+  "id": "NL.IMBAG.Pand.0363100012171023",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 3,
+  "facts": {
+   "cd": "XVIIc",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "attic"
+   ],
+   "bands": true,
+   "text": "Huis, XVIIc, verbouwd XVIIIb/c en omstreeks 1795 met door natuurstenen banden horizontaal gelede gevel onder rechte klossenlijst met attiek. Omlijste vensters. Stoeppalen (Toegeschreven aan Abraham van der Hart)."
+  },
+  "wall": {
+   "mid": [
+    4.895561497197316,
+    52.363198002192114
+   ],
+   "len": 5.8,
+   "normalBearing": 12
+  },
+  "pano": {
+   "id": "TMX7316010203-000355_pano_0000_001158",
+   "lng": 4.89560844727282,
+   "lat": 52.3633813595759,
+   "date": "2017-07-07",
+   "distM": 20.7,
+   "obliquityDeg": 2
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-167479",
+  "id": "NL.IMBAG.Pand.0363100012167479",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 2.5,
+  "facts": {
+   "fd": "XVII B",
+   "gable": "cornice",
+   "el": [
+    "corniceConsoles",
+    "doorSurround"
+   ],
+   "text": "Huis onder dwars dak met gevel (XVII B) onder rechte lijst met consoles, evenals de deuromlijsting uit plm 1800."
+  },
+  "wall": {
+   "mid": [
+    4.893322497219549,
+    52.36216650216837
+   ],
+   "len": 4.9,
+   "normalBearing": 192
+  },
+  "pano": {
+   "id": "TMX7316010203-002952_pano_0003_000799",
+   "lng": 4.89325041427862,
+   "lat": 52.3620122795887,
+   "date": "2023-01-30",
+   "distM": 17.8,
+   "obliquityDeg": 4
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-167485",
+  "id": "NL.IMBAG.Pand.0363100012167485",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 2.5,
+  "facts": {
+   "fd": "tweede kwart achttiende eeuw",
+   "gable": "cornice",
+   "el": [
+    "corniceConsoles",
+    "dormer",
+    "glazingBars"
+   ],
+   "text": "Pand met gevel (tweede kwart achttiende eeuw) onder rechte klossenlijst met consoles (circa 1800) waarboven een schilddakje met dakkapel; empire deur en roedenverdeling."
+  },
+  "wall": {
+   "mid": [
+    4.8943064971982135,
+    52.36336800219094
+   ],
+   "len": 5.9,
+   "normalBearing": 13
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_000065",
+   "lng": 4.8943728632286,
+   "lat": 52.3635718294283,
+   "date": "2021-01-22",
+   "distM": 23.1,
+   "obliquityDeg": 2
+  }
+ },
+ {
+  "slug": "vijzelstraatbuurt-167895",
+  "id": "NL.IMBAG.Pand.0363100012167895",
+  "buurt": "Vijzelstraatbuurt",
+  "score": 2.5,
+  "facts": {
+   "fd": "1667/69",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "cellarEntrance"
+   ],
+   "text": "Pand met gevel (1667/69 onder gesneden rechte lijst, evenals deur- en vensteromlijstingen XVIIId. Versierde stoep en kelderpui XVIII; empire snijraamhek."
+  },
+  "wall": {
+   "mid": [
+    4.889708497196893,
+    52.36398950218319
+   ],
+   "len": 5.1,
+   "normalBearing": 14
+  },
+  "pano": {
+   "id": "TMX7316010203-000355_pano_0000_001117",
+   "lng": 4.88977698898569,
+   "lat": 52.3641841219525,
+   "date": "2017-07-07",
+   "distM": 22.2,
+   "obliquityDeg": 2
+  }
+ },
+ {
+  "slug": "langestraat-175320",
+  "id": "NL.IMBAG.Pand.0363100012175320",
+  "buurt": "Langestraat e.o.",
+  "score": 4.5,
+  "facts": {
+   "fd": "tweede kwart achttiende eeuw",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "cellarEntrance",
+    "corniceConsoles",
+    "doorSurround",
+    "sculpture",
+    "balustrade"
+   ],
+   "text": "Pand met gevel met gebeeldhouwde kelderpui en stoep, drie Louis XIV flesbalusters en rijk gesneden deuromlijsting met zijlichten (alles tweede kwart achttiende eeuw); gesneden rechte daklijst met klossen eerste kwart negentiende eeuw. Inwendig stucgang met fraai gesneden deuren uit de bouwtijd."
+  },
+  "wall": {
+   "mid": [
+    4.8924189969306715,
+    52.37774600238779
+   ],
+   "len": 5.6,
+   "normalBearing": 124
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_001495",
+   "lng": 4.89266130819609,
+   "lat": 52.3776209501683,
+   "date": "2021-01-22",
+   "distM": 21.6,
+   "obliquityDeg": 6
+  }
+ },
+ {
+  "slug": "langestraat-168136",
+  "id": "NL.IMBAG.Pand.0363100012168136",
+  "buurt": "Langestraat e.o.",
+  "score": 4,
+  "facts": {
+   "fd": "negentiende eeuw",
+   "cd": "achttiende eeuw",
+   "finish": "plaster",
+   "el": [
+    "doorSurround",
+    "gablestone"
+   ],
+   "text": "Pand met gevel (in de kern achttiende eeuw?), negentiende eeuw gepleisterd en van een fantasietop voorzien. Deuromlijsting waarin een deur (eerste helft achttiende eeuw) en snijraam (eerste kwart negentiende eeuw). Gevelsteen (tweede kwart zeventiende eeuw)."
+  },
+  "wall": {
+   "mid": [
+    4.890485996925328,
+    52.37933350241002
+   ],
+   "len": 6,
+   "normalBearing": 19
+  },
+  "pano": {
+   "id": "TMX7316010203-001979_pano_0001_000382",
+   "lng": 4.89059427530452,
+   "lat": 52.3795201287021,
+   "date": "2021-01-25",
+   "distM": 22,
+   "obliquityDeg": 1
+  }
+ },
+ {
+  "slug": "langestraat-179760",
+  "id": "NL.IMBAG.Pand.0363100012179760",
+  "buurt": "Langestraat e.o.",
+  "score": 4,
+  "facts": {
+   "fd": "1800",
+   "cd": "XVII",
+   "gable": "cornice",
+   "el": [
+    "hoistBeam",
+    "corniceConsoles",
+    "doorSurround"
+   ],
+   "text": "Huis (XVII) met gevel onder rechte lijst met consoles en twee hijsbalken en met gesneden deuromlijsting, alles tegen 1800."
+  },
+  "wall": {
+   "mid": [
+    4.89111899692165,
+    52.37866150239584
+   ],
+   "len": 4.5,
+   "normalBearing": 120
+  },
+  "pano": {
+   "id": "TMX7316010203-000205_pano_0000_000515",
+   "lng": 4.89143079411943,
+   "lat": 52.3785728134365,
+   "date": "2017-03-13",
+   "distM": 23.4,
+   "obliquityDeg": 4
+  }
+ },
+ {
+  "slug": "langestraat-171073",
+  "id": "NL.IMBAG.Pand.0363100012171073",
+  "buurt": "Langestraat e.o.",
+  "score": 3.5,
+  "facts": {
+   "fd": "XVIIIb",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "cellarEntrance",
+    "corniceConsoles",
+    "attic",
+    "sculpture"
+   ],
+   "text": "Pand met gevel onder rechte lijst met consoles en attiek, met gebeeldhouwde kelderpui en stoep (XVIIIb)."
+  },
+  "wall": {
+   "mid": [
+    4.892993496918947,
+    52.3782660023976
+   ],
+   "len": 5.9,
+   "normalBearing": 125
+  },
+  "pano": {
+   "id": "TMX7316010203-001975_pano_0000_001502",
+   "lng": 4.89323697119259,
+   "lat": 52.3781327935625,
+   "date": "2021-01-22",
+   "distM": 22.2,
+   "obliquityDeg": 8
+  }
+ },
+ {
+  "slug": "langestraat-177414",
+  "id": "NL.IMBAG.Pand.0363100012177414",
+  "buurt": "Langestraat e.o.",
+  "score": 3.5,
+  "facts": {
+   "fd": "18e eeuws",
+   "cd": "18e eeuws",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "cellarEntrance",
+    "corniceConsoles"
+   ],
+   "text": "17e- of 18e eeuws, in de 2e helft van de 19e eeuw geheel verbouwd, verhoogd en van een nieuw dak voorzien pand. Stoep, kelderpui en het grootste deel van de gevel 18e eeuws; bovenste verdieping en rechte lijst met consoles 2e helft 19e eeuw."
+  },
+  "wall": {
+   "mid": [
+    4.8878104968406175,
+    52.37942350240934
+   ],
+   "len": 16,
+   "normalBearing": 300
+  },
+  "pano": {
+   "id": "TMX7316010203-001974_pano_0000_000278",
+   "lng": 4.88750846237408,
+   "lat": 52.3795418475429,
+   "date": "2021-01-22",
+   "distM": 24.4,
+   "obliquityDeg": 3
+  }
+ },
+ {
+  "slug": "langestraat-179597",
+  "id": "NL.IMBAG.Pand.0363100012179597",
+  "buurt": "Langestraat e.o.",
+  "score": 3.5,
+  "facts": {
+   "fd": "XVIII",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "dormer"
+   ],
+   "text": "PAND met gevel (XVIII) onder rechte lijst met consoles en dakkapel (XIXc); versierde stoep (XVIII)."
+  },
+  "wall": {
+   "mid": [
+    4.891208546958289,
+    52.37664555236659
+   ],
+   "len": 4,
+   "normalBearing": 124
+  },
+  "pano": {
+   "id": "TMX7316010203-000354_pano_0001_000071",
+   "lng": 4.89142922379988,
+   "lat": 52.376544410933,
+   "date": "2017-07-06",
+   "distM": 18.8,
+   "obliquityDeg": 3
+  }
+ },
+ {
+  "slug": "nieuwmarkt-171851",
+  "id": "NL.IMBAG.Pand.0363100012171851",
+  "buurt": "Nieuwmarkt",
+  "score": 99,
+  "facts": {
+   "fd": "XIXd",
+   "cd": "XVII",
+   "gable": "step",
+   "el": [],
+   "text": "Hoekhuis (XVII) met trapgevel (XIXd) vernieuwd."
+  },
+  "wall": {
+   "mid": [
+    4.899955497031283,
+    52.3730370023553
+   ],
+   "len": 8.7,
+   "normalBearing": 24
+  },
+  "pano": {
+   "id": "TMX7315120208-000073_pano_0005_000105",
+   "lng": 4.90021634109144,
+   "lat": 52.3731763826285,
+   "date": "2016-06-09",
+   "distM": 23.6,
+   "obliquityDeg": 25
+  }
+ },
+ {
+  "slug": "nieuwmarkt-171854",
+  "id": "NL.IMBAG.Pand.0363100012171854",
+  "buurt": "Nieuwmarkt",
+  "score": 99,
+  "facts": {
+   "fd": "XVIIc/d",
+   "gable": "bell",
+   "el": [],
+   "text": "Pand met klokgevel (XVIIc/d)."
+  },
+  "wall": {
+   "mid": [
+    4.899870497013022,
+    52.37305900234298
+   ],
+   "len": 3.3,
+   "normalBearing": 24
+  },
+  "pano": {
+   "id": "TMX7316010203-001664_pano_0000_001651",
+   "lng": 4.90023579102144,
+   "lat": 52.373276421981,
+   "date": "2020-04-21",
+   "distM": 34.7,
+   "obliquityDeg": 22
+  }
+ },
+ {
+  "slug": "nieuwmarkt-182848",
+  "id": "NL.IMBAG.Pand.0363100012182848",
+  "buurt": "Nieuwmarkt",
+  "score": 99,
+  "facts": {
+   "fd": "1662",
+   "gable": "bell",
+   "el": [],
+   "text": "Hoekhuis met gevel uit 1662 onder klokvormige top (XVIII); overgebouwde zij- en achterhuisgevels."
+  },
+  "wall": {
+   "mid": [
+    4.8997994970339445,
+    52.37281850235472
+   ],
+   "len": 9.3,
+   "normalBearing": 199
+  },
+  "pano": {
+   "id": "TMX7316010203-002992_pano_0005_000143",
+   "lng": 4.89985710647257,
+   "lat": 52.3726045107193,
+   "date": "2023-03-13",
+   "distM": 24.1,
+   "obliquityDeg": 28
+  }
+ },
+ {
+  "slug": "nieuwmarkt-182849",
+  "id": "NL.IMBAG.Pand.0363100012182849",
+  "buurt": "Nieuwmarkt",
+  "score": 99,
+  "facts": {
+   "fd": "XVIII",
+   "gable": "cornice",
+   "el": [],
+   "text": "Pand met gevel (XVIII) onder rechte lijst (eind XVIII/begin XIX)."
+  },
+  "wall": {
+   "mid": [
+    4.8999019970087705,
+    52.372856502338614
+   ],
+   "len": 4.2,
+   "normalBearing": 113
+  },
+  "pano": {
+   "id": "b_20250108_1041_Track23_Sphere_00096",
+   "lng": 4.900027165762034,
+   "lat": 52.37282355443193,
+   "date": "2025-01-08",
+   "distM": 9.3,
+   "obliquityDeg": 1
+  }
+ },
+ {
+  "slug": "nieuwmarkt-182857",
+  "id": "NL.IMBAG.Pand.0363100012182857",
+  "buurt": "Nieuwmarkt",
+  "score": 99,
+  "facts": {
+   "fd": "1605",
+   "gable": "step",
+   "el": [
+    "twinGable"
+   ],
+   "bands": true,
+   "text": "In oorsprong dubbel, later gesplitst huis met tweeling trapgevel, rijk versierd met banden en kleine blokjes (1605)."
+  },
+  "wall": {
+   "mid": [
+    4.899715496977619,
+    52.37260450233954
+   ],
+   "len": 12.1,
+   "normalBearing": 115
+  },
+  "pano": {
+   "id": "recording_2025-07-03_03-29-47_02926",
+   "lng": 4.899842900973272,
+   "lat": 52.372567302662574,
+   "date": "2025-07-03",
+   "distM": 9.6,
+   "obliquityDeg": 1
+  }
+ }
+]

@@ -1,0 +1,474 @@
+{
+ "felix-176312": {
+  "NL.IMBAG.Pand.0363100012176312": {
+   "lngLat": [
+    4.888158562593787,
+    52.37285583198988
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012176312"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012177527": {
+   "lngLat": [
+    4.888516586723,
+    52.37310989917381
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012177527"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012167629": {
+   "lngLat": [
+    4.887800538464603,
+    52.372601763344505
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012167629"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "felix-176346": {
+  "NL.IMBAG.Pand.0363100012176346": {
+   "lngLat": [
+    4.885313517708454,
+    52.373180446053595
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012176346"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012176347": {
+   "lngLat": [
+    4.885692070106529,
+    52.37296798380808
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012176347"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012169576": {
+   "lngLat": [
+    4.8849349653104355,
+    52.373392907277065
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012169576"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "felix-169116": {
+  "NL.IMBAG.Pand.0363100012169116": {
+   "lngLat": [
+    4.886083839568016,
+    52.3710935281006
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012169116"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012172232": {
+   "lngLat": [
+    4.886172775414337,
+    52.371385441627666
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012172232"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012253890": {
+   "lngLat": [
+    4.885994903721723,
+    52.37080161264427
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012253890"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "vijzelstraatbuurt-180181": {
+  "NL.IMBAG.Pand.0363100012180181": {
+   "lngLat": [
+    4.89278056783715,
+    52.36280744185353
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012180181"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012180186": {
+   "lngLat": [
+    4.89228495769899,
+    52.362905208644776
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012180186"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012180188": {
+   "lngLat": [
+    4.893276177975366,
+    52.362709674845945
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012180188"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "vijzelstraatbuurt-167483": {
+  "NL.IMBAG.Pand.0363100012167483": {
+   "lngLat": [
+    4.893649238469095,
+    52.36299355979952
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012167483"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012179306": {
+   "lngLat": [
+    4.893346955562549,
+    52.36322847444032
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012179306"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "vijzelstraatbuurt-171023": {
+  "NL.IMBAG.Pand.0363100012171023": {
+   "lngLat": [
+    4.8960629627427465,
+    52.36270528214982
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012171023"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012178586": {
+   "lngLat": [
+    4.896483093159333,
+    52.362864731150324
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012178586"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012169155": {
+   "lngLat": [
+    4.895642832326189,
+    52.362545832573886
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012169155"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "langestraat-175320": {
+  "NL.IMBAG.Pand.0363100012175320": {
+   "lngLat": [
+    4.891471663760143,
+    52.37766222363666
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012175320"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012175357": {
+   "lngLat": [
+    4.891541927479238,
+    52.37736614509353
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012175357"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012175321": {
+   "lngLat": [
+    4.891401400041076,
+    52.37795830019462
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012175321"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "langestraat-168136": {
+  "NL.IMBAG.Pand.0363100012168136": {
+   "lngLat": [
+    4.891019439037819,
+    52.37884445504923
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168136"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012168135": {
+   "lngLat": [
+    4.891424528527011,
+    52.37900910696189
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168135"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012168203": {
+   "lngLat": [
+    4.890614349548656,
+    52.37867980252264
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168203"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "nieuwmarkt-182857": {
+  "NL.IMBAG.Pand.0363100012182857": {
+   "lngLat": [
+    4.89885513754578,
+    52.372855711010686
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012182857"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  }
+ },
+ "felix-168578": {
+  "NL.IMBAG.Pand.0363100012168580": {
+   "lngLat": [
+    4.883639998120344,
+    52.36992637407636
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168580"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012168578": {
+   "lngLat": [
+    4.884068203934191,
+    52.36971668644745
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168578"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012168581": {
+   "lngLat": [
+    4.883211792306497,
+    52.37013606070991
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012168581"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ },
+ "langestraat-175318": {
+  "NL.IMBAG.Pand.0363100012175318": {
+   "lngLat": [
+    4.891551132919005,
+    52.3778361769603
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012175318"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012175321": {
+   "lngLat": [
+    4.891548092945243,
+    52.37753933032613
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012175321"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  }
+ },
+ "nieuwmarkt-row": {
+  "NL.IMBAG.Pand.0363100012182849": {
+   "lngLat": [
+    4.8990067953463665,
+    52.37311811483232
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012182849"
+   },
+   "at": [
+    0.5,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012182848": {
+   "lngLat": [
+    4.898789877681281,
+    52.37283803843488
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012182848"
+   },
+   "at": [
+    0.3,
+    0.5
+   ]
+  },
+  "NL.IMBAG.Pand.0363100012171854": {
+   "lngLat": [
+    4.899223713011423,
+    52.373398189453695
+   ],
+   "featureTarget": {
+    "source": "osm-building-appearance",
+    "id": "NL.IMBAG.Pand.0363100012171854"
+   },
+   "at": [
+    0.7,
+    0.5
+   ]
+  }
+ }
+}

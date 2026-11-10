@@ -1,0 +1,771 @@
+[
+ {
+  "slug": "felix-176312",
+  "id": "NL.IMBAG.Pand.0363100012176312",
+  "pano": {
+   "id": "b_20241216_0911_Track30_Sphere_00042",
+   "lng": 4.887232613163434,
+   "lat": 52.37334218071123,
+   "date": "2024-12-16",
+   "distM": 24,
+   "obliquityDeg": 36,
+   "surface": "L"
+  },
+  "heading": 131,
+  "pitch": 11,
+  "vfov": 38,
+  "distM": 24,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/b_20241216_0911_Track30_Sphere_00042/?width=960&aspect=1.60&fov=58&heading=131&pitch=11",
+  "facts": {
+   "cd": "1896-1897",
+   "finish": "brick",
+   "el": [
+    "hoistBeam",
+    "shopfront",
+    "corniceConsoles",
+    "dormer",
+    "sashWindows",
+    "bayWindow",
+    "gablestone",
+    "anchors"
+   ],
+   "text": "Inleiding\n\nIn 1896-1897 in opdracht van de scheepsreder August J. Hendrichs  gebouwde WINKEL met BOVENWONINGEN, naar een ontwerp van A.L. van Gendt en J.G. van Gendt in een door het Eclecticisme, de Art Nouveau en Neorenaissance beïnvloede stijl. De namen van de architecten worden vermeld op een gevelsteen boven de toegang aan de Herengracht. \n\nOmschrijving\n\nHet gebouw is op een parallellogram-vor"
+  },
+  "before": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickRed",
+    "constructionYear": 1896,
+    "roofShape": "mansard",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 18.66
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickRed",
+    "constructionYear": 1896,
+    "registerFinish": "brick",
+    "registerForce": [
+     "bay-window",
+     "console-cornice",
+     "gable-stone",
+     "hoist-beam",
+     "wall-anchors"
+    ],
+    "roofDormer": true,
+    "roofShape": "mansard",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 18.66
+   }
+  ]
+ },
+ {
+  "slug": "felix-176346",
+  "id": "NL.IMBAG.Pand.0363100012176346",
+  "pano": {
+   "id": "TMX7316010203-001178_pano_0001_000679",
+   "lng": 4.88608760743575,
+   "lat": 52.3736945229642,
+   "date": "2019-05-13",
+   "distM": 15.1,
+   "obliquityDeg": 0,
+   "surface": "L"
+  },
+  "heading": 223,
+  "pitch": 17,
+  "vfov": 48,
+  "distM": 15,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001178_pano_0001_000679/?width=960&aspect=1.60&fov=71&heading=223&pitch=17",
+  "facts": {
+   "gable": "plain",
+   "finish": "ornamentalBrick",
+   "el": [
+    "stoop",
+    "shopfront",
+    "corniceConsoles",
+    "crownCornice",
+    "dormer",
+    "attic",
+    "balcony",
+    "bayWindow",
+    "sculpture",
+    "balustrade"
+   ],
+   "bands": true,
+   "text": "In boogvorm gebouwde reeks winkelwoningen (van vier bouwlagen) met uitgebouwde galerij op de beganegrond en entresol, en met bovenwoningen verdeeld over twee bouwlagen en kapverdieping, opgetrokken in baksteen, met veelvuldig gebruik van natuurstenen decoraties - veelal naar de opdrachtgeefster verwijzend - in eclectische trant naar ontwerp van A.L. van Gendt ten behoeve van de levensverzekeringsm"
+  },
+  "before": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickRed",
+    "constructionYear": 1898,
+    "monumentGable": "plain",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 17.34
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickRed",
+    "constructionYear": 1898,
+    "registerFinish": "brick",
+    "registerForce": [
+     "bay-window",
+     "console-cornice",
+     "iron-balconies",
+     "kroonlijst",
+     "stoop",
+     "string-courses"
+    ],
+    "monumentGable": "plain",
+    "roofDormer": true,
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 17.34
+   }
+  ]
+ },
+ {
+  "slug": "felix-169116",
+  "id": "NL.IMBAG.Pand.0363100012169116",
+  "pano": {
+   "id": "TMX7316060226-000022_pano_0003_000112",
+   "lng": 4.88502060735332,
+   "lat": 52.3712142771729,
+   "date": "2016-08-16",
+   "distM": 8.1,
+   "obliquityDeg": 7,
+   "surface": "L"
+  },
+  "heading": 101,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 8,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316060226-000022_pano_0003_000112/?width=960&aspect=1.60&fov=88&heading=101&pitch=24",
+  "facts": {
+   "cd": "1617",
+   "gable": "cornice",
+   "finish": "plaster",
+   "el": [
+    "stoop",
+    "shopfront",
+    "corniceConsoles",
+    "crownCornice",
+    "dormer",
+    "sashWindows",
+    "glazingBars",
+    "pilasters"
+   ],
+   "text": "Inleiding \n\nGRACHTENHUIS gebouwd in 1617 voor Jan Cornelisz. Visscher. Als verwijzing naar de stichter en vanwege de sculptuur van een visser in de geveltop ooit 'De Visser' genaamd. De huidige gedaante van de voorgevel dateert van omstreeks 1809, toen eigenaar Pieter de Putter toestemming kreeg deze te wijzigen. Het interieur bevat meer dan dertig in betimmeringen gevatte behangsels geschilderd o"
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickRed",
+    "constructionYear": 1800,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 18.19
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1800,
+    "registerFinish": "light",
+    "registerForce": [
+     "console-cornice",
+     "corner-pilasters",
+     "kroonlijst",
+     "stoop"
+    ],
+    "monumentGable": "cornice",
+    "roofDormer": true,
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 18.19
+   }
+  ]
+ },
+ {
+  "slug": "vijzelstraatbuurt-180181",
+  "id": "NL.IMBAG.Pand.0363100012180181",
+  "pano": {
+   "id": "TMX7316010203-002952_pano_0003_000787",
+   "lng": 4.89242442272205,
+   "lat": 52.3621341914179,
+   "date": "2023-01-30",
+   "distM": 16.8,
+   "obliquityDeg": 6,
+   "surface": "L"
+  },
+  "heading": 18,
+  "pitch": 16,
+  "vfov": 48,
+  "distM": 17,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-002952_pano_0003_000787/?width=960&aspect=1.60&fov=71&heading=18&pitch=16",
+  "facts": {
+   "fd": "plm 1800",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "dormer",
+    "glazingBars",
+    "doorSurround"
+   ],
+   "text": "Pand met gevel onder rechte lijst met consoles en dakkapel (plm 1800). Empire deuromlijsting, deur, roedenverdeling en 5 stoeppalen."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1800,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.48
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1800,
+    "registerForce": [
+     "console-cornice",
+     "door-surround",
+     "stoop"
+    ],
+    "monumentGable": "cornice",
+    "roofDormer": true,
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.48
+   }
+  ]
+ },
+ {
+  "slug": "vijzelstraatbuurt-167483",
+  "id": "NL.IMBAG.Pand.0363100012167483",
+  "pano": {
+   "id": "TMX7316010203-001900_pano_0005_000137",
+   "lng": 4.89450473334515,
+   "lat": 52.3634040587862,
+   "date": "2020-08-31",
+   "distM": 8.8,
+   "obliquityDeg": 40,
+   "surface": "L"
+  },
+  "heading": 232,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 9,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001900_pano_0005_000137/?width=960&aspect=1.60&fov=88&heading=232&pitch=24",
+  "facts": {
+   "fd": "tweede kwart achttiende eeuw",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "dormer",
+    "glazingBars"
+   ],
+   "text": "Pand met gevel (tweede kwart achttiende eeuw) met versierde stoep uit de bouwtijd en bekroond door een gesneden lijst met consoles (omstreeks 1800) waarboven een schilddakje met dakkapel; empire deur en -roedenverdeling."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1695,
+    "roofShape": "mansard",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.17
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1695,
+    "registerForce": [
+     "console-cornice",
+     "stoop"
+    ],
+    "roofDormer": true,
+    "roofShape": "mansard",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.17
+   }
+  ]
+ },
+ {
+  "slug": "vijzelstraatbuurt-171023",
+  "id": "NL.IMBAG.Pand.0363100012171023",
+  "pano": {
+   "id": "TMX7316010203-001900_pano_0005_000151",
+   "lng": 4.89548226585312,
+   "lat": 52.3632758512478,
+   "date": "2020-08-31",
+   "distM": 10.2,
+   "obliquityDeg": 43,
+   "surface": "L"
+  },
+  "heading": 148,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 10,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001900_pano_0005_000151/?width=960&aspect=1.60&fov=88&heading=148&pitch=24",
+  "facts": {
+   "cd": "XVIIc",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "corniceConsoles",
+    "attic"
+   ],
+   "bands": true,
+   "text": "Huis, XVIIc, verbouwd XVIIIb/c en omstreeks 1795 met door natuurstenen banden horizontaal gelede gevel onder rechte klossenlijst met attiek. Omlijste vensters. Stoeppalen (Toegeschreven aan Abraham van der Hart)."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickRed",
+    "constructionYear": 1670,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 15.96
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickRed",
+    "constructionYear": 1670,
+    "registerForce": [
+     "console-cornice",
+     "stoop",
+     "string-courses"
+    ],
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 15.96
+   }
+  ]
+ },
+ {
+  "slug": "langestraat-175320",
+  "id": "NL.IMBAG.Pand.0363100012175320",
+  "pano": {
+   "id": "TMX7316010203-001544_pano_0000_000188",
+   "lng": 4.89255025990186,
+   "lat": 52.3777576108021,
+   "date": "2020-01-08",
+   "distM": 9,
+   "obliquityDeg": 42,
+   "surface": "L"
+  },
+  "heading": 262,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 9,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001544_pano_0000_000188/?width=960&aspect=1.60&fov=88&heading=262&pitch=24",
+  "facts": {
+   "fd": "tweede kwart achttiende eeuw",
+   "gable": "cornice",
+   "el": [
+    "stoop",
+    "cellarEntrance",
+    "corniceConsoles",
+    "doorSurround",
+    "sculpture",
+    "balustrade"
+   ],
+   "text": "Pand met gevel met gebeeldhouwde kelderpui en stoep, drie Louis XIV flesbalusters en rijk gesneden deuromlijsting met zijlichten (alles tweede kwart achttiende eeuw); gesneden rechte daklijst met klossen eerste kwart negentiende eeuw. Inwendig stucgang met fraai gesneden deuren uit de bouwtijd."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickRed",
+    "constructionYear": 1744,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.46
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickRed",
+    "constructionYear": 1744,
+    "registerForce": [
+     "basement-well",
+     "console-cornice",
+     "door-surround",
+     "stoop"
+    ],
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 16.46
+   }
+  ]
+ },
+ {
+  "slug": "langestraat-168136",
+  "id": "NL.IMBAG.Pand.0363100012168136",
+  "pano": {
+   "id": "TMX7316010203-001543_pano_0000_002803",
+   "lng": 4.89041962396563,
+   "lat": 52.3793943512217,
+   "date": "2020-01-08",
+   "distM": 8.1,
+   "obliquityDeg": 52,
+   "surface": "L"
+  },
+  "heading": 147,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 8,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001543_pano_0000_002803/?width=960&aspect=1.60&fov=88&heading=147&pitch=24",
+  "facts": {
+   "fd": "negentiende eeuw",
+   "cd": "achttiende eeuw",
+   "finish": "plaster",
+   "el": [
+    "doorSurround",
+    "gablestone"
+   ],
+   "text": "Pand met gevel (in de kern achttiende eeuw?), negentiende eeuw gepleisterd en van een fantasietop voorzien. Deuromlijsting waarin een deur (eerste helft achttiende eeuw) en snijraam (eerste kwart negentiende eeuw). Gevelsteen (tweede kwart zeventiende eeuw)."
+  },
+  "before": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorPlaster",
+    "roofShape": "mansardHip",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 13.67
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1850,
+    "bagConstructionYear": null,
+    "registerFinish": "light",
+    "registerForce": [
+     "door-surround",
+     "gable-stone"
+    ],
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 13.67
+   }
+  ]
+ },
+ {
+  "slug": "nieuwmarkt-182857",
+  "id": "NL.IMBAG.Pand.0363100012182857",
+  "pano": {
+   "id": "recording_2025-07-03_03-29-47_02926",
+   "lng": 4.899842900973272,
+   "lat": 52.372567302662574,
+   "date": "2025-07-03",
+   "distM": 9.6,
+   "obliquityDeg": 1,
+   "surface": "L"
+  },
+  "heading": 296,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 10,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/recording_2025-07-03_03-29-47_02926/?width=960&aspect=1.60&fov=88&heading=296&pitch=24",
+  "facts": {
+   "fd": "1605",
+   "gable": "step",
+   "el": [
+    "twinGable"
+   ],
+   "bands": true,
+   "text": "In oorsprong dubbel, later gesplitst huis met tweeling trapgevel, rijk versierd met banden en kleine blokjes (1605)."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1605,
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.1
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1605,
+    "registerForce": [
+     "string-courses"
+    ],
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.1
+   }
+  ]
+ },
+ {
+  "slug": "felix-168578",
+  "id": "NL.IMBAG.Pand.0363100012168578",
+  "pano": {
+   "id": "b_20241121_1354_Track03_Sphere_00877",
+   "lng": 4.884404151109521,
+   "lat": 52.370508097126184,
+   "date": "2024-11-21",
+   "distM": 23.9,
+   "obliquityDeg": 36,
+   "surface": "L"
+  },
+  "heading": 219,
+  "pitch": 11,
+  "vfov": 38,
+  "distM": 24,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/b_20241121_1354_Track03_Sphere_00877/?width=960&aspect=1.60&fov=58&heading=219&pitch=11",
+  "facts": {
+   "cd": "1935-1936",
+   "gable": "neck",
+   "finish": "stone",
+   "el": [
+    "hoistBeam",
+    "stoop",
+    "corniceConsoles",
+    "dormer",
+    "glazingBars",
+    "shutters",
+    "sculpture",
+    "gablestone"
+   ],
+   "text": "Inleiding\n\nOp de hoek van de Keizersgracht en de Berenstraat gelegen en in 1935-1936 tot stand gekomen HANDELSKANTOOR met magazijnen, kantoren, monsterkamers, een conciërgewoning en verwarmingskelder voor de firma William  Koch  & Co, importeurs van Torpedo-rijwielnaven en F & S-kogellagers. Het gebouw werd ontworpen door de architect  A.A.  Kok in de stijl van de Delftse School. Kok heeft hier ge"
+  },
+  "before": [
+   {
+    "facadeStyle": "school",
+    "facade": "school-priorBrickBrown",
+    "constructionYear": 1936,
+    "monumentGable": "neck",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 15.53
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "school",
+    "facade": "school-priorPlaster",
+    "constructionYear": 1936,
+    "registerFinish": "light",
+    "registerForce": [
+     "console-cornice",
+     "gable-stone",
+     "hoist-beam",
+     "shutters-3d",
+     "stoop"
+    ],
+    "monumentGable": "neck",
+    "roofDormer": true,
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 15.53
+   }
+  ]
+ },
+ {
+  "slug": "langestraat-175318",
+  "id": "NL.IMBAG.Pand.0363100012175318",
+  "pano": {
+   "id": "TMX7316010203-001544_pano_0000_000186",
+   "lng": 4.89263248953086,
+   "lat": 52.3778320501871,
+   "date": "2020-01-08",
+   "distM": 8.1,
+   "obliquityDeg": 34,
+   "surface": "L"
+  },
+  "heading": 271,
+  "pitch": 24,
+  "vfov": 62,
+  "distM": 8,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/TMX7316010203-001544_pano_0000_000186/?width=960&aspect=1.60&fov=88&heading=271&pitch=24",
+  "facts": {
+   "fd": "XIXc",
+   "gable": "cornice",
+   "el": [
+    "corniceConsoles",
+    "balcony"
+   ],
+   "text": "Pand met gevel onder rechte lijst met consoles en met twee balcons, (XIXc)."
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorPlaster",
+    "constructionYear": 1738,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.6
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickRed",
+    "constructionYear": 1862,
+    "bagConstructionYear": 1738,
+    "registerForce": [
+     "console-cornice",
+     "iron-balconies"
+    ],
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.6
+   }
+  ]
+ },
+ {
+  "slug": "nieuwmarkt-row",
+  "id": "NL.IMBAG.Pand.0363100012171851,NL.IMBAG.Pand.0363100012171854,NL.IMBAG.Pand.0363100012182848,NL.IMBAG.Pand.0363100012182849,NL.IMBAG.Pand.0363100012182857",
+  "pano": {
+   "id": "b_20250108_1041_Track23_Sphere_00096",
+   "lng": 4.900027165762034,
+   "lat": 52.37282355443193,
+   "date": "2025-01-08",
+   "distM": 13.445358567969219,
+   "obliquityDeg": 2.6359082257401556
+  },
+  "heading": 296,
+  "pitch": 19,
+  "vfov": 56,
+  "distM": 13,
+  "photoUrl": "https://api.data.amsterdam.nl/panorama/thumbnail/b_20250108_1041_Track23_Sphere_00096/?width=960&aspect=1.60&fov=81&heading=296&pitch=19",
+  "facts": {
+   "row": [
+    "nieuwmarkt-171851:step",
+    "nieuwmarkt-171854:bell",
+    "nieuwmarkt-182848:bell",
+    "nieuwmarkt-182849:cornice",
+    "nieuwmarkt-182857:step"
+   ]
+  },
+  "before": [
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1725,
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 10.27
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickDark",
+    "constructionYear": 1716,
+    "monumentGable": "bell",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.39
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1693,
+    "monumentGable": "bell",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 13.71
+   },
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorPlaster",
+    "constructionYear": 1905,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.91
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1605,
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.1
+   }
+  ],
+  "after": [
+   {
+    "facadeStyle": "c19",
+    "facade": "c19-priorBrickBrown",
+    "constructionYear": 1887,
+    "bagConstructionYear": 1725,
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 10.27
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickDark",
+    "constructionYear": 1716,
+    "monumentGable": "bell",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.39
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1693,
+    "monumentGable": "bell",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 13.71
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickDark",
+    "constructionYear": 1750,
+    "bagConstructionYear": 1905,
+    "monumentGable": "cornice",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.91
+   },
+   {
+    "facadeStyle": "canal",
+    "facade": "canal-priorBrickBrown",
+    "constructionYear": 1605,
+    "registerForce": [
+     "string-courses"
+    ],
+    "monumentGable": "step",
+    "roofShape": "gable",
+    "appearanceStyleSource": "citywide-identity-palette-v3-not-measured",
+    "height": 12.1
+   }
+  ]
+ }
+]

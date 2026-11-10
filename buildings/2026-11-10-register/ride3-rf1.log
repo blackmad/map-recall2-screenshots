@@ -1,0 +1,12 @@
+
+Running 1 test using 1 worker
+
+[1/1] [desktop] › tests/e2e/register-frontal-strip.spec.ts:31:1 › register frontal strip
+  1 passed (1.7m)
+rf1 exit 0
+
+Running 1 test using 1 worker
+
+[1/1] [desktop] › tests/e2e/register-frontal-strip.spec.ts:31:1 › register frontal strip
+  1 passed (1.6m)
+rf1b exit 0
