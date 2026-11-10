@@ -1,0 +1,22 @@
+{
+ "lane": "H7 #354 round 2",
+ "batch": "pilot-20261110",
+ "clock": "local wall time 2026-11-10, the user's Mac, other lanes running",
+ "steps": {
+  "intakeWinterStripS": {"2019-01-09": 32, "2021-03-24": 72.5, "2022-04-26": 101.6, "note": "one face strip per capture day, 7 pands; cached re-run 18-22 s"},
+  "wallFitS": "about 3 s for the face (6 votes x 7 houses)",
+  "faceCompileS": "about 15 s per face (nassau-145-152, clercq-236681)",
+  "chunkPreviewS": "about 1 s a front (--chunk --strip --wall face --threeq)",
+  "resolvedPreviewsS": {"pands": 6, "wall": 16.6, "note": "merge + 6 recipe compiles + renders"},
+  "restageS": {"pands": 6, "wall": 1},
+  "worldShellBaselineS": 282,
+  "publishDryRunCompileS": {"wall": 32, "merge": 2.1, "compile": 28.4, "cellsChanged": 10, "cellsTotal": 604}
+ },
+ "events": [
+  "17:31:50 restaged the six Nassaukade pands (146 new) with 2019-01-09 strip receipts",
+  "17:33 publish --dry-run --compile refused: the shell code changed since the last compile (main merged); world:compile --shell baseline 282 s",
+  "17:37:29 publish --dry-run --compile ok in 32 s: 19 specs, 20 records in 3 tiles, 10 of 604 cells changed, all inside the touched set",
+  "17:42 2021-03-24 and 2022-04-26 strips for 146's colour (3 strip votes agree: #947d74)"
+ ],
+ "notTimed": "the round-2 kit work (towers, rosettes, wallFit) and the 146/--wall face debugging were not clocked per step"
+}
