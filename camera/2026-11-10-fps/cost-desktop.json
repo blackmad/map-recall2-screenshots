@@ -1,0 +1,212 @@
+{
+  "canal-prinsengracht/chase": {
+    "meanMs": 16.664999997615816,
+    "triangles": 1638602,
+    "draws": 210,
+    "owners": [
+      {
+        "owner": "facades",
+        "draws": 5,
+        "triangles": 634881
+      },
+      {
+        "owner": "own-ground",
+        "draws": 67,
+        "triangles": 348502
+      },
+      {
+        "owner": "facades extras",
+        "draws": 4,
+        "triangles": 202544
+      },
+      {
+        "owner": "facades walls",
+        "draws": 1,
+        "triangles": 115499
+      },
+      {
+        "owner": "landmarks",
+        "draws": 7,
+        "triangles": 97123
+      }
+    ],
+    "fps": null
+  },
+  "canal-prinsengracht/fps": {
+    "meanMs": 16.68250000476837,
+    "triangles": 1800280,
+    "draws": 237,
+    "owners": [
+      {
+        "owner": "own-ground",
+        "draws": 135,
+        "triangles": 787253
+      },
+      {
+        "owner": "facades",
+        "draws": 5,
+        "triangles": 540619
+      },
+      {
+        "owner": "facades extras",
+        "draws": 2,
+        "triangles": 158458
+      },
+      {
+        "owner": "engine-overview",
+        "draws": 45,
+        "triangles": 106877
+      },
+      {
+        "owner": "facades near",
+        "draws": 2,
+        "triangles": 65935
+      }
+    ],
+    "fps": {
+      "back": 0,
+      "stuck": "NL.IMBAG.Pand.0363100012174217",
+      "zoom": 20.619010873879137
+    }
+  },
+  "jordaan-egelantiersstraat/chase": {
+    "meanMs": 16.655000001192093,
+    "triangles": 1702770,
+    "draws": 218,
+    "owners": [
+      {
+        "owner": "facades",
+        "draws": 4,
+        "triangles": 554487
+      },
+      {
+        "owner": "own-ground",
+        "draws": 77,
+        "triangles": 393641
+      },
+      {
+        "owner": "facades extras",
+        "draws": 4,
+        "triangles": 307302
+      },
+      {
+        "owner": "facades near",
+        "draws": 4,
+        "triangles": 129032
+      },
+      {
+        "owner": "facades walls",
+        "draws": 1,
+        "triangles": 98574
+      }
+    ],
+    "fps": null
+  },
+  "jordaan-egelantiersstraat/fps": {
+    "meanMs": 16.65,
+    "triangles": 2262811,
+    "draws": 216,
+    "owners": [
+      {
+        "owner": "facades",
+        "draws": 7,
+        "triangles": 736232
+      },
+      {
+        "owner": "own-ground",
+        "draws": 107,
+        "triangles": 712091
+      },
+      {
+        "owner": "engine-overview",
+        "draws": 45,
+        "triangles": 254489
+      },
+      {
+        "owner": "facades extras",
+        "draws": 4,
+        "triangles": 243002
+      },
+      {
+        "owner": "facades near",
+        "draws": 4,
+        "triangles": 108994
+      }
+    ],
+    "fps": {
+      "back": 0,
+      "stuck": "NL.IMBAG.Pand.0363100012172887",
+      "zoom": 20.618929908884425
+    }
+  },
+  "bridge-magere-brug/chase": {
+    "meanMs": 16.65,
+    "triangles": 1315135,
+    "draws": 233,
+    "owners": [
+      {
+        "owner": "facades",
+        "draws": 4,
+        "triangles": 468064
+      },
+      {
+        "owner": "own-ground",
+        "draws": 96,
+        "triangles": 294879
+      },
+      {
+        "owner": "facades extras",
+        "draws": 4,
+        "triangles": 135724
+      },
+      {
+        "owner": "facades walls",
+        "draws": 1,
+        "triangles": 109160
+      },
+      {
+        "owner": "engine-overview",
+        "draws": 45,
+        "triangles": 102426
+      }
+    ],
+    "fps": null
+  },
+  "bridge-magere-brug/fps": {
+    "meanMs": 16.697500002384185,
+    "triangles": 1901184,
+    "draws": 236,
+    "owners": [
+      {
+        "owner": "own-ground",
+        "draws": 143,
+        "triangles": 916482
+      },
+      {
+        "owner": "facades",
+        "draws": 4,
+        "triangles": 468064
+      },
+      {
+        "owner": "facades extras",
+        "draws": 3,
+        "triangles": 169860
+      },
+      {
+        "owner": "engine-overview",
+        "draws": 45,
+        "triangles": 162870
+      },
+      {
+        "owner": "facades near",
+        "draws": 3,
+        "triangles": 73631
+      }
+    ],
+    "fps": {
+      "back": 0,
+      "stuck": null,
+      "zoom": 20.61934434339435
+    }
+  }
+}
