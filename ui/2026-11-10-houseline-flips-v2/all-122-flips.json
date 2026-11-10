@@ -1,0 +1,1686 @@
+[
+ {
+  "key": "aambeeldstraat-202176 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.25 vs photo 0.44",
+   "wall family unresolved (#535450 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#5b5d5a is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.159 < 0.45"
+  ]
+ },
+ {
+  "key": "asterweg-19b-209785 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.32 vs photo 0.43"
+  ],
+  "afterReasons": [
+   "columns 7 vs photo 11",
+   "mask IoU 0.449 < 0.45"
+  ]
+ },
+ {
+  "key": "balboaplein-48-147097 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing  mean 0.44 vs photo 0.55"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "balboaplein-48-147097 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.18 mean 0.19 vs photo 0.29",
+   "columns 6 vs photo 8"
+  ],
+  "afterReasons": [
+   "columns 6 vs photo 8",
+   "mask IoU 0.218 < 0.45"
+  ]
+ },
+ {
+  "key": "berlage-lyceum walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.38 vs photo 0.23",
+   "columns 7 vs photo 18"
+  ],
+  "afterReasons": [
+   "columns 7 vs photo 18",
+   "mask IoU 0.289 < 0.45"
+  ]
+ },
+ {
+  "key": "cgm-190-202277 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.16 vs photo 0.57"
+  ],
+  "afterReasons": [
+   "mask IoU 0.215 < 0.45"
+  ]
+ },
+ {
+  "key": "cgm-190-202277 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.25",
+   "columns 10 vs photo 13"
+  ],
+  "afterReasons": [
+   "columns 10 vs photo 13",
+   "mask IoU 0.146 < 0.45"
+  ]
+ },
+ {
+  "key": "crea-164972 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.33 mean 0.38 vs photo 0.52"
+  ],
+  "afterReasons": [
+   "mask IoU 0.4 < 0.45"
+  ]
+ },
+ {
+  "key": "crea-164972 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.30",
+   "columns 10 vs photo 4"
+  ],
+  "afterReasons": [
+   "columns 10 vs photo 4",
+   "mask IoU 0.147 < 0.45"
+  ]
+ },
+ {
+  "key": "cygnus walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.18",
+   "wall family unresolved (#372e29 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#36302c is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.377 < 0.45"
+  ]
+ },
+ {
+  "key": "da-costakade-146-236799 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.27 mean 0.33 vs photo 0.15",
+   "columns 7 vs photo 5"
+  ],
+  "afterReasons": [
+   "columns 7 vs photo 5",
+   "mask IoU 0.128 < 0.45"
+  ]
+ },
+ {
+  "key": "de-hallen-236693 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.19 mean 0.27 vs photo 0.12"
+  ],
+  "afterReasons": [
+   "mask IoU 0.199 < 0.45"
+  ]
+ },
+ {
+  "key": "de-hallen-236693 walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.31 mean 0.24 vs photo 0.00"
+  ],
+  "afterReasons": [
+   "mask IoU 0.171 < 0.45"
+  ]
+ },
+ {
+  "key": "de-hallen-236693 walls[7]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.43 vs photo 0.62",
+   "wall family unresolved (#352d2d is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#382f2f is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ]
+ },
+ {
+  "key": "entrepotdok-164981 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.93 mean 0.29 vs photo 0.56"
+  ],
+  "afterReasons": [
+   "mask IoU 0.307 < 0.45"
+  ]
+ },
+ {
+  "key": "entrepotdok-164981 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.38 mean 0.37 vs photo 0.03"
+  ],
+  "afterReasons": [
+   "mask IoU 0.031 < 0.45"
+  ]
+ },
+ {
+  "key": "funenpark-427-184743 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.34 mean 0.28 vs photo 0.00"
+  ],
+  "afterReasons": [
+   "mask IoU 0 < 0.45"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-105-100677 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.19 mean 0.35 vs photo 0.48",
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.20 darker than the model's in shade or overcast light"
+  ],
+  "afterReasons": [
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.20 darker than the model's in shade or overcast light",
+   "mask IoU 0.445 < 0.45"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-290 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.25",
+   "columns 10 vs photo 15"
+  ],
+  "afterReasons": [
+   "columns 10 vs photo 15"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-325-110408 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.33 mean 0.02 vs photo 0.20",
+   "wall family unresolved (#352c29 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 13 vs photo 21"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#352e2b is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 13 vs photo 21",
+   "mask IoU 0.021 < 0.45"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-337-118325 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.18 vs photo 0.51",
+   "wall family unresolved (#555c60 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#555c60 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.375 < 0.45"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-940 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.36 mean 0.35 vs photo 0.19"
+  ],
+  "afterReasons": [
+   "mask IoU 0.196 < 0.45"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-99-131644 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.39 mean 0.34 vs photo 0.57"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "hamerkanaal-209-243116 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.67 mean 0.36 vs photo 0.68",
+   "wall family unresolved (#3b333a is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#3e353c is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.318 < 0.45"
+  ]
+ },
+ {
+  "key": "hoogte-kadijk-400-251313 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.19 mean 0.20 vs photo 0.31",
+   "columns 5 vs photo 7"
+  ],
+  "afterReasons": [
+   "columns 5 vs photo 7",
+   "mask IoU 0.16 < 0.45"
+  ]
+ },
+ {
+  "key": "kinkerstraat-32-137280 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.83 mean 0.29 vs photo 0.79"
+  ],
+  "afterReasons": [
+   "mask IoU 0.366 < 0.45"
+  ]
+ },
+ {
+  "key": "kinkerstraat-89-092013 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.23"
+  ],
+  "afterReasons": [
+   "mask IoU 0.227 < 0.45"
+  ]
+ },
+ {
+  "key": "kloveniersburgwal-72-171179 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.24 mean 0.26 vs photo 0.40",
+   "wall family unresolved (#4b5050 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 3 vs photo 2"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#505352 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 3 vs photo 2",
+   "mask IoU 0.215 < 0.45"
+  ]
+ },
+ {
+  "key": "ledenberch-38-243844 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.52 mean 0.33 vs photo 0.64"
+  ],
+  "afterReasons": [
+   "mask IoU 0.367 < 0.45"
+  ]
+ },
+ {
+  "key": "leidsestraat-67-large walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.47"
+  ],
+  "afterReasons": [
+   "mask IoU 0.269 < 0.45"
+  ]
+ },
+ {
+  "key": "meeuwenlaan-132-101771 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.00 vs photo 0.33",
+   "columns none vs photo 13"
+  ],
+  "afterReasons": [
+   "columns none vs photo 13",
+   "mask IoU 0 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-buitenveldert-135359 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.00 vs photo 0.74"
+  ],
+  "afterReasons": [
+   "mask IoU 0 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-buitenveldert-135359 walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.44 mean 0.04 vs photo 0.26"
+  ],
+  "afterReasons": [
+   "mask IoU 0.157 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-geuzenveld-121137 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.40 mean 0.40 vs photo 0.02",
+   "wall family unresolved (#40424a is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#41434b is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.024 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-ijburg-070481 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.19"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "oba-linnaeus walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.36 mean 0.51 vs photo 0.40"
+  ],
+  "afterReasons": [
+   "mask IoU 0.396 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-molenwijk-098534 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.04 vs photo 0.90",
+   "wall family unresolved (#611113 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#5b1718 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.052 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-olympisch-kwartier walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.45 mean 0.30 vs photo 0.65"
+  ],
+  "afterReasons": [
+   "mask IoU 0.332 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-olympisch-kwartier walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.41 mean 0.44 vs photo 0.57"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "oba-olympisch-kwartier walls[7]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.20"
+  ],
+  "afterReasons": [
+   "mask IoU 0.299 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-reigersbos-073560 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.36 vs photo 0.25"
+  ],
+  "afterReasons": [
+   "mask IoU 0.244 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-reigersbos-073560 walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.43 mean 0.29 vs photo 0.61"
+  ],
+  "afterReasons": [
+   "mask IoU 0.26 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-reigersbos-073560 walls[7]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.19 vs photo 0.85",
+   "wall family unresolved (#28242a is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#242228 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.387 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-slotermeer-241007 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.68 mean 0.31 vs photo 0.79"
+  ],
+  "afterReasons": [
+   "mask IoU 0.308 < 0.45"
+  ]
+ },
+ {
+  "key": "oostpoort-montessori-080630 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.25 vs photo 0.38",
+   "wall family unresolved (#626460 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#5e5e5a is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.26 < 0.45"
+  ]
+ },
+ {
+  "key": "oude-turfmarkt-168172 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.19"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "pand-083151 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.48 mean 0.37 vs photo 0.01"
+  ],
+  "afterReasons": [
+   "mask IoU 0 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-087570 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.62"
+  ],
+  "afterReasons": [
+   "mask IoU 0.244 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-103794 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing  mean 0.39 vs photo 0.53"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "pand-111954 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.34 vs photo 0.49",
+   "wall family unresolved (#312b24 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#312a23 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.254 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-111954 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.25 vs photo 0.74",
+   "wall family unresolved (#3a3329 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#3a332b is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.33 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-111954 walls[6]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.34 vs photo 0.51"
+  ],
+  "afterReasons": [
+   "mask IoU 0.376 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-126563 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.47 mean 0.03 vs photo 0.51"
+  ],
+  "afterReasons": [
+   "mask IoU 0.049 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-236656 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.21 mean 0.28 vs photo 0.08"
+  ],
+  "afterReasons": [
+   "mask IoU 0.11 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-243823 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.19",
+   "wall family unresolved (#382a29 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#362827 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.382 < 0.45"
+  ]
+ },
+ {
+  "key": "pand-243823 walls[6]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.21"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "politie-nieuwezijds-voorburgwal walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.66 mean 0.21 vs photo 0.82"
+  ],
+  "afterReasons": [
+   "mask IoU 0.282 < 0.45"
+  ]
+ },
+ {
+  "key": "politie-oost-watergraafsmeer walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.25",
+   "columns 11 vs photo 18"
+  ],
+  "afterReasons": [
+   "columns 11 vs photo 18",
+   "mask IoU 0.174 < 0.45"
+  ]
+ },
+ {
+  "key": "politie-oost-watergraafsmeer walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.16"
+  ],
+  "afterReasons": [
+   "mask IoU 0.251 < 0.45"
+  ]
+ },
+ {
+  "key": "politie-postjesweg walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.18 mean 0.11 vs photo 0.21",
+   "columns 6 vs photo 4"
+  ],
+  "afterReasons": [
+   "columns 6 vs photo 4",
+   "mask IoU 0.106 < 0.45"
+  ]
+ },
+ {
+  "key": "politie-west-overtoomsesluis walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.51 mean 0.33 vs photo 0.56"
+  ],
+  "afterReasons": [
+   "mask IoU 0.313 < 0.45"
+  ]
+ },
+ {
+  "key": "revaleiland-437-250186 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.18"
+  ],
+  "afterReasons": [
+   "mask IoU 0.185 < 0.45"
+  ]
+ },
+ {
+  "key": "rietveld-academie-091838 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.20",
+   "wall family unresolved (#4b4a47 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#4b4a47 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.192 < 0.45"
+  ]
+ },
+ {
+  "key": "rijksakademie walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.22 mean 0.23 vs photo 0.50",
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.22 darker than the model's in shade or overcast light",
+   "columns 10 vs photo 7"
+  ],
+  "afterReasons": [
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.25 darker than the model's in shade or overcast light",
+   "columns 10 vs photo 7",
+   "mask IoU 0.181 < 0.45"
+  ]
+ },
+ {
+  "key": "schaafstraat-17-091631 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.37 mean 0.31 vs photo 0.07",
+   "columns 8 vs photo 21"
+  ],
+  "afterReasons": [
+   "columns 8 vs photo 21",
+   "mask IoU 0.103 < 0.45"
+  ]
+ },
+ {
+  "key": "singel-457-165086 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.88 mean 0.20 vs photo 0.78"
+  ],
+  "afterReasons": [
+   "mask IoU 0.206 < 0.45"
+  ]
+ },
+ {
+  "key": "singel-457-165086 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.29",
+   "columns 6 vs photo 15"
+  ],
+  "afterReasons": [
+   "columns 6 vs photo 15",
+   "mask IoU 0.302 < 0.45"
+  ]
+ },
+ {
+  "key": "stadhouderskade-111-137448 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing  mean 0.38 vs photo 0.21",
+   "columns 11 vs photo 50"
+  ],
+  "afterReasons": [
+   "columns 11 vs photo 50",
+   "mask IoU 0.201 < 0.45"
+  ]
+ },
+ {
+  "key": "stadsdeel-nieuw-west walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.40 mean 0.61 vs photo 0.82"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "stadsloket-noord walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.16",
+   "wall family unresolved (#34333f is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 4 vs photo 6"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#302f3c is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 4 vs photo 6",
+   "mask IoU 0.289 < 0.45"
+  ]
+ },
+ {
+  "key": "stadsloket-west walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.34 mean 0.68 vs photo 0.55",
+   "wall family unresolved (#464444 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 20 vs photo 82"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#4f4d4c is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 20 vs photo 82"
+  ]
+ },
+ {
+  "key": "stadsloket-zuidoost walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.18"
+  ],
+  "afterReasons": [
+   "mask IoU 0.294 < 0.45"
+  ]
+ },
+ {
+  "key": "stadsloket-zuidoost walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.24 mean 0.30 vs photo 0.42"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "valckenierstraat-65-170734 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.24 mean 0.39 vs photo 0.22",
+   "columns 11 vs photo 19"
+  ],
+  "afterReasons": [
+   "columns 11 vs photo 19",
+   "mask IoU 0.152 < 0.45"
+  ]
+ },
+ {
+  "key": "valckenierstraat-65-170734 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing  mean 0.48 vs photo 0.70"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "van-eeghenstraat-114-068485 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.41 mean 0.12 vs photo 0.41",
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.15 darker than the model's in shade or overcast light"
+  ],
+  "afterReasons": [
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.15 darker than the model's in shade or overcast light",
+   "mask IoU 0.174 < 0.45"
+  ]
+ },
+ {
+  "key": "waterkeringweg-7-136141 walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.40 mean 0.39 vs photo 0.72"
+  ],
+  "afterReasons": [
+   "mask IoU 0.367 < 0.45"
+  ]
+ },
+ {
+  "key": "waterkeringweg-7-136141 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.42"
+  ],
+  "afterReasons": [
+   "mask IoU 0.145 < 0.45"
+  ]
+ },
+ {
+  "key": "westerdok-748-186003 walls[2]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.30 mean 0.28 vs photo 0.17",
+   "wall family unresolved (#4e4e49 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#4d4d48 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "mask IoU 0.133 < 0.45"
+  ]
+ },
+ {
+  "key": "westerdok-748-186003 walls[5]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.21",
+   "columns 3 vs photo 5"
+  ],
+  "afterReasons": [
+   "columns 3 vs photo 5",
+   "mask IoU 0.144 < 0.45"
+  ]
+ },
+ {
+  "key": "weteringstraat-16-184747 walls[3]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.20"
+  ],
+  "afterReasons": [
+   "mask IoU 0.292 < 0.45"
+  ]
+ },
+ {
+  "key": "weteringstraat-16-184747 walls[4]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.27"
+  ],
+  "afterReasons": [
+   "mask IoU 0.301 < 0.45"
+  ]
+ },
+ {
+  "key": "wibautstraat-78-129127 walls[0]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.23",
+   "columns 8 vs photo 30"
+  ],
+  "afterReasons": [
+   "columns 8 vs photo 30",
+   "mask IoU 0.344 < 0.45"
+  ]
+ },
+ {
+  "key": "wibautstraat-78-129127 walls[1]",
+  "class": "R1 glazing-only",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "glazing storey band off by 0.22"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "barlaeus walls[2]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.31 mean 0.31 vs photo 0.57",
+   "window shape tall vs photo square",
+   "columns 10 vs photo 4"
+  ],
+  "afterReasons": [
+   "mask IoU 0.293 < 0.45"
+  ]
+ },
+ {
+  "key": "hotel-arena-236788 walls[1]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall dL +0.41",
+   "glazing storey band off by 0.54 mean 0.61 vs photo 0.28",
+   "wall family unresolved (#382e27 is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 6 vs photo 4"
+  ],
+  "afterReasons": [
+   "columns 6 vs photo 4",
+   "mask IoU 0.343 < 0.45"
+  ]
+ },
+ {
+  "key": "kloveniersburgwal-72-171179 walls[3]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "PASS",
+  "beforeReasons": [
+   "wall dL +0.13"
+  ],
+  "afterReasons": []
+ },
+ {
+  "key": "koninginneweg-1-236925 walls[3]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall dL +0.17",
+   "glazing storey band off by 0.33 mean 0.57 vs photo 0.35",
+   "wall family unresolved (#291f1b is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "mask IoU 0.407 < 0.45"
+  ]
+ },
+ {
+  "key": "montessori-van-ostade walls[0]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "columns none vs photo 8",
+   "mask IoU 0.411 < 0.45"
+  ],
+  "afterReasons": [
+   "wall dL -0.20",
+   "columns none vs photo 8"
+  ]
+ },
+ {
+  "key": "nieuwe-achtergracht-253754 walls[1]",
+  "class": "other",
+  "street": true,
+  "before": "PASS",
+  "after": "WARN",
+  "beforeReasons": [],
+  "afterReasons": [
+   "mask IoU 0.44 < 0.45"
+  ]
+ },
+ {
+  "key": "nieuwpoortkade-2-090791 walls[2]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "columns 8 vs photo 17"
+  ],
+  "afterReasons": [
+   "window shape square vs photo tall",
+   "columns 8 vs photo 18"
+  ]
+ },
+ {
+  "key": "oba-javaplein walls[2]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "glazing storey band off by 0.40 mean 0.29 vs photo 0.53",
+   "window shape square vs photo tall",
+   "columns 20 vs photo 27"
+  ],
+  "afterReasons": [
+   "columns 20 vs photo 27",
+   "mask IoU 0.292 < 0.45"
+  ]
+ },
+ {
+  "key": "oba-olympisch-kwartier walls[6]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "mask IoU 0.371 < 0.45"
+  ],
+  "afterReasons": [
+   "window shape tall vs photo square"
+  ]
+ },
+ {
+  "key": "oostelijke-handelskade-749-239388 walls[0]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "mask IoU 0.448 < 0.45"
+  ],
+  "afterReasons": [
+   "wall hue -12 deg"
+  ]
+ },
+ {
+  "key": "overtoom-283-084999 walls[1]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "mask IoU 0.336 < 0.45"
+  ],
+  "afterReasons": [
+   "window shape square vs photo tall"
+  ]
+ },
+ {
+  "key": "pand-083604 walls[5]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall hue 14 deg",
+   "glazing storey band off by 0.42 mean 0.23 vs photo 0.57"
+  ],
+  "afterReasons": [
+   "mask IoU 0.366 < 0.45"
+  ]
+ },
+ {
+  "key": "politie-zuidoost-gaasperdam walls[0]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall family paint vs photo brick"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#737378 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ]
+ },
+ {
+  "key": "quellijnstraat-36-098847 walls[1]",
+  "class": "other",
+  "street": true,
+  "before": "WARN",
+  "after": "FAIL",
+  "beforeReasons": [
+   "columns 6 vs photo 8",
+   "mask IoU 0.161 < 0.45"
+  ],
+  "afterReasons": [
+   "window shape square vs photo tall",
+   "columns 6 vs photo 8"
+  ]
+ },
+ {
+  "key": "singel-457-165086 walls[1]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall dL +0.45",
+   "glazing storey band off by 1.00 mean 0.14 vs photo 1.00",
+   "wall family unresolved (#000000 is dark and neutral, brick courses not resolved): lightness and hue judged only"
+  ],
+  "afterReasons": [
+   "mask IoU 0.131 < 0.45"
+  ]
+ },
+ {
+  "key": "stadsdeel-nieuw-west walls[3]",
+  "class": "other",
+  "street": true,
+  "before": "FAIL",
+  "after": "WARN",
+  "beforeReasons": [
+   "wall family paint vs photo brick",
+   "columns 6 vs photo 18"
+  ],
+  "afterReasons": [
+   "wall family unresolved (#5d666b is dark and neutral, brick courses not resolved): lightness and hue judged only",
+   "columns 6 vs photo 18"
+  ]
+ },
+ {
+  "key": "da-costakade-146-236799 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.57 mean 0.25 vs photo 0.53",
+   "window shape square vs photo tall",
+   "columns 7 vs photo 13"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "da-costakade-146-236799 walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.37 mean 0.24 vs photo 0.39"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "gillis-van-ledenberchstraat-34-117498 walls[0]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall family paint vs photo brick",
+   "glazing storey band off by 0.29 mean 0.32 vs photo 0.43",
+   "columns 14 vs photo 32"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-217-101656 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall dL +0.22",
+   "window shape wide vs photo tall",
+   "columns 12 vs photo 3"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-285-097137 walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.29 mean 0.28 vs photo 0.42",
+   "window shape square vs photo tall",
+   "wall judged on chromaticity: the photo's exposure is not normalised and the wall reads +0.24 darker than the model's in shade or overcast light",
+   "columns 10 vs photo 29"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-285-097137 walls[3]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall dL +0.19",
+   "glazing storey band off by 0.22"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-290 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall family paint vs photo brick",
+   "glazing storey band off by 0.55"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-290 walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall family paint vs photo brick",
+   "glazing storey band off by 0.23"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "haarlemmerweg-290 walls[3]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall family paint vs photo brick",
+   "glazing storey band off by 0.60 mean 0.62 vs photo 0.25",
+   "window shape square vs photo wide",
+   "columns 8 vs photo 3"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "kinkerstraat-32-137280 walls[4]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "WARN",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "columns 5 vs photo 3",
+   "mask IoU 0.112 < 0.45"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "kinkerstraat-89-092013 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.21",
+   "window shape wide vs photo square"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "leidsestraat-67-large walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.31"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "leidsestraat-67-large walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.25"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-070306 walls[5]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "WARN",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "mask IoU 0.281 < 0.45"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-070306 walls[6]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "window shape none vs photo wide",
+   "columns none vs photo 2"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-083151 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall dL +0.12",
+   "glazing storey band off by 0.16 mean 0.00 vs photo 0.11"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-083151 walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "WARN",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "mask IoU 0 < 0.45"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-103794 walls[4]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.46 mean 0.28 vs photo 0.70"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "pand-103794 walls[7]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "glazing storey band off by 0.27 mean 0.26 vs photo 0.00"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "politie-van-leijenberghlaan walls[2]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "PASS",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "politie-van-leijenberghlaan walls[4]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall family brick vs photo paint",
+   "glazing storey band off by 0.40 mean 0.72 vs photo 0.46",
+   "columns 11 vs photo 39"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ },
+ {
+  "key": "tilanusstraat-23-240319 walls[1]",
+  "class": "R3 non-street",
+  "street": false,
+  "before": "FAIL",
+  "after": "NO EVIDENCE",
+  "beforeReasons": [
+   "wall dL -0.17",
+   "glazing storey band off by 0.76 mean 0.05 vs photo 0.36",
+   "columns 6 vs photo 10"
+  ],
+  "afterReasons": [
+   "wall does not face the street: not judged"
+  ]
+ }
+]

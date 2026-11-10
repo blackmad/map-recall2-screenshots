@@ -1,0 +1,82 @@
+{
+ "generated": "houseline-new-fails.ts",
+ "note": "review list: a new FAIL on an installed house is never an uninstall, hold or stale-install failure",
+ "count": 6,
+ "streetFacing": 6,
+ "list": [
+  {
+   "pand": null,
+   "model": "montessori-van-ostade",
+   "group": 0,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "columns none vs photo 8",
+    "mask IoU 0.411 < 0.45"
+   ],
+   "reason": "wall dL -0.20; columns none vs photo 8"
+  },
+  {
+   "pand": "090791",
+   "model": "nieuwpoortkade-2-090791",
+   "group": 2,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "columns 8 vs photo 17"
+   ],
+   "reason": "window shape square vs photo tall; columns 8 vs photo 18"
+  },
+  {
+   "pand": null,
+   "model": "oba-olympisch-kwartier",
+   "group": 6,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "mask IoU 0.371 < 0.45"
+   ],
+   "reason": "window shape tall vs photo square"
+  },
+  {
+   "pand": "239388",
+   "model": "oostelijke-handelskade-749-239388",
+   "group": 0,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "mask IoU 0.448 < 0.45"
+   ],
+   "reason": "wall hue -12 deg"
+  },
+  {
+   "pand": "084999",
+   "model": "overtoom-283-084999",
+   "group": 1,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "mask IoU 0.336 < 0.45"
+   ],
+   "reason": "window shape square vs photo tall"
+  },
+  {
+   "pand": "098847",
+   "model": "quellijnstraat-36-098847",
+   "group": 1,
+   "street": true,
+   "oldVerdict": "WARN",
+   "newVerdict": "FAIL",
+   "oldReasons": [
+    "columns 6 vs photo 8",
+    "mask IoU 0.161 < 0.45"
+   ],
+   "reason": "window shape square vs photo tall; columns 6 vs photo 8"
+  }
+ ]
+}
