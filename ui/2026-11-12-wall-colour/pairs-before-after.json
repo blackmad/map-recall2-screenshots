@@ -1,0 +1,7070 @@
+[
+{
+"key": "0363100012154359",
+"route": "spec recipe + spec (wallHex, bays, storeys, look, shop, shopHex)",
+"pct": 0,
+"b": 0.27012125514690916,
+"a": 0.2705651702322088,
+"lab": {
+"photo": {
+"L": 0.584,
+"C": 0.049,
+"h": 64,
+"hex": "#91765d",
+"n": 247
+},
+"before": {
+"L": 0.318,
+"C": 0.003,
+"h": 17,
+"hex": "#333132",
+"n": 379
+},
+"after": {
+"L": 0.318,
+"C": 0.001,
+"h": 305,
+"hex": "#323233",
+"n": 379
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1886,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#42352e",
+"specRecipeWall": "#4b3b32",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1886,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#42352e",
+"specRecipeWall": "#493c35",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012155804",
+"route": "generic",
+"pct": 39.1,
+"b": 0.15912522511352856,
+"a": 0.08175863375235892,
+"lab": {
+"photo": {
+"L": 0.328,
+"C": 0.015,
+"h": 72,
+"hex": "#3a342d",
+"n": 371
+},
+"before": {
+"L": 0.481,
+"C": 0.057,
+"h": 48,
+"hex": "#795441",
+"n": 282
+},
+"after": {
+"L": 0.409,
+"C": 0.018,
+"h": 34,
+"hex": "#534744",
+"n": 282
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1902,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1902,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012156681",
+"route": "generic",
+"pct": 49.6,
+"b": 0.09454321954200816,
+"a": 0.13669436821296005,
+"lab": {
+"photo": {
+"L": 0.397,
+"C": 0.023,
+"h": 51,
+"hex": "#51433b",
+"n": 381
+},
+"before": {
+"L": 0.484,
+"C": 0.06,
+"h": 52,
+"hex": "#7a543e",
+"n": 361
+},
+"after": {
+"L": 0.531,
+"C": 0.05,
+"h": 50,
+"hex": "#846452",
+"n": 361
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1901,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1901,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012157089",
+"route": "generic",
+"pct": 52.1,
+"b": 0.22813400899235636,
+"a": 0.018756516089086076,
+"lab": {
+"photo": {
+"L": 0.472,
+"C": 0.022,
+"h": 58,
+"hex": "#65594f",
+"n": 366
+},
+"before": {
+"L": 0.7,
+"C": 0.015,
+"h": 69,
+"hex": "#a59d95",
+"n": 366
+},
+"after": {
+"L": 0.46,
+"C": 0.036,
+"h": 65,
+"hex": "#665443",
+"n": 372
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1903,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1903,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012157426",
+"route": "installed chunk-face-nassau-145-152",
+"pct": 0,
+"b": 0.15786922923274394,
+"a": 0.15786922923274394,
+"lab": {
+"photo": {
+"L": 0.404,
+"C": 0.006,
+"h": 83,
+"hex": "#4a4945",
+"n": 380
+},
+"before": {
+"L": 0.56,
+"C": 0.03,
+"h": 69,
+"hex": "#807262",
+"n": 345
+},
+"after": {
+"L": 0.56,
+"C": 0.03,
+"h": 69,
+"hex": "#807262",
+"n": 345
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#665648",
+"specRecipeWall": "#95664a",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#665648",
+"specRecipeWall": "#806f60",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012157926",
+"route": "spec recipe + spec (wallHex, bays, storeys, look, shop, shopHex)",
+"pct": 0,
+"b": 0.09265783914448421,
+"a": 0.09265783914448421,
+"lab": {
+"photo": {
+"L": 0.502,
+"C": 0.026,
+"h": 71,
+"hex": "#6e6254",
+"n": 352
+},
+"before": {
+"L": 0.41,
+"C": 0.015,
+"h": 69,
+"hex": "#504942",
+"n": 306
+},
+"after": {
+"L": 0.41,
+"C": 0.015,
+"h": 69,
+"hex": "#504942",
+"n": 306
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1893,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#47403a",
+"specRecipeWall": "#4d4640",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1893,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#47403a",
+"specRecipeWall": "#4d4640",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012158671",
+"route": "generic",
+"pct": 47.3,
+"b": 0.07392335974238745,
+"a": 0.014974555176866407,
+"lab": {
+"photo": {
+"L": 0.405,
+"C": 0.024,
+"h": 54,
+"hex": "#53463d",
+"n": 378
+},
+"before": {
+"L": 0.332,
+"C": 0.034,
+"h": 42,
+"hex": "#432e24",
+"n": 375
+},
+"after": {
+"L": 0.41,
+"C": 0.013,
+"h": 25,
+"hex": "#514847",
+"n": 374
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012159236",
+"route": "generic",
+"pct": 55.4,
+"b": 0.06983065497089475,
+"a": 0.03711291508264249,
+"lab": {
+"photo": {
+"L": 0.414,
+"C": 0.003,
+"h": 278,
+"hex": "#4b4b4d",
+"n": 273
+},
+"before": {
+"L": 0.363,
+"C": 0.046,
+"h": 41,
+"hex": "#503427",
+"n": 285
+},
+"after": {
+"L": 0.382,
+"C": 0.016,
+"h": 75,
+"hex": "#484239",
+"n": 285
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012159694",
+"route": "installed chunk-face-nassau-145-152",
+"pct": 0.3,
+"b": 0.24077320138135538,
+"a": 0.24077320138135538,
+"lab": {
+"photo": {
+"L": 0.392,
+"C": 0.013,
+"h": 82,
+"hex": "#49453e",
+"n": 369
+},
+"before": {
+"L": 0.631,
+"C": 0.04,
+"h": 54,
+"hex": "#9d8372",
+"n": 302
+},
+"after": {
+"L": 0.631,
+"C": 0.04,
+"h": 54,
+"hex": "#9d8372",
+"n": 302
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#886957",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#886957",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012159937",
+"route": "generic",
+"pct": 59.9,
+"b": 0.04842592794218102,
+"a": 0.04732258050697935,
+"lab": {
+"photo": {
+"L": 0.443,
+"C": 0.022,
+"h": 43,
+"hex": "#5e504a",
+"n": 351
+},
+"before": {
+"L": 0.403,
+"C": 0.049,
+"h": 36,
+"hex": "#5e3e35",
+"n": 384
+},
+"after": {
+"L": 0.396,
+"C": 0.019,
+"h": 56,
+"hex": "#4f443d",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012160049",
+"route": "generic",
+"pct": 63.7,
+"b": 0.022721898947095278,
+"a": 0.06945127868363765,
+"lab": {
+"photo": {
+"L": 0.423,
+"C": 0.019,
+"h": 62,
+"hex": "#554c43",
+"n": 367
+},
+"before": {
+"L": 0.427,
+"C": 0.037,
+"h": 33,
+"hex": "#5f4641",
+"n": 347
+},
+"after": {
+"L": 0.49,
+"C": 0.037,
+"h": 55,
+"hex": "#715b4d",
+"n": 347
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012160273",
+"route": "installed chunk-face-nassau-145-152",
+"pct": 0,
+"b": 0.0886165988231193,
+"a": 0.0886165988231193,
+"lab": {
+"photo": {
+"L": 0.375,
+"C": 0.008,
+"h": 108,
+"hex": "#41413d",
+"n": 354
+},
+"before": {
+"L": 0.459,
+"C": 0.022,
+"h": 243,
+"hex": "#4d5a64",
+"n": 326
+},
+"after": {
+"L": 0.459,
+"C": 0.022,
+"h": 243,
+"hex": "#4d5a64",
+"n": 326
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#535353",
+"specRecipeWall": "#535353",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#535353",
+"specRecipeWall": "#535353",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012160704",
+"route": "installed chunk-face-nassau-145-152",
+"pct": 0,
+"b": 0.254135198858621,
+"a": 0.254135198858621,
+"lab": {
+"photo": {
+"L": 0.405,
+"C": 0.007,
+"h": 86,
+"hex": "#4a4945",
+"n": 380
+},
+"before": {
+"L": 0.659,
+"C": 0.01,
+"h": 31,
+"hex": "#98908e",
+"n": 343
+},
+"after": {
+"L": 0.659,
+"C": 0.01,
+"h": 31,
+"hex": "#98908e",
+"n": 343
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#957d73",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#957d73",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012160838",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.15971452121649296,
+"a": 0.15971452121649296,
+"lab": {
+"photo": {
+"L": 0.464,
+"C": 0.004,
+"h": 55,
+"hex": "#5b5958",
+"n": 380
+},
+"before": {
+"L": 0.306,
+"C": 0.027,
+"h": 77,
+"hex": "#372e20",
+"n": 316
+},
+"after": {
+"L": 0.306,
+"C": 0.027,
+"h": 77,
+"hex": "#372e20",
+"n": 316
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#2c261d",
+"specRecipeWall": "#3e372c",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#2c261d",
+"specRecipeWall": "#3d372d",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012160871",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.061167352489092046,
+"a": 0.061167352489092046,
+"lab": {
+"photo": {
+"L": 0.537,
+"C": 0.014,
+"h": 61,
+"hex": "#746c66",
+"n": 372
+},
+"before": {
+"L": 0.476,
+"C": 0.012,
+"h": 79,
+"hex": "#5f5b55",
+"n": 351
+},
+"after": {
+"L": 0.476,
+"C": 0.012,
+"h": 79,
+"hex": "#5f5b55",
+"n": 351
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1904,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#473b2f",
+"specRecipeWall": "#554433",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1904,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#473b2f",
+"specRecipeWall": "#524539",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012161002",
+"route": "generic",
+"pct": 45.8,
+"b": 0.22404955942009805,
+"a": 0.10307764064044149,
+"lab": {
+"photo": {
+"L": 0.381,
+"C": 0.014,
+"h": 55,
+"hex": "#49413b",
+"n": 374
+},
+"before": {
+"L": 0.605,
+"C": 0.018,
+"h": 64,
+"hex": "#897f76",
+"n": 269
+},
+"after": {
+"L": 0.481,
+"C": 0.039,
+"h": 55,
+"hex": "#6f5849",
+"n": 270
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012161056",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.02779143180838633,
+"a": 0.02779143180838633,
+"lab": {
+"photo": {
+"L": 0.44,
+"C": 0.022,
+"h": 45,
+"hex": "#5e4f48",
+"n": 369
+},
+"before": {
+"L": 0.463,
+"C": 0.034,
+"h": 66,
+"hex": "#665545",
+"n": 336
+},
+"after": {
+"L": 0.463,
+"C": 0.034,
+"h": 66,
+"hex": "#665545",
+"n": 336
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c3f33",
+"specRecipeWall": "#5d4b39",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c3f33",
+"specRecipeWall": "#594c40",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012161457",
+"route": "spec recipe + spec (wallHex, bays, storeys, look, shop, shopHex)",
+"pct": 0,
+"b": 0.031356420301101355,
+"a": 0.03187828562045521,
+"lab": {
+"photo": {
+"L": 0.343,
+"C": 0.018,
+"h": 54,
+"hex": "#413630",
+"n": 384
+},
+"before": {
+"L": 0.327,
+"C": 0.009,
+"h": 240,
+"hex": "#303539",
+"n": 361
+},
+"after": {
+"L": 0.326,
+"C": 0.009,
+"h": 240,
+"hex": "#303539",
+"n": 361
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1886,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#423934",
+"specRecipeWall": "#483f3a",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1886,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#423934",
+"specRecipeWall": "#483f3a",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012161765",
+"route": "generic",
+"pct": 54.7,
+"b": 0.06243265494437623,
+"a": 0.011822359247070858,
+"lab": {
+"photo": {
+"L": 0.427,
+"C": 0.022,
+"h": 45,
+"hex": "#5a4b45",
+"n": 377
+},
+"before": {
+"L": 0.396,
+"C": 0.075,
+"h": 29,
+"hex": "#69352f",
+"n": 384
+},
+"after": {
+"L": 0.43,
+"C": 0.032,
+"h": 57,
+"hex": "#5d4b3e",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012162560",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.030893217784242227,
+"a": 0.030893217784242227,
+"lab": {
+"photo": {
+"L": 0.438,
+"C": 0.025,
+"h": 42,
+"hex": "#5f4e47",
+"n": 380
+},
+"before": {
+"L": 0.467,
+"C": 0.026,
+"h": 66,
+"hex": "#64574a",
+"n": 328
+},
+"after": {
+"L": 0.467,
+"C": 0.026,
+"h": 66,
+"hex": "#64574a",
+"n": 328
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c4035",
+"specRecipeWall": "#5d4c3d",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c4035",
+"specRecipeWall": "#5a4d42",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012162796",
+"route": "generic",
+"pct": 52.7,
+"b": 0.1818936419846638,
+"a": 0.10343679080439551,
+"lab": {
+"photo": {
+"L": 0.353,
+"C": 0.013,
+"h": 48,
+"hex": "#413936",
+"n": 384
+},
+"before": {
+"L": 0.524,
+"C": 0.075,
+"h": 47,
+"hex": "#8d5b42",
+"n": 366
+},
+"after": {
+"L": 0.447,
+"C": 0.056,
+"h": 40,
+"hex": "#6f4a3c",
+"n": 365
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012165024",
+"route": "generic + spec (gable, wallMaterial, stoop, crownRiseM)",
+"pct": 53.7,
+"b": 0.04662997606070784,
+"a": 0.04533088139531662,
+"lab": {
+"photo": {
+"L": 0.458,
+"C": 0.015,
+"h": 66,
+"hex": "#5d564f",
+"n": 378
+},
+"before": {
+"L": 0.413,
+"C": 0.019,
+"h": 26,
+"hex": "#534745",
+"n": 198
+},
+"after": {
+"L": 0.413,
+"C": 0.015,
+"h": 45,
+"hex": "#524844",
+"n": 286
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1618,
+"facadeStyle": "canal",
+"registerFinish": "brick",
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1618,
+"facadeStyle": "canal",
+"registerFinish": "brick",
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012165026",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 78.2,
+"b": 0.1554270839105061,
+"a": 0.10951581417804072,
+"lab": {
+"photo": {
+"L": 0.583,
+"C": 0.054,
+"h": 76,
+"hex": "#8e7757",
+"n": 154
+},
+"before": {
+"L": 0.435,
+"C": 0.058,
+"h": 26,
+"hex": "#6d4440",
+"n": 382
+},
+"after": {
+"L": 0.492,
+"C": 0.008,
+"h": 224,
+"hex": "#5c6264",
+"n": 381
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012165027",
+"route": "generic",
+"pct": 56.4,
+"b": 0.19542108972286723,
+"a": 0.17010677941710622,
+"lab": {
+"photo": {
+"L": 0.686,
+"C": 0.052,
+"h": 78,
+"hex": "#ac9776",
+"n": 301
+},
+"before": {
+"L": 0.5,
+"C": 0.077,
+"h": 27,
+"hex": "#8a514b",
+"n": 294
+},
+"after": {
+"L": 0.522,
+"C": 0.008,
+"h": 49,
+"hex": "#6d6865",
+"n": 290
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1755,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1755,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012165826",
+"route": "generic",
+"pct": 53.3,
+"b": 0.25246151190577615,
+"a": 0.08686931510788243,
+"lab": {
+"photo": {
+"L": 0.439,
+"C": 0.013,
+"h": 13,
+"hex": "#594f50",
+"n": 379
+},
+"before": {
+"L": 0.691,
+"C": 0.01,
+"h": 95,
+"hex": "#9f9d96",
+"n": 226
+},
+"after": {
+"L": 0.516,
+"C": 0.05,
+"h": 49,
+"hex": "#7f5f4e",
+"n": 354
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1893,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1893,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012166034",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.09203629321450937,
+"a": 0.09203629321450937,
+"lab": {
+"photo": {
+"L": 0.372,
+"C": 0.018,
+"h": 41,
+"hex": "#493d39",
+"n": 381
+},
+"before": {
+"L": 0.462,
+"C": 0.034,
+"h": 66,
+"hex": "#665544",
+"n": 338
+},
+"after": {
+"L": 0.462,
+"C": 0.034,
+"h": 66,
+"hex": "#665544",
+"n": 338
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c4034",
+"specRecipeWall": "#5d4c3b",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4c4034",
+"specRecipeWall": "#5a4d41",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167686",
+"route": "generic",
+"pct": 51.4,
+"b": 0.04991876066004467,
+"a": 0.005456224364845205,
+"lab": {
+"photo": {
+"L": 0.491,
+"C": 0.01,
+"h": 61,
+"hex": "#655f5b",
+"n": 273
+},
+"before": {
+"L": 0.444,
+"C": 0.007,
+"h": 258,
+"hex": "#515457",
+"n": 384
+},
+"after": {
+"L": 0.487,
+"C": 0.007,
+"h": 46,
+"hex": "#635e5c",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1715,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1715,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167688",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 37.9,
+"b": 0.2559135376789956,
+"a": 0.25693085005361893,
+"lab": {
+"photo": {
+"L": 0.77,
+"C": 0.06,
+"h": 70,
+"hex": "#cdae8b",
+"n": 281
+},
+"before": {
+"L": 0.523,
+"C": 0.007,
+"h": 243,
+"hex": "#676a6d",
+"n": 380
+},
+"after": {
+"L": 0.519,
+"C": 0.006,
+"h": 40,
+"hex": "#6c6766",
+"n": 370
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1740,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1740,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167690",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 64.6,
+"b": 0.08541458588147138,
+"a": 0.06405838135560571,
+"lab": {
+"photo": {
+"L": 0.404,
+"C": 0.018,
+"h": 91,
+"hex": "#4c493e",
+"n": 325
+},
+"before": {
+"L": 0.33,
+"C": 0.046,
+"h": 23,
+"hex": "#482a29",
+"n": 384
+},
+"after": {
+"L": 0.466,
+"C": 0.004,
+"h": 35,
+"hex": "#5c5958",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1759,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1759,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167691",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 53.2,
+"b": 0.19267556047879122,
+"a": 0.17109647702021155,
+"lab": {
+"photo": {
+"L": 0.407,
+"C": 0.013,
+"h": 62,
+"hex": "#4f4843",
+"n": 366
+},
+"before": {
+"L": 0.59,
+"C": 0.073,
+"h": 51,
+"hex": "#a07155",
+"n": 380
+},
+"after": {
+"L": 0.577,
+"C": 0.007,
+"h": 211,
+"hex": "#757b7c",
+"n": 371
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167816",
+"route": "generic",
+"pct": 37.9,
+"b": 0.2012513803114249,
+"a": 0.20813862893427637,
+"lab": {
+"photo": {
+"L": 0.278,
+"C": 0.015,
+"h": 42,
+"hex": "#2f2623",
+"n": 381
+},
+"before": {
+"L": 0.479,
+"C": 0.005,
+"h": 49,
+"hex": "#5f5c5a",
+"n": 239
+},
+"after": {
+"L": 0.486,
+"C": 0.02,
+"h": 61,
+"hex": "#685d54",
+"n": 350
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1840,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1840,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167817",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 33.9,
+"b": 0.05550066512728564,
+"a": 0.0496032948358158,
+"lab": {
+"photo": {
+"L": 0.371,
+"C": 0.008,
+"h": 58,
+"hex": "#433f3c",
+"n": 384
+},
+"before": {
+"L": 0.416,
+"C": 0.04,
+"h": 40,
+"hex": "#5f453c",
+"n": 285
+},
+"after": {
+"L": 0.42,
+"C": 0.015,
+"h": 41,
+"hex": "#554b47",
+"n": 332
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1825,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1825,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167820",
+"route": "generic",
+"pct": 43.4,
+"b": 0.1844061231433412,
+"a": 0.13428435439850822,
+"lab": {
+"photo": {
+"L": 0.328,
+"C": 0.02,
+"h": 45,
+"hex": "#3e322d",
+"n": 377
+},
+"before": {
+"L": 0.512,
+"C": 0.009,
+"h": 68,
+"hex": "#6a6661",
+"n": 328
+},
+"after": {
+"L": 0.462,
+"C": 0.026,
+"h": 61,
+"hex": "#64564a",
+"n": 328
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1837,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1837,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012167821",
+"route": "generic",
+"pct": 38.6,
+"b": 0.16543336182022292,
+"a": 0.12007772560917723,
+"lab": {
+"photo": {
+"L": 0.56,
+"C": 0.027,
+"h": 68,
+"hex": "#7f7263",
+"n": 233
+},
+"before": {
+"L": 0.396,
+"C": 0.042,
+"h": 41,
+"hex": "#593e34",
+"n": 282
+},
+"after": {
+"L": 0.44,
+"C": 0.024,
+"h": 61,
+"hex": "#5d5045",
+"n": 282
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1865,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1865,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168427",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 47.1,
+"b": 0.22237629762089434,
+"a": 0.14000709288758806,
+"lab": {
+"photo": {
+"L": 0.29,
+"C": 0.01,
+"h": 48,
+"hex": "#302a27",
+"n": 381
+},
+"before": {
+"L": 0.512,
+"C": 0.003,
+"h": 242,
+"hex": "#656768",
+"n": 364
+},
+"after": {
+"L": 0.43,
+"C": 0.009,
+"h": 42,
+"hex": "#544e4c",
+"n": 364
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1762,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1762,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168428",
+"route": "generic",
+"pct": 40.7,
+"b": 0.2203424746286889,
+"a": 0.09605346289125595,
+"lab": {
+"photo": {
+"L": 0.332,
+"C": 0.012,
+"h": 49,
+"hex": "#3b3430",
+"n": 383
+},
+"before": {
+"L": 0.552,
+"C": 0.001,
+"h": 153,
+"hex": "#717272",
+"n": 192
+},
+"after": {
+"L": 0.428,
+"C": 0.013,
+"h": 35,
+"hex": "#564d4b",
+"n": 325
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1779,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1779,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168815",
+"route": "generic",
+"pct": 74,
+"b": 0.07375544338488305,
+"a": 0.10470926989842343,
+"lab": {
+"photo": {
+"L": 0.347,
+"C": 0.014,
+"h": 64,
+"hex": "#3f3832",
+"n": 380
+},
+"before": {
+"L": 0.383,
+"C": 0.075,
+"h": 27,
+"hex": "#65312d",
+"n": 381
+},
+"after": {
+"L": 0.433,
+"C": 0.072,
+"h": 38,
+"hex": "#724233",
+"n": 382
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1930,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1930,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168838",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 56.8,
+"b": 0.17054066962432088,
+"a": 0.12099300437544493,
+"lab": {
+"photo": {
+"L": 0.319,
+"C": 0.011,
+"h": 70,
+"hex": "#36322d",
+"n": 287
+},
+"before": {
+"L": 0.482,
+"C": 0.06,
+"h": 46,
+"hex": "#7a5340",
+"n": 270
+},
+"after": {
+"L": 0.43,
+"C": 0.057,
+"h": 37,
+"hex": "#6a4438",
+"n": 283
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168844",
+"route": "generic",
+"pct": 88.4,
+"b": 0.12633120039925744,
+"a": 0.18222889052655478,
+"lab": {
+"photo": {
+"L": 0.407,
+"C": 0.014,
+"h": 66,
+"hex": "#4f4842",
+"n": 378
+},
+"before": {
+"L": 0.533,
+"C": 0.005,
+"h": 77,
+"hex": "#6e6c69",
+"n": 357
+},
+"after": {
+"L": 0.588,
+"C": 0.035,
+"h": 60,
+"hex": "#8d7868",
+"n": 376
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1892,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1892,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012168853",
+"route": "generic",
+"pct": 77,
+"b": 0.05133431859229962,
+"a": 0.06304662835269464,
+"lab": {
+"photo": {
+"L": 0.391,
+"C": 0.016,
+"h": 56,
+"hex": "#4c433d",
+"n": 381
+},
+"before": {
+"L": 0.437,
+"C": 0.007,
+"h": 253,
+"hex": "#4f5256",
+"n": 383
+},
+"after": {
+"L": 0.422,
+"C": 0.07,
+"h": 39,
+"hex": "#6e3f30",
+"n": 380
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1920,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1920,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012169069",
+"route": "generic",
+"pct": 61.1,
+"b": 0.11988477762086294,
+"a": 0.04315189857778268,
+"lab": {
+"photo": {
+"L": 0.461,
+"C": 0.004,
+"h": 59,
+"hex": "#5a5856",
+"n": 374
+},
+"before": {
+"L": 0.569,
+"C": 0.056,
+"h": 51,
+"hex": "#926d56",
+"n": 343
+},
+"after": {
+"L": 0.486,
+"C": 0.039,
+"h": 75,
+"hex": "#6c5c46",
+"n": 350
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012169251",
+"route": "generic",
+"pct": 44.7,
+"b": 0.14498914874743446,
+"a": 0.10623665408065895,
+"lab": {
+"photo": {
+"L": 0.318,
+"C": 0.009,
+"h": 74,
+"hex": "#35322d",
+"n": 379
+},
+"before": {
+"L": 0.462,
+"C": 0.008,
+"h": 242,
+"hex": "#55595d",
+"n": 228
+},
+"after": {
+"L": 0.424,
+"C": 0.002,
+"h": 89,
+"hex": "#4e4e4d",
+"n": 229
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1616,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1616,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012171858",
+"route": "generic",
+"pct": 42.8,
+"b": 0.09910030972742397,
+"a": 0.040596115392145735,
+"lab": {
+"photo": {
+"L": 0.383,
+"C": 0.015,
+"h": 55,
+"hex": "#49413c",
+"n": 360
+},
+"before": {
+"L": 0.289,
+"C": 0.044,
+"h": 28,
+"hex": "#3c211e",
+"n": 361
+},
+"after": {
+"L": 0.407,
+"C": 0.047,
+"h": 40,
+"hex": "#604136",
+"n": 361
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1724,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1724,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172584",
+"route": "generic",
+"pct": 30.1,
+"b": 0.1876233617114737,
+"a": 0.14652453246256344,
+"lab": {
+"photo": {
+"L": 0.381,
+"C": 0.017,
+"h": 45,
+"hex": "#4b403b",
+"n": 295
+},
+"before": {
+"L": 0.568,
+"C": 0.002,
+"h": 74,
+"hex": "#777675",
+"n": 284
+},
+"after": {
+"L": 0.527,
+"C": 0.028,
+"h": 60,
+"hex": "#77675b",
+"n": 284
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1900,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172586",
+"route": "generic",
+"pct": 33.2,
+"b": 0.19006713140062767,
+"a": 0.08598910070687832,
+"lab": {
+"photo": {
+"L": 0.42,
+"C": 0.007,
+"h": 74,
+"hex": "#4f4d49",
+"n": 384
+},
+"before": {
+"L": 0.61,
+"C": 0.002,
+"h": 85,
+"hex": "#848382",
+"n": 342
+},
+"after": {
+"L": 0.493,
+"C": 0.051,
+"h": 39,
+"hex": "#7a584d",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1987,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#7f898f",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1987,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#7f898f",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172587",
+"route": "generic",
+"pct": 40.8,
+"b": 0.10965530448815085,
+"a": 0.10481404334148746,
+"lab": {
+"photo": {
+"L": 0.521,
+"C": 0.011,
+"h": 73,
+"hex": "#6d6863",
+"n": 337
+},
+"before": {
+"L": 0.412,
+"C": 0.021,
+"h": 48,
+"hex": "#554841",
+"n": 384
+},
+"after": {
+"L": 0.417,
+"C": 0.022,
+"h": 47,
+"hex": "#574942",
+"n": 383
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1987,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#b59c77",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1987,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#b59c77",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172590",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 44,
+"b": 0.16672188532167934,
+"a": 0.05231212471840925,
+"lab": {
+"photo": {
+"L": 0.425,
+"C": 0.013,
+"h": 65,
+"hex": "#544d47",
+"n": 383
+},
+"before": {
+"L": 0.261,
+"C": 0.041,
+"h": 38,
+"hex": "#331c14",
+"n": 348
+},
+"after": {
+"L": 0.404,
+"C": 0.059,
+"h": 37,
+"hex": "#643c31",
+"n": 348
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1725,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1725,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172591",
+"route": "generic",
+"pct": 58.3,
+"b": 0.09370963946046998,
+"a": 0.0794138861166945,
+"lab": {
+"photo": {
+"L": 0.381,
+"C": 0.007,
+"h": 63,
+"hex": "#45423f",
+"n": 363
+},
+"before": {
+"L": 0.289,
+"C": 0.023,
+"h": 27,
+"hex": "#342624",
+"n": 349
+},
+"after": {
+"L": 0.46,
+"C": 0.015,
+"h": 56,
+"hex": "#5f5650",
+"n": 349
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1903,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1903,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172609",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 64.7,
+"b": 0.3790196041761913,
+"a": 0.05315913863152926,
+"lab": {
+"photo": {
+"L": 0.371,
+"C": 0.014,
+"h": 66,
+"hex": "#453f38",
+"n": 344
+},
+"before": {
+"L": 0.75,
+"C": 0.017,
+"h": 75,
+"hex": "#b4ada2",
+"n": 337
+},
+"after": {
+"L": 0.424,
+"C": 0.011,
+"h": 53,
+"hex": "#534d49",
+"n": 341
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1727,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1727,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172620",
+"route": "spec recipe + spec (wallHex, storeys, groundM, look, shop)",
+"pct": 66.6,
+"b": 0.06606674796022358,
+"a": 0.12110161664246809,
+"lab": {
+"photo": {
+"L": 0.412,
+"C": 0.019,
+"h": 54,
+"hex": "#534842",
+"n": 378
+},
+"before": {
+"L": 0.478,
+"C": 0.017,
+"h": 47,
+"hex": "#665c57",
+"n": 376
+},
+"after": {
+"L": 0.533,
+"C": 0.019,
+"h": 69,
+"hex": "#756c62",
+"n": 377
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#a08265",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#a08265",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172622",
+"route": "generic",
+"pct": 64.9,
+"b": 0.023124131367691442,
+"a": 0.05580758490220051,
+"lab": {
+"photo": {
+"L": 0.443,
+"C": 0.014,
+"h": 60,
+"hex": "#59524c",
+"n": 334
+},
+"before": {
+"L": 0.446,
+"C": 0.035,
+"h": 36,
+"hex": "#664e47",
+"n": 327
+},
+"after": {
+"L": 0.421,
+"C": 0.064,
+"h": 38,
+"hex": "#6b4033",
+"n": 326
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1916,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1916,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172667",
+"route": "generic",
+"pct": 93.6,
+"b": 0.10457882452852581,
+"a": 0.1560062794761526,
+"lab": {
+"photo": {
+"L": 0.41,
+"C": 0.017,
+"h": 16,
+"hex": "#524647",
+"n": 306
+},
+"before": {
+"L": 0.507,
+"C": 0.054,
+"h": 40,
+"hex": "#7f5a4d",
+"n": 360
+},
+"after": {
+"L": 0.565,
+"C": 0.025,
+"h": 61,
+"hex": "#817267",
+"n": 336
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1898,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1898,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172668",
+"route": "generic",
+"pct": 66.8,
+"b": 0.19105056395702164,
+"a": 0.2314543296374391,
+"lab": {
+"photo": {
+"L": 0.379,
+"C": 0.009,
+"h": 54,
+"hex": "#46413e",
+"n": 336
+},
+"before": {
+"L": 0.569,
+"C": 0.029,
+"h": 52,
+"hex": "#857268",
+"n": 302
+},
+"after": {
+"L": 0.61,
+"C": 0.023,
+"h": 69,
+"hex": "#8c8174",
+"n": 302
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1986,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#c0bdb6",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1986,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#c0bdb6",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172671",
+"route": "generic",
+"pct": 88.1,
+"b": 0.0844062165685658,
+"a": 0.22210941308043425,
+"lab": {
+"photo": {
+"L": 0.701,
+"C": 0.048,
+"h": 71,
+"hex": "#b29a7e",
+"n": 171
+},
+"before": {
+"L": 0.783,
+"C": 0.028,
+"h": 72,
+"hex": "#c4b6a5",
+"n": 231
+},
+"after": {
+"L": 0.48,
+"C": 0.028,
+"h": 56,
+"hex": "#6a5a4f",
+"n": 314
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1817,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1817,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172673",
+"route": "generic",
+"pct": 61.1,
+"b": 0.1828465502040472,
+"a": 0.05737503402410078,
+"lab": {
+"photo": {
+"L": 0.521,
+"C": 0.02,
+"h": 47,
+"hex": "#736660",
+"n": 275
+},
+"before": {
+"L": 0.703,
+"C": 0.008,
+"h": 108,
+"hex": "#a0a09a",
+"n": 331
+},
+"after": {
+"L": 0.464,
+"C": 0.014,
+"h": 56,
+"hex": "#605752",
+"n": 329
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1888,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1888,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172674",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 59,
+"b": 0.05792952294640836,
+"a": 0.09982830617857694,
+"lab": {
+"photo": {
+"L": 0.516,
+"C": 0.028,
+"h": 51,
+"hex": "#75645a",
+"n": 353
+},
+"before": {
+"L": 0.562,
+"C": 0.008,
+"h": 202,
+"hex": "#717777",
+"n": 138
+},
+"after": {
+"L": 0.418,
+"C": 0.009,
+"h": 48,
+"hex": "#514b48",
+"n": 351
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172676",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 56.9,
+"b": 0.3670783406010152,
+"a": 0.10505823916149179,
+"lab": {
+"photo": {
+"L": 0.336,
+"C": 0.011,
+"h": 66,
+"hex": "#3b3631",
+"n": 333
+},
+"before": {
+"L": 0.703,
+"C": 0.01,
+"h": 108,
+"hex": "#a0a099",
+"n": 144
+},
+"after": {
+"L": 0.441,
+"C": 0.008,
+"h": 55,
+"hex": "#56524f",
+"n": 323
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172865",
+"route": "generic",
+"pct": 88.8,
+"b": 0.16492016800324172,
+"a": 0.19389705448663666,
+"lab": {
+"photo": {
+"L": 0.375,
+"C": 0.008,
+"h": 65,
+"hex": "#44403d",
+"n": 359
+},
+"before": {
+"L": 0.523,
+"C": 0.08,
+"h": 41,
+"hex": "#915945",
+"n": 329
+},
+"after": {
+"L": 0.567,
+"C": 0.035,
+"h": 59,
+"hex": "#867262",
+"n": 335
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172872",
+"route": "generic",
+"pct": 58.3,
+"b": 0.18054018954970447,
+"a": 0.11521405202005224,
+"lab": {
+"photo": {
+"L": 0.561,
+"C": 0.019,
+"h": 58,
+"hex": "#7e726a",
+"n": 319
+},
+"before": {
+"L": 0.382,
+"C": 0.005,
+"h": 266,
+"hex": "#414346",
+"n": 325
+},
+"after": {
+"L": 0.446,
+"C": 0.012,
+"h": 56,
+"hex": "#5a534e",
+"n": 325
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1901,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1901,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172874",
+"route": "generic",
+"pct": 62,
+"b": 0.1465092437456418,
+"a": 0.15306424396377885,
+"lab": {
+"photo": {
+"L": 0.608,
+"C": 0.016,
+"h": 46,
+"hex": "#8b807b",
+"n": 368
+},
+"before": {
+"L": 0.462,
+"C": 0.004,
+"h": 30,
+"hex": "#5a5756",
+"n": 342
+},
+"after": {
+"L": 0.456,
+"C": 0.034,
+"h": 48,
+"hex": "#665146",
+"n": 347
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1928,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1928,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172875",
+"route": "generic",
+"pct": 67.8,
+"b": 0.04565191644498522,
+"a": 0.013772512344726474,
+"lab": {
+"photo": {
+"L": 0.452,
+"C": 0.01,
+"h": 35,
+"hex": "#5b5452",
+"n": 358
+},
+"before": {
+"L": 0.412,
+"C": 0.032,
+"h": 36,
+"hex": "#5a443e",
+"n": 372
+},
+"after": {
+"L": 0.441,
+"C": 0.002,
+"h": 63,
+"hex": "#535352",
+"n": 367
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172894",
+"route": "generic + spec (gable, year)",
+"pct": 69.4,
+"b": 0.1548153908904811,
+"a": 0.09901790624886292,
+"lab": {
+"photo": {
+"L": 0.35,
+"C": 0.012,
+"h": 45,
+"hex": "#403936",
+"n": 376
+},
+"before": {
+"L": 0.504,
+"C": 0.004,
+"h": 242,
+"hex": "#626567",
+"n": 356
+},
+"after": {
+"L": 0.449,
+"C": 0.012,
+"h": 54,
+"hex": "#5b544f",
+"n": 359
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1724,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1724,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172897",
+"route": "generic",
+"pct": 60.5,
+"b": 0.03550091220486154,
+"a": 0.051634752991895634,
+"lab": {
+"photo": {
+"L": 0.53,
+"C": 0.025,
+"h": 37,
+"hex": "#796762",
+"n": 336
+},
+"before": {
+"L": 0.536,
+"C": 0.01,
+"h": 214,
+"hex": "#697071",
+"n": 352
+},
+"after": {
+"L": 0.482,
+"C": 0.007,
+"h": 64,
+"hex": "#615d5a",
+"n": 355
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1870,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1870,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172898",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 58.9,
+"b": 0.04562752565657929,
+"a": 0.15105780759673682,
+"lab": {
+"photo": {
+"L": 0.599,
+"C": 0.016,
+"h": 56,
+"hex": "#887e77",
+"n": 309
+},
+"before": {
+"L": 0.641,
+"C": 0.004,
+"h": 167,
+"hex": "#8b8e8c",
+"n": 350
+},
+"after": {
+"L": 0.448,
+"C": 0.012,
+"h": 51,
+"hex": "#5a534f",
+"n": 358
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1848,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1848,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012172954",
+"route": "generic",
+"pct": 32.5,
+"b": 0.2781316955060165,
+"a": 0.27537479552768945,
+"lab": {
+"photo": {
+"L": 0.735,
+"C": 0.017,
+"h": 92,
+"hex": "#ada99e",
+"n": 298
+},
+"before": {
+"L": 0.462,
+"C": 0.059,
+"h": 30,
+"hex": "#764c45",
+"n": 327
+},
+"after": {
+"L": 0.465,
+"C": 0.06,
+"h": 30,
+"hex": "#774d45",
+"n": 327
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1983,
+"facadeStyle": "postwar",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#7f898f",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1983,
+"facadeStyle": "postwar",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#7f898f",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175037",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 28.3,
+"b": 0.12251703039091894,
+"a": 0.1290874560866411,
+"lab": {
+"photo": {
+"L": 0.584,
+"C": 0.006,
+"h": 132,
+"hex": "#7a7c79",
+"n": 186
+},
+"before": {
+"L": 0.464,
+"C": 0.026,
+"h": 61,
+"hex": "#64564a",
+"n": 379
+},
+"after": {
+"L": 0.456,
+"C": 0.019,
+"h": 73,
+"hex": "#5d554b",
+"n": 379
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1862,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1862,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175039",
+"route": "generic + spec (gable, year, wallMaterial, crownRiseM)",
+"pct": 34.4,
+"b": 0.224616084261728,
+"a": 0.03061518682237855,
+"lab": {
+"photo": {
+"L": 0.581,
+"C": 0.007,
+"h": 118,
+"hex": "#7a7b77",
+"n": 383
+},
+"before": {
+"L": 0.367,
+"C": 0.068,
+"h": 29,
+"hex": "#5c2f2a",
+"n": 152
+},
+"after": {
+"L": 0.552,
+"C": 0.007,
+"h": 207,
+"hex": "#6e7374",
+"n": 150
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1635,
+"facadeStyle": "canal",
+"registerFinish": "light",
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1635,
+"facadeStyle": "canal",
+"registerFinish": "light",
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175139",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 37.2,
+"b": 0.08084493797670245,
+"a": 0.07714918015132631,
+"lab": {
+"photo": {
+"L": 0.326,
+"C": 0.013,
+"h": 66,
+"hex": "#39332e",
+"n": 384
+},
+"before": {
+"L": 0.4,
+"C": 0.044,
+"h": 42,
+"hex": "#5b3f34",
+"n": 376
+},
+"after": {
+"L": 0.403,
+"C": 0.011,
+"h": 45,
+"hex": "#4e4744",
+"n": 375
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175141",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 35.4,
+"b": 0.09805453693207344,
+"a": 0.08508033830394097,
+"lab": {
+"photo": {
+"L": 0.369,
+"C": 0.01,
+"h": 65,
+"hex": "#433e3a",
+"n": 380
+},
+"before": {
+"L": 0.458,
+"C": 0.05,
+"h": 40,
+"hex": "#704e42",
+"n": 321
+},
+"after": {
+"L": 0.453,
+"C": 0.023,
+"h": 51,
+"hex": "#61534b",
+"n": 321
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1847,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1847,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175142",
+"route": "generic",
+"pct": 3.8,
+"b": 0.17643174427528718,
+"a": 0.17642966419191305,
+"lab": {
+"photo": {
+"L": 0.383,
+"C": 0.01,
+"h": 47,
+"hex": "#48423f",
+"n": 334
+},
+"before": {
+"L": 0.559,
+"C": 0.003,
+"h": 183,
+"hex": "#727574",
+"n": 329
+},
+"after": {
+"L": 0.559,
+"C": 0.003,
+"h": 182,
+"hex": "#727574",
+"n": 329
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1991,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#c0bdb6",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1991,
+"facadeStyle": "modern",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#c0bdb6",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175143",
+"route": "generic",
+"pct": 28.5,
+"b": 0.12433089817489167,
+"a": 0.04713608750850298,
+"lab": {
+"photo": {
+"L": 0.482,
+"C": 0.005,
+"h": 77,
+"hex": "#605e5b",
+"n": 294
+},
+"before": {
+"L": 0.36,
+"C": 0.028,
+"h": 44,
+"hex": "#47372f",
+"n": 277
+},
+"after": {
+"L": 0.436,
+"C": 0.015,
+"h": 61,
+"hex": "#585049",
+"n": 277
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175144",
+"route": "generic",
+"pct": 31.6,
+"b": 0.021101655900864793,
+"a": 0.021592789133787458,
+"lab": {
+"photo": {
+"L": 0.419,
+"C": 0.012,
+"h": 45,
+"hex": "#534b47",
+"n": 299
+},
+"before": {
+"L": 0.422,
+"C": 0.009,
+"h": 213,
+"hex": "#474f50",
+"n": 179
+},
+"after": {
+"L": 0.44,
+"C": 0.017,
+"h": 47,
+"hex": "#5b504b",
+"n": 294
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1862,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1862,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175204",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 45.2,
+"b": 0.07715480582680877,
+"a": 0.09260601070149058,
+"lab": {
+"photo": {
+"L": 0.36,
+"C": 0.003,
+"h": 92,
+"hex": "#3e3d3b",
+"n": 382
+},
+"before": {
+"L": 0.424,
+"C": 0.045,
+"h": 43,
+"hex": "#61453a",
+"n": 306
+},
+"after": {
+"L": 0.451,
+"C": 0.02,
+"h": 74,
+"hex": "#5b5449",
+"n": 305
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1745,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1745,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012175205",
+"route": "generic + spec (year)",
+"pct": 10.9,
+"b": 0.18122102445218297,
+"a": 0.20084507825853964,
+"lab": {
+"photo": {
+"L": 0.291,
+"C": 0.007,
+"h": 41,
+"hex": "#2f2a29",
+"n": 384
+},
+"before": {
+"L": 0.471,
+"C": 0.028,
+"h": 42,
+"hex": "#69564e",
+"n": 213
+},
+"after": {
+"L": 0.49,
+"C": 0.034,
+"h": 52,
+"hex": "#715b4f",
+"n": 213
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176003",
+"route": "generic",
+"pct": 44.8,
+"b": 0.16722275745701157,
+"a": 0.07025831169983827,
+"lab": {
+"photo": {
+"L": 0.435,
+"C": 0.013,
+"h": 72,
+"hex": "#56504a",
+"n": 370
+},
+"before": {
+"L": 0.602,
+"C": 0.02,
+"h": 54,
+"hex": "#8b7e76",
+"n": 379
+},
+"after": {
+"L": 0.505,
+"C": 0.009,
+"h": 48,
+"hex": "#696360",
+"n": 380
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1924,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1924,
+"facadeStyle": "school",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176005",
+"route": "generic + spec (gable, year)",
+"pct": 50.4,
+"b": 0.23212704429700856,
+"a": 0.08429280979347696,
+"lab": {
+"photo": {
+"L": 0.406,
+"C": 0.012,
+"h": 71,
+"hex": "#4e4842",
+"n": 382
+},
+"before": {
+"L": 0.638,
+"C": 0.019,
+"h": 83,
+"hex": "#928c80",
+"n": 380
+},
+"after": {
+"L": 0.49,
+"C": 0.019,
+"h": 69,
+"hex": "#685f55",
+"n": 380
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1644,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1644,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176013",
+"route": "generic",
+"pct": 49.7,
+"b": 0.2392876713162118,
+"a": 0.026324446604111654,
+"lab": {
+"photo": {
+"L": 0.481,
+"C": 0.031,
+"h": 44,
+"hex": "#6d5950",
+"n": 383
+},
+"before": {
+"L": 0.718,
+"C": 0.004,
+"h": 161,
+"hex": "#a3a6a3",
+"n": 277
+},
+"after": {
+"L": 0.503,
+"C": 0.017,
+"h": 53,
+"hex": "#6c625b",
+"n": 285
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1906,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176017",
+"route": "generic",
+"pct": 51.4,
+"b": 0.07390077894988197,
+"a": 0.0791111105486503,
+"lab": {
+"photo": {
+"L": 0.421,
+"C": 0.022,
+"h": 49,
+"hex": "#584a43",
+"n": 381
+},
+"before": {
+"L": 0.377,
+"C": 0.079,
+"h": 26,
+"hex": "#642e2a",
+"n": 348
+},
+"after": {
+"L": 0.5,
+"C": 0.026,
+"h": 52,
+"hex": "#705f56",
+"n": 348
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1880,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1880,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176101",
+"route": "generic",
+"pct": 39.8,
+"b": 0.012964695706235251,
+"a": 0.016255542660385067,
+"lab": {
+"photo": {
+"L": 0.438,
+"C": 0.015,
+"h": 78,
+"hex": "#575149",
+"n": 371
+},
+"before": {
+"L": 0.431,
+"C": 0.019,
+"h": 43,
+"hex": "#594d48",
+"n": 378
+},
+"after": {
+"L": 0.425,
+"C": 0.013,
+"h": 38,
+"hex": "#554c49",
+"n": 377
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1824,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1824,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176172",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 45,
+"b": 0.09997763864358383,
+"a": 0.06954935688944007,
+"lab": {
+"photo": {
+"L": 0.377,
+"C": 0.016,
+"h": 79,
+"hex": "#464138",
+"n": 374
+},
+"before": {
+"L": 0.474,
+"C": 0.035,
+"h": 42,
+"hex": "#6d564c",
+"n": 252
+},
+"after": {
+"L": 0.446,
+"C": 0.013,
+"h": 46,
+"hex": "#5a524e",
+"n": 367
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1850,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176174",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 51.3,
+"b": 0.1417631712377977,
+"a": 0.07317253109389073,
+"lab": {
+"photo": {
+"L": 0.379,
+"C": 0.017,
+"h": 70,
+"hex": "#484138",
+"n": 375
+},
+"before": {
+"L": 0.52,
+"C": 0.029,
+"h": 48,
+"hex": "#77645b",
+"n": 151
+},
+"after": {
+"L": 0.452,
+"C": 0.014,
+"h": 55,
+"hex": "#5c544e",
+"n": 360
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1841,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1841,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176272",
+"route": "generic + spec (year, stoop)",
+"pct": 43.8,
+"b": 0.20840372731916976,
+"a": 0.14094299749551104,
+"lab": {
+"photo": {
+"L": 0.432,
+"C": 0.004,
+"h": 30,
+"hex": "#534f4f",
+"n": 377
+},
+"before": {
+"L": 0.64,
+"C": 0.009,
+"h": 219,
+"hex": "#888f91",
+"n": 211
+},
+"after": {
+"L": 0.57,
+"C": 0.031,
+"h": 81,
+"hex": "#817662",
+"n": 267
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1635,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1635,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176273",
+"route": "generic",
+"pct": 49.2,
+"b": 0.2059089822666885,
+"a": 0.14278888308769727,
+"lab": {
+"photo": {
+"L": 0.353,
+"C": 0.011,
+"h": 224,
+"hex": "#353d40",
+"n": 266
+},
+"before": {
+"L": 0.55,
+"C": 0.049,
+"h": 52,
+"hex": "#896956",
+"n": 384
+},
+"after": {
+"L": 0.495,
+"C": 0.004,
+"h": 39,
+"hex": "#646160",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1902,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1902,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176275",
+"route": "generic",
+"pct": 43.2,
+"b": 0.29814269839319313,
+"a": 0.0930268778364619,
+"lab": {
+"photo": {
+"L": 0.412,
+"C": 0.004,
+"h": 357,
+"hex": "#4d4a4b",
+"n": 338
+},
+"before": {
+"L": 0.71,
+"C": 0.007,
+"h": 108,
+"hex": "#a3a39e",
+"n": 373
+},
+"after": {
+"L": 0.503,
+"C": 0.021,
+"h": 57,
+"hex": "#6d6159",
+"n": 378
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1870,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1870,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176278",
+"route": "generic",
+"pct": 57,
+"b": 0.180687157255113,
+"a": 0.01871977420636282,
+"lab": {
+"photo": {
+"L": 0.478,
+"C": 0.017,
+"h": 71,
+"hex": "#645c53",
+"n": 281
+},
+"before": {
+"L": 0.637,
+"C": 0.099,
+"h": 35,
+"hex": "#bf7462",
+"n": 299
+},
+"after": {
+"L": 0.462,
+"C": 0.026,
+"h": 61,
+"hex": "#64564a",
+"n": 299
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1785,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1785,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176477",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 63.2,
+"b": 0.0977139990999444,
+"a": 0.05786763827084457,
+"lab": {
+"photo": {
+"L": 0.414,
+"C": 0.02,
+"h": 64,
+"hex": "#534941",
+"n": 363
+},
+"before": {
+"L": 0.507,
+"C": 0.01,
+"h": 240,
+"hex": "#60666a",
+"n": 384
+},
+"after": {
+"L": 0.449,
+"C": 0.063,
+"h": 37,
+"hex": "#73483b",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1790,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1790,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176478",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 50.7,
+"b": 0.02571649441923314,
+"a": 0.0240196805563708,
+"lab": {
+"photo": {
+"L": 0.414,
+"C": 0.016,
+"h": 82,
+"hex": "#504b42",
+"n": 337
+},
+"before": {
+"L": 0.415,
+"C": 0.01,
+"h": 244,
+"hex": "#474c50",
+"n": 250
+},
+"after": {
+"L": 0.393,
+"C": 0.007,
+"h": 41,
+"hex": "#494543",
+"n": 250
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1725,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1725,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176481",
+"route": "generic",
+"pct": 41.3,
+"b": 0.08073463132613144,
+"a": 0.11338907248259374,
+"lab": {
+"photo": {
+"L": 0.318,
+"C": 0.014,
+"h": 52,
+"hex": "#38302c",
+"n": 384
+},
+"before": {
+"L": 0.396,
+"C": 0.008,
+"h": 193,
+"hex": "#414847",
+"n": 99
+},
+"after": {
+"L": 0.418,
+"C": 0.067,
+"h": 39,
+"hex": "#6c3f30",
+"n": 195
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1647,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1647,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176482",
+"route": "generic",
+"pct": 60.7,
+"b": 0.19503237399685755,
+"a": 0.06958714340259177,
+"lab": {
+"photo": {
+"L": 0.479,
+"C": 0.018,
+"h": 57,
+"hex": "#665b53",
+"n": 369
+},
+"before": {
+"L": 0.673,
+"C": 0.005,
+"h": 164,
+"hex": "#949895",
+"n": 325
+},
+"after": {
+"L": 0.432,
+"C": 0.068,
+"h": 38,
+"hex": "#704234",
+"n": 322
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1721,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1721,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176487",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 61.7,
+"b": 0.14793017271914388,
+"a": 0.010422099001370849,
+"lab": {
+"photo": {
+"L": 0.471,
+"C": 0.009,
+"h": 91,
+"hex": "#5d5b56",
+"n": 359
+},
+"before": {
+"L": 0.325,
+"C": 0.03,
+"h": 51,
+"hex": "#3f2f24",
+"n": 281
+},
+"after": {
+"L": 0.479,
+"C": 0.005,
+"h": 44,
+"hex": "#5f5c5b",
+"n": 280
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1760,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176488",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 63.5,
+"b": 0.4370367028166587,
+"a": 0.2718898902147238,
+"lab": {
+"photo": {
+"L": 0.331,
+"C": 0.009,
+"h": 81,
+"hex": "#383530",
+"n": 377
+},
+"before": {
+"L": 0.768,
+"C": 0.007,
+"h": 120,
+"hex": "#b3b4b0",
+"n": 267
+},
+"after": {
+"L": 0.601,
+"C": 0.041,
+"h": 80,
+"hex": "#8e7e65",
+"n": 265
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1737,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1737,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012176493",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 67,
+"b": 0.2833460677802346,
+"a": 0.08595250325458824,
+"lab": {
+"photo": {
+"L": 0.378,
+"C": 0.012,
+"h": 69,
+"hex": "#46413b",
+"n": 381
+},
+"before": {
+"L": 0.661,
+"C": 0.005,
+"h": 172,
+"hex": "#909492",
+"n": 379
+},
+"after": {
+"L": 0.463,
+"C": 0.002,
+"h": 321,
+"hex": "#59585a",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1720,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1720,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012177584",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 51.1,
+"b": 0.09445681617705155,
+"a": 0.03578293360374741,
+"lab": {
+"photo": {
+"L": 0.443,
+"C": 0.013,
+"h": 70,
+"hex": "#58524c",
+"n": 307
+},
+"before": {
+"L": 0.537,
+"C": 0.004,
+"h": 88,
+"hex": "#6f6e6b",
+"n": 306
+},
+"after": {
+"L": 0.477,
+"C": 0.024,
+"h": 64,
+"hex": "#675a4f",
+"n": 306
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012177585",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 0,
+"b": 0.2901554828581859,
+"a": 0.2901554828581859,
+"lab": {
+"photo": {
+"L": 0.376,
+"C": 0.018,
+"h": 63,
+"hex": "#494038",
+"n": 384
+},
+"before": {
+"L": 0.666,
+"C": 0.022,
+"h": 38,
+"hex": "#a0908c",
+"n": 384
+},
+"after": {
+"L": 0.666,
+"C": 0.022,
+"h": 38,
+"hex": "#a0908c",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1775,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1775,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012177657",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 32.6,
+"b": 0.18119532444384467,
+"a": 0.06603209505583285,
+"lab": {
+"photo": {
+"L": 0.404,
+"C": 0.013,
+"h": 44,
+"hex": "#4f4743",
+"n": 379
+},
+"before": {
+"L": 0.585,
+"C": 0.009,
+"h": 84,
+"hex": "#7e7b76",
+"n": 132
+},
+"after": {
+"L": 0.47,
+"C": 0.015,
+"h": 42,
+"hex": "#625854",
+"n": 317
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012177674",
+"route": "generic",
+"pct": 31.2,
+"b": 0.12621667056408864,
+"a": 0.05368257586913207,
+"lab": {
+"photo": {
+"L": 0.506,
+"C": 0.012,
+"h": 74,
+"hex": "#69645e",
+"n": 287
+},
+"before": {
+"L": 0.382,
+"C": 0.032,
+"h": 37,
+"hex": "#503c37",
+"n": 215
+},
+"after": {
+"L": 0.453,
+"C": 0.02,
+"h": 63,
+"hex": "#5e544b",
+"n": 243
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1905,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012179725",
+"route": "generic",
+"pct": 35.9,
+"b": 0.07474760317312612,
+"a": 0.016169209716393452,
+"lab": {
+"photo": {
+"L": 0.412,
+"C": 0.013,
+"h": 74,
+"hex": "#4f4a44",
+"n": 373
+},
+"before": {
+"L": 0.338,
+"C": 0.021,
+"h": 50,
+"hex": "#3f332c",
+"n": 248
+},
+"after": {
+"L": 0.427,
+"C": 0.007,
+"h": 78,
+"hex": "#504e4b",
+"n": 359
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1834,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1834,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012179726",
+"route": "generic + spec (gable, year)",
+"pct": 45.5,
+"b": 0.14483016487657074,
+"a": 0.0987368208927656,
+"lab": {
+"photo": {
+"L": 0.459,
+"C": 0.089,
+"h": 26,
+"hex": "#81413d",
+"n": 314
+},
+"before": {
+"L": 0.322,
+"C": 0.046,
+"h": 43,
+"hex": "#462a1e",
+"n": 377
+},
+"after": {
+"L": 0.405,
+"C": 0.008,
+"h": 62,
+"hex": "#4c4845",
+"n": 377
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1786,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1786,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012179733",
+"route": "generic",
+"pct": 45.7,
+"b": 0.1639699817434092,
+"a": 0.0400252585585416,
+"lab": {
+"photo": {
+"L": 0.532,
+"C": 0.005,
+"h": 65,
+"hex": "#6e6c69",
+"n": 331
+},
+"before": {
+"L": 0.648,
+"C": 0.12,
+"h": 31,
+"hex": "#ce7061",
+"n": 280
+},
+"after": {
+"L": 0.493,
+"C": 0.014,
+"h": 64,
+"hex": "#676059",
+"n": 280
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1767,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1767,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012179735",
+"route": "generic + spec (gable, year)",
+"pct": 43.1,
+"b": 0.13752791331989023,
+"a": 0.15975032356154512,
+"lab": {
+"photo": {
+"L": 0.312,
+"C": 0.003,
+"h": 310,
+"hex": "#313032",
+"n": 384
+},
+"before": {
+"L": 0.44,
+"C": 0.05,
+"h": 44,
+"hex": "#674838",
+"n": 343
+},
+"after": {
+"L": 0.471,
+"C": 0.014,
+"h": 64,
+"hex": "#615a53",
+"n": 343
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012180006",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 41.2,
+"b": 0.023024480833015167,
+"a": 0.06446236135656697,
+"lab": {
+"photo": {
+"L": 0.333,
+"C": 0.013,
+"h": 45,
+"hex": "#3c3431",
+"n": 378
+},
+"before": {
+"L": 0.32,
+"C": 0.032,
+"h": 46,
+"hex": "#3d2d24",
+"n": 384
+},
+"after": {
+"L": 0.396,
+"C": 0.007,
+"h": 125,
+"hex": "#434743",
+"n": 384
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1832,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1832,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012181808",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 37.6,
+"b": 0.17517378583921192,
+"a": 0.04438291931915608,
+"lab": {
+"photo": {
+"L": 0.511,
+"C": 0.047,
+"h": 77,
+"hex": "#766348",
+"n": 383
+},
+"before": {
+"L": 0.339,
+"C": 0.063,
+"h": 46,
+"hex": "#512b17",
+"n": 319
+},
+"after": {
+"L": 0.49,
+"C": 0.07,
+"h": 45,
+"hex": "#81533e",
+"n": 319
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012181820",
+"route": "generic",
+"pct": 31.6,
+"b": 0.2485238880037644,
+"a": 0.12686776078069023,
+"lab": {
+"photo": {
+"L": 0.32,
+"C": 0.003,
+"h": 171,
+"hex": "#323333",
+"n": 366
+},
+"before": {
+"L": 0.554,
+"C": 0.082,
+"h": 47,
+"hex": "#9a6347",
+"n": 321
+},
+"after": {
+"L": 0.443,
+"C": 0.029,
+"h": 39,
+"hex": "#624e48",
+"n": 321
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1702,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1702,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182299",
+"route": "generic",
+"pct": 43.2,
+"b": 0.3038996979866732,
+"a": 0.006319961069009487,
+"lab": {
+"photo": {
+"L": 0.412,
+"C": 0.021,
+"h": 57,
+"hex": "#544840",
+"n": 302
+},
+"before": {
+"L": 0.715,
+"C": 0.004,
+"h": 179,
+"hex": "#a0a4a3",
+"n": 295
+},
+"after": {
+"L": 0.411,
+"C": 0.024,
+"h": 43,
+"hex": "#564741",
+"n": 295
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1727,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1727,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182587",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 46.7,
+"b": 0.14206464592800339,
+"a": 0.03495398999709257,
+"lab": {
+"photo": {
+"L": 0.363,
+"C": 0.01,
+"h": 66,
+"hex": "#413d39",
+"n": 284
+},
+"before": {
+"L": 0.491,
+"C": 0.071,
+"h": 47,
+"hex": "#82543c",
+"n": 287
+},
+"after": {
+"L": 0.383,
+"C": 0.037,
+"h": 37,
+"hex": "#543c35",
+"n": 287
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1837,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1837,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182844",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 27.6,
+"b": 0.4042010151636703,
+"a": 0.13557365605445162,
+"lab": {
+"photo": {
+"L": 0.241,
+"C": 0.01,
+"h": 19,
+"hex": "#241e1d",
+"n": 383
+},
+"before": {
+"L": 0.645,
+"C": 0.005,
+"h": 131,
+"hex": "#8e8f8c",
+"n": 350
+},
+"after": {
+"L": 0.375,
+"C": 0.029,
+"h": 46,
+"hex": "#4e3c34",
+"n": 356
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1776,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1776,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182849",
+"route": "generic",
+"pct": 41.3,
+"b": 0.15368490603688045,
+"a": 0.10784102719801243,
+"lab": {
+"photo": {
+"L": 0.322,
+"C": 0.012,
+"h": 44,
+"hex": "#38312e",
+"n": 382
+},
+"before": {
+"L": 0.463,
+"C": 0.073,
+"h": 36,
+"hex": "#7c493b",
+"n": 377
+},
+"after": {
+"L": 0.424,
+"C": 0.047,
+"h": 42,
+"hex": "#644539",
+"n": 377
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": "brick",
+"specReading": "#efd6b3",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1750,
+"facadeStyle": "canal",
+"registerFinish": "brick",
+"specReading": "#efd6b3",
+"specRecipeWall": null,
+"heldBrick": true,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182850",
+"route": "generic + spec (gable, year, crownRiseM)",
+"pct": 42.3,
+"b": 0.33556718432468974,
+"a": 0.02604990390328826,
+"lab": {
+"photo": {
+"L": 0.336,
+"C": 0.014,
+"h": 59,
+"hex": "#3d3530",
+"n": 384
+},
+"before": {
+"L": 0.671,
+"C": 0.006,
+"h": 211,
+"hex": "#929798",
+"n": 373
+},
+"after": {
+"L": 0.361,
+"C": 0.017,
+"h": 34,
+"hex": "#453a37",
+"n": 373
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1800,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1800,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012182856",
+"route": "generic",
+"pct": 51.3,
+"b": 0.42514926637647704,
+"a": 0.128191263352851,
+"lab": {
+"photo": {
+"L": 0.318,
+"C": 0.011,
+"h": 41,
+"hex": "#38312e",
+"n": 384
+},
+"before": {
+"L": 0.743,
+"C": 0.005,
+"h": 121,
+"hex": "#abaca9",
+"n": 379
+},
+"after": {
+"L": 0.446,
+"C": 0.018,
+"h": 41,
+"hex": "#5c514d",
+"n": 383
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1656,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1656,
+"facadeStyle": "canal",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#5c4038",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012233628",
+"route": "generic",
+"pct": 45.3,
+"b": 0.30551898988608495,
+"a": 0.019688851533083036,
+"lab": {
+"photo": {
+"L": 0.457,
+"C": 0.017,
+"h": 51,
+"hex": "#5f554f",
+"n": 382
+},
+"before": {
+"L": 0.762,
+"C": 0.004,
+"h": 146,
+"hex": "#b0b2b0",
+"n": 332
+},
+"after": {
+"L": 0.45,
+"C": 0.035,
+"h": 60,
+"hex": "#645141",
+"n": 332
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1910,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": null,
+"specRecipeWall": null,
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012236512",
+"route": "spec recipe + spec (wallHex, bays, storeys, look, shop, shopHex)",
+"pct": 38.9,
+"b": 0.034375341160961276,
+"a": 0.02156149738337013,
+"lab": {
+"photo": {
+"L": 0.42,
+"C": 0.032,
+"h": 45,
+"hex": "#5d483f",
+"n": 324
+},
+"before": {
+"L": 0.438,
+"C": 0.059,
+"h": 60,
+"hex": "#69492e",
+"n": 337
+},
+"after": {
+"L": 0.438,
+"C": 0.037,
+"h": 63,
+"hex": "#604e3d",
+"n": 337
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1898,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#563f2d",
+"specRecipeWall": "#6f492b",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1898,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#563f2d",
+"specRecipeWall": "#654e3b",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#745548",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012236886",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.025357291225734397,
+"a": 0.025357291225734397,
+"lab": {
+"photo": {
+"L": 0.453,
+"C": 0.012,
+"h": 55,
+"hex": "#5b5550",
+"n": 384
+},
+"before": {
+"L": 0.465,
+"C": 0.034,
+"h": 66,
+"hex": "#675545",
+"n": 326
+},
+"after": {
+"L": 0.465,
+"C": 0.034,
+"h": 66,
+"hex": "#675545",
+"n": 326
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4f4031",
+"specRecipeWall": "#634c34",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1897,
+"facadeStyle": "c19",
+"registerFinish": null,
+"specReading": "#4f4031",
+"specRecipeWall": "#5d4e3e",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#cdc3ae",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012236953",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.08928788850607912,
+"a": 0.08928788850607912,
+"lab": {
+"photo": {
+"L": 0.405,
+"C": 0.005,
+"h": 53,
+"hex": "#4c4947",
+"n": 384
+},
+"before": {
+"L": 0.317,
+"C": 0.014,
+"h": 146,
+"hex": "#2e342e",
+"n": 295
+},
+"after": {
+"L": 0.317,
+"C": 0.014,
+"h": 146,
+"hex": "#2e342e",
+"n": 295
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#1f2420",
+"specRecipeWall": "#373837",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#1f2420",
+"specRecipeWall": "#373837",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+},
+{
+"key": "0363100012237297",
+"route": "installed chunk-face-kinker-206-242",
+"pct": 0,
+"b": 0.04721340202196201,
+"a": 0.04721340202196201,
+"lab": {
+"photo": {
+"L": 0.353,
+"C": 0.005,
+"h": 30,
+"hex": "#3e3b3a",
+"n": 382
+},
+"before": {
+"L": 0.309,
+"C": 0.014,
+"h": 151,
+"hex": "#2b322c",
+"n": 290
+},
+"after": {
+"L": 0.309,
+"C": 0.014,
+"h": 151,
+"hex": "#2b322c",
+"n": 290
+}
+},
+"drawn": {
+"before": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#2a302d",
+"specRecipeWall": "#363837",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+},
+"after": {
+"search": "?engine=own&cam=fps&world=live",
+"worldCells": false,
+"found": true,
+"constructionYear": 1896,
+"facadeStyle": "c19",
+"registerFinish": "brick",
+"specReading": "#2a302d",
+"specRecipeWall": "#363837",
+"heldBrick": false,
+"facadeMappedColour": null,
+"sideColour": "#8c5b4d",
+"sideColourSource": null,
+"periodWallHex": null
+}
+}
+}
+]
