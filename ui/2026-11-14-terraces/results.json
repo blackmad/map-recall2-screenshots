@@ -1,0 +1,517 @@
+{
+ "leidseplein-today": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 4,
+     "cells": 4,
+     "drawn": 4,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": null
+  }
+ },
+ "rembrandtplein-today": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 5,
+     "cells": 5,
+     "drawn": 5,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": null
+  }
+ },
+ "prinsengracht-today": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 7,
+     "cells": 7,
+     "drawn": 7,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 182,
+   "p50": 16.7,
+   "p95": 16.7,
+   "terraces": null
+  }
+ },
+ "gerard-douplein-today": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 8,
+     "cells": 8,
+     "drawn": 8,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.7,
+   "terraces": null
+  }
+ },
+ "smalle-corner-today": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 8,
+     "cells": 8,
+     "drawn": 8,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": null
+  }
+ },
+ "leidseplein-terraces": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 4,
+     "cells": 4,
+     "drawn": 4,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.7,
+   "terraces": {
+    "draws": 9,
+    "instances": 617,
+    "near": 292,
+    "far": 325,
+    "triangles": 32196,
+    "buildMs": 1.1,
+    "byModel": {
+     "set-bistro": 124,
+     "parasol": 65,
+     "set-brown": 73,
+     "set-bar": 9,
+     "screen": 6,
+     "set-restaurant": 9,
+     "set-wall": 2,
+     "set-modern": 4,
+     "set-restaurant-lo": 141,
+     "parasol-lo": 76,
+     "set-bistro-lo": 70,
+     "set-brown-lo": 16,
+     "set-modern-lo": 8,
+     "set-wall-lo": 3,
+     "screen-lo": 11
+    }
+   }
+  }
+ },
+ "rembrandtplein-terraces": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 5,
+     "cells": 5,
+     "drawn": 5,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": {
+    "draws": 6,
+    "instances": 545,
+    "near": 234,
+    "far": 311,
+    "triangles": 16252,
+    "buildMs": 1.1,
+    "byModel": {
+     "set-bistro": 174,
+     "set-wall": 1,
+     "set-restaurant": 8,
+     "parasol": 29,
+     "planter": 14,
+     "set-bar": 8,
+     "set-bar-lo": 21,
+     "set-brown-lo": 15,
+     "set-restaurant-lo": 16,
+     "set-bistro-lo": 175,
+     "set-wall-lo": 4,
+     "screen-lo": 6,
+     "parasol-lo": 52,
+     "planter-lo": 6,
+     "set-modern-lo": 16
+    }
+   }
+  }
+ },
+ "prinsengracht-terraces": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 7,
+     "cells": 7,
+     "drawn": 7,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": {
+    "draws": 7,
+    "instances": 82,
+    "near": 64,
+    "far": 18,
+    "triangles": 3432,
+    "buildMs": 0.4,
+    "byModel": {
+     "set-bistro": 33,
+     "screen": 2,
+     "set-restaurant": 1,
+     "parasol": 1,
+     "planter": 14,
+     "set-brown": 13,
+     "set-wall-lo": 4,
+     "set-bistro-lo": 10,
+     "planter-lo": 4
+    }
+   }
+  }
+ },
+ "gerard-douplein-terraces": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 8,
+     "cells": 8,
+     "drawn": 8,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 182,
+   "p50": 16.7,
+   "p95": 16.7,
+   "terraces": {
+    "draws": 10,
+    "instances": 284,
+    "near": 147,
+    "far": 137,
+    "triangles": 15834,
+    "buildMs": 0.6,
+    "byModel": {
+     "set-restaurant": 18,
+     "set-wall": 3,
+     "screen": 7,
+     "parasol": 41,
+     "planter": 1,
+     "set-brown": 1,
+     "set-bistro": 60,
+     "set-modern": 16,
+     "set-wall-lo": 2,
+     "set-bistro-lo": 32,
+     "set-restaurant-lo": 46,
+     "planter-lo": 10,
+     "screen-lo": 2,
+     "set-modern-lo": 9,
+     "set-brown-lo": 27,
+     "parasol-lo": 9
+    }
+   }
+  }
+ },
+ "smalle-corner-terraces": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 8,
+     "cells": 8,
+     "drawn": 8,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 182,
+   "p50": 16.7,
+   "p95": 16.7,
+   "terraces": {
+    "draws": 8,
+    "instances": 79,
+    "near": 26,
+    "far": 53,
+    "triangles": 3408,
+    "buildMs": 0.5,
+    "byModel": {
+     "set-bistro": 10,
+     "set-brown": 13,
+     "planter": 3,
+     "set-wall-lo": 2,
+     "set-bistro-lo": 32,
+     "screen-lo": 2,
+     "set-restaurant-lo": 1,
+     "parasol-lo": 1,
+     "planter-lo": 15
+    }
+   }
+  }
+ },
+ "as-played-leidseplein": {
+  "settle": {
+   "settled": true,
+   "ground": true,
+   "city": true,
+   "buildings": true,
+   "far": true,
+   "baked": true,
+   "detail": {
+    "groundFading": 0,
+    "city": {
+     "inFlight": 0,
+     "queued": 0,
+     "styling": false
+    },
+    "buildingsPending": 0,
+    "far": {
+     "pending": 0
+    },
+    "baked": {
+     "covered": 8,
+     "cells": 8,
+     "drawn": 8,
+     "fading": 0,
+     "pending": 0
+    }
+   }
+  },
+  "perf": {
+   "frames": 181,
+   "p50": 16.7,
+   "p95": 16.8,
+   "terraces": {
+    "draws": 12,
+    "instances": 630,
+    "near": 118,
+    "far": 512,
+    "triangles": 30096,
+    "buildMs": 1.4,
+    "byModel": {
+     "set-restaurant": 19,
+     "parasol": 20,
+     "set-bistro": 54,
+     "set-brown": 25,
+     "set-modern-lo": 52,
+     "set-restaurant-lo": 118,
+     "parasol-lo": 109,
+     "set-bistro-lo": 142,
+     "set-brown-lo": 64,
+     "set-bar-lo": 10,
+     "screen-lo": 12,
+     "set-wall-lo": 5
+    }
+   }
+  }
+ }
+}

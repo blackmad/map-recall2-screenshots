@@ -1,0 +1,166 @@
+{
+ "out": "artifacts/terraces/frames",
+ "width": 1440,
+ "height": 900,
+ "dpr": 2,
+ "poses": [
+  {
+   "key": "leidseplein",
+   "label": "Leidseplein (square)",
+   "lngLat": [
+    4.88280365842081,
+    52.3645653700156
+   ],
+   "headingDeg": 272.48255570205134,
+   "fps": {
+    "center": [
+     4.882600278375276,
+     52.364570754428165
+    ],
+    "zoom": 21.004988876625777,
+    "bearing": 272.48255570205134,
+    "pitch": 80,
+    "fovDeg": 72,
+    "distanceM": 14.05139997887046,
+    "eye": {
+     "lngLat": [
+      4.88280365842081,
+      52.3645653700156
+     ],
+     "heightM": 2.44
+    }
+   },
+   "pano": "TMX7316010203-002537_pano_0001_002579",
+   "panoTime": "2022-04-22T09:13:13.844720Z",
+   "distanceM": 11.8
+  },
+  {
+   "key": "rembrandtplein",
+   "label": "Rembrandtplein north side (square)",
+   "lngLat": [
+    4.89707561243488,
+    52.3662295345628
+   ],
+   "headingDeg": 7.999632111798746,
+   "fps": {
+    "center": [
+     4.897103943829782,
+     52.366352632570745
+    ],
+    "zoom": 21.00493453201303,
+    "bearing": 7.999632111798746,
+    "pitch": 80,
+    "fovDeg": 72,
+    "distanceM": 14.05139997887046,
+    "eye": {
+     "lngLat": [
+      4.89707561243488,
+      52.3662295345628
+     ],
+     "heightM": 2.44
+    }
+   },
+   "pano": "TMX7316010203-002623_pano_0003_000311",
+   "panoTime": "2022-06-23T09:49:31.274600Z",
+   "distanceM": 16.8
+  },
+  {
+   "key": "prinsengracht",
+   "label": "Prinsengracht 114, canal-side café row",
+   "lngLat": [
+    4.88423466844915,
+    52.376252954303
+   ],
+   "headingDeg": 37.25990752183293,
+   "fps": {
+    "center": [
+     4.884357949450006,
+     52.37635189042927
+    ],
+    "zoom": 21.004607140244165,
+    "bearing": 37.25990752183293,
+    "pitch": 80,
+    "fovDeg": 72,
+    "distanceM": 14.05139997887046,
+    "eye": {
+     "lngLat": [
+      4.88423466844915,
+      52.376252954303
+     ],
+     "heightM": 2.44
+    }
+   },
+   "pano": "TMX7316010203-002542_pano_0006_000423",
+   "panoTime": "2022-04-25T10:36:44.585240Z",
+   "distanceM": 10.7
+  },
+  {
+   "key": "gerard-douplein",
+   "label": "Gerard Douplein, De Pijp",
+   "lngLat": [
+    4.892996213617491,
+    52.355953049563105
+   ],
+   "headingDeg": 162.3157751600918,
+   "fps": {
+    "center": [
+     4.89305804051437,
+     52.35583461605159
+    ],
+    "zoom": 21.00527006662845,
+    "bearing": 162.3157751600918,
+    "pitch": 80,
+    "fovDeg": 72,
+    "distanceM": 14.05139997887046,
+    "eye": {
+     "lngLat": [
+      4.892996213617491,
+      52.355953049563105
+     ],
+     "heightM": 2.44
+    }
+   },
+   "pano": "recording_2025-09-29_09-14-27_01791",
+   "panoTime": "2025-09-29T10:07:09Z",
+   "distanceM": 14.3
+  },
+  {
+   "key": "smalle-corner",
+   "label": "Café 't Smalle, Egelantiersgracht corner (brown café)",
+   "lngLat": [
+    4.88437446146529,
+    52.3767105461989
+   ],
+   "headingDeg": 241.97388199141483,
+   "fps": {
+    "center": [
+     4.884194713014337,
+     52.37665213726581
+    ],
+    "zoom": 21.004592191238324,
+    "bearing": 241.97388199141483,
+    "pitch": 80,
+    "fovDeg": 72,
+    "distanceM": 14.05139997887046,
+    "eye": {
+     "lngLat": [
+      4.88437446146529,
+      52.3767105461989
+     ],
+     "heightM": 2.44
+    }
+   },
+   "pano": "TMX7316010203-001179_pano_0000_002756",
+   "panoTime": "2019-05-13T11:15:32.384380Z",
+   "distanceM": 11.9
+  }
+ ],
+ "asPlayed": {
+  "key": "leidseplein",
+  "lngLat": [
+   4.8825,
+   52.36385
+  ],
+  "headingDeg": 40
+ }
+}
