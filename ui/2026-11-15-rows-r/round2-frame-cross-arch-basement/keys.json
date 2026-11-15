@@ -1,0 +1,17 @@
+{
+ "house1": {
+  "pand": "0363100012176327",
+  "A": "before",
+  "B": "after"
+ },
+ "house2": {
+  "pand": "0363100012175404",
+  "A": "after",
+  "B": "before"
+ },
+ "house3": {
+  "pand": "0363100012175402",
+  "A": "before",
+  "B": "after"
+ }
+}
