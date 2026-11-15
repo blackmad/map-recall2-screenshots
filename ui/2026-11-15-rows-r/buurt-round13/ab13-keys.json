@@ -1,0 +1,14 @@
+{
+ "trompenburgstraat-097377-097377": {
+  "A": "old",
+  "B": "new"
+ },
+ "europaplein-137940-137940": {
+  "A": "new",
+  "B": "old"
+ },
+ "borssenburgstraat-070575-070575": {
+  "A": "old",
+  "B": "new"
+ }
+}
