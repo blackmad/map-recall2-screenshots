@@ -8,3 +8,6 @@
 - street-*-pair.jpg: house:frames --rule10 pairs (panorama | game, ?world=live) from the blind rounds r1/r2 (before
   the acceptance gate and the De Wallen audit).
 - blind-*: example blind pairs; blind-r{1,2}-key.json and -verdicts.json are the full keys and the fresh opus verdicts.
+- street-*-accepted-pair.jpg (2026-11-16): the same six poses re-shot on the accepted look (lane head 1b788d8bf,
+  default flags: REAL_ACCEPTED templates, lane R's audited red-light fronts), for the What's New note.
+- blind-dewallen-*: the 6-pand De Wallen whole-house blind (5 framed; game and likeness poses): real 8, round n 1, tie 1.

@@ -1,0 +1,12 @@
+{
+  "blind-g/front-01.jpg": {"pick": "B", "why": "The distant left-hand window houses in B read as white-framed glazed doors with red behind, closer to the photo's framed curtained ground floors than A's solid red slabs."},
+  "blind-g/front-02.jpg": {"pick": "B", "why": "The red-lit house in the photo is a framed glazed front with a red tube outline, and B's dark-red frame around teal glazing reads closer than A's red-filled bays."},
+  "blind-g/front-03.jpg": {"pick": "B", "why": "The photo shows no bright red on the far left row, and B's framed white openings sit quieter and closer than A's saturated red door block."},
+  "blind-g/front-04.jpg": {"pick": "A", "why": "A keeps the Pleinzicht corner sign and one framed red-curtained unit, while B drops the sign and adds two solid red blocks the photo does not show along that quay."},
+  "blind-g/front-05.jpg": {"pick": "B", "why": "B's cream-framed tall glazed doors with red behind closely match the photo's right-hand window row and far-end facade, while A shows flat red and purple slabs with no frames."},
+  "blind/front-01.jpg": {"pick": "B", "why": "B's left-hand window houses show white frames with red inside, like the photo's framed windows, while A paints them as bright solid red panels."},
+  "blind/front-02.jpg": {"pick": "tie", "why": "The window houses are tiny and far off at the alley mouth, and the two panels differ only by a sliver of red."},
+  "blind/front-03.jpg": {"pick": "B", "why": "The photo's left ground floors are framed shopfronts with little red, so B's framed white openings beat A's saturated red slab row."},
+  "blind/front-04.jpg": {"pick": "A", "why": "A keeps the Cafe Pleinzicht sign and glazed front, and its neighbours are dark shopfronts like the photo, while B swaps in two solid red window units."},
+  "blind/front-05.jpg": {"pick": "B", "why": "B's cream mullioned frames over red interiors on the right row, and at the far end, match the photo closely, while A shows frameless red and purple boards."}
+}

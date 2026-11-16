@@ -1,0 +1,27 @@
+{
+ "front-01.jpg": {
+  "front": "redLight-audit-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-02.jpg": {
+  "front": "redLight-audit-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-03.jpg": {
+  "front": "redLight-audit-4",
+  "A": "n",
+  "B": "real"
+ },
+ "front-04.jpg": {
+  "front": "redLight-audit-5",
+  "A": "real",
+  "B": "n"
+ },
+ "front-05.jpg": {
+  "front": "redLight-audit-6",
+  "A": "n",
+  "B": "real"
+ }
+}
