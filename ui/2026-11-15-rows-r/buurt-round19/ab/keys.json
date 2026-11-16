@@ -1,0 +1,32 @@
+{
+ "row1": {
+  "row": "amstelkade-107256-107256",
+  "A": "old",
+  "B": "new"
+ },
+ "row2": {
+  "row": "zomerdijkstraat-093959-093959",
+  "A": "old",
+  "B": "new"
+ },
+ "row3": {
+  "row": "grevelingenstraat-102457-102457",
+  "A": "old",
+  "B": "new"
+ },
+ "row4": {
+  "row": "simsonstraat-106318-106318",
+  "A": "old",
+  "B": "new"
+ },
+ "row5": {
+  "row": "van-tuyll-van-serooskerkenplein-100193-100193",
+  "A": "old",
+  "B": "new"
+ },
+ "row6": {
+  "row": "stadionweg-131978-063822",
+  "A": "old",
+  "B": "new"
+ }
+}
