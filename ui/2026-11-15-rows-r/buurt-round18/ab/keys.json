@@ -1,0 +1,32 @@
+{
+ "row1": {
+  "row": "maasstraat-108230-108230",
+  "A": "old",
+  "B": "new"
+ },
+ "row2": {
+  "row": "vrijheidslaan-134238-134238",
+  "A": "new",
+  "B": "old"
+ },
+ "row3": {
+  "row": "meerhuizenstraat-118908-118908",
+  "A": "new",
+  "B": "old"
+ },
+ "row4": {
+  "row": "agamemnonstraat-094341-094341",
+  "A": "old",
+  "B": "new"
+ },
+ "row5": {
+  "row": "brahmsstraat-107585-107585",
+  "A": "new",
+  "B": "old"
+ },
+ "row6": {
+  "row": "olympiaplein-103838-103838",
+  "A": "old",
+  "B": "new"
+ }
+}
