@@ -1,0 +1,192 @@
+{
+ "front-01.jpg": {
+  "front": "redLight-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-02.jpg": {
+  "front": "redLight-r2-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-03.jpg": {
+  "front": "redLight-r2-3",
+  "A": "real",
+  "B": "n"
+ },
+ "front-04.jpg": {
+  "front": "brownBar-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-05.jpg": {
+  "front": "brownBar-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-06.jpg": {
+  "front": "brownBar-r2-3",
+  "A": "n",
+  "B": "real"
+ },
+ "front-07.jpg": {
+  "front": "coffeeshop-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-08.jpg": {
+  "front": "coffeeshop-r2-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-09.jpg": {
+  "front": "coffeeshop-r2-3",
+  "A": "real",
+  "B": "n"
+ },
+ "front-10.jpg": {
+  "front": "souvenir-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-11.jpg": {
+  "front": "souvenir-r2-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-12.jpg": {
+  "front": "souvenir-r2-3",
+  "A": "n",
+  "B": "real"
+ },
+ "front-13.jpg": {
+  "front": "cheese-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-14.jpg": {
+  "front": "cheese-r2-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-15.jpg": {
+  "front": "cheese-r2-3",
+  "A": "n",
+  "B": "real"
+ },
+ "front-16.jpg": {
+  "front": "snackbar-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-17.jpg": {
+  "front": "snackbar-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-18.jpg": {
+  "front": "snackbar-r2-3",
+  "A": "real",
+  "B": "n"
+ },
+ "front-19.jpg": {
+  "front": "tattoo-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-20.jpg": {
+  "front": "tattoo-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-21.jpg": {
+  "front": "tattoo-r2-3",
+  "A": "n",
+  "B": "real"
+ },
+ "front-22.jpg": {
+  "front": "smartshop-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-23.jpg": {
+  "front": "smartshop-r2-3",
+  "A": "n",
+  "B": "real"
+ },
+ "front-24.jpg": {
+  "front": "shoes-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-25.jpg": {
+  "front": "shoes-r2-2",
+  "A": "real",
+  "B": "n"
+ },
+ "front-26.jpg": {
+  "front": "tobacco-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-27.jpg": {
+  "front": "supermarket-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-28.jpg": {
+  "front": "clothes-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-29.jpg": {
+  "front": "cafe-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-30.jpg": {
+  "front": "cafe-r2-2",
+  "A": "n",
+  "B": "real"
+ },
+ "front-31.jpg": {
+  "front": "fastFood-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-32.jpg": {
+  "front": "florist-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-33.jpg": {
+  "front": "books-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-34.jpg": {
+  "front": "phone-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-35.jpg": {
+  "front": "optician-r2-1",
+  "A": "n",
+  "B": "real"
+ },
+ "front-36.jpg": {
+  "front": "cosmetics-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-37.jpg": {
+  "front": "gelato-r2-1",
+  "A": "real",
+  "B": "n"
+ },
+ "front-38.jpg": {
+  "A": "real",
+  "B": "n",
+  "front": "brownBar-hendrix"
+ }
+}
