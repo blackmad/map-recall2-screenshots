@@ -1,0 +1,32 @@
+{
+ "rode-kruisstraat-2-251336": {
+  "A": "today",
+  "B": "new",
+  "seed": 20261122
+ },
+ "krommeniestraat-1-135-251650": {
+  "A": "new",
+  "B": "today",
+  "seed": 20261122
+ },
+ "carolina-macgillavrylaan-208-240261": {
+  "A": "new",
+  "B": "today",
+  "seed": 20261122
+ },
+ "akbarstraat-165-217-253686": {
+  "A": "today",
+  "B": "new",
+  "seed": 20261122
+ },
+ "klaprozenweg-35-37-253708": {
+  "A": "today",
+  "B": "new",
+  "seed": 20261123
+ },
+ "ringslangpad-1-364-251618": {
+  "A": "new",
+  "B": "today",
+  "seed": 20261124
+ }
+}
