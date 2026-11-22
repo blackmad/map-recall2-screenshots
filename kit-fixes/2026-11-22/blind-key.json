@@ -1,0 +1,92 @@
+{
+ "10": {
+  "block": "wiborgeiland-247551",
+  "group": 4,
+  "A": "before",
+  "B": "after"
+ },
+ "11": {
+  "block": "zeeburgerdijk-275-kit2-112106",
+  "group": 0,
+  "A": "before",
+  "B": "after"
+ },
+ "12": {
+  "block": "veemkade-366-556-145730",
+  "group": 2,
+  "A": "before",
+  "B": "after"
+ },
+ "13": {
+  "block": "jesse-owenshof-1-131508",
+  "group": 0,
+  "A": "after",
+  "B": "before"
+ },
+ "14": {
+  "block": "jesse-owenshof-1-131508",
+  "group": 1,
+  "A": "before",
+  "B": "after"
+ },
+ "15": {
+  "block": "gustav-mahlerlaan-7-27-250615",
+  "group": 3,
+  "A": "before",
+  "B": "after"
+ },
+ "01": {
+  "block": "borneostraat-42-70-253816",
+  "group": 0,
+  "A": "before",
+  "B": "after"
+ },
+ "02": {
+  "block": "borneostraat-42-70-253816",
+  "group": 1,
+  "A": "after",
+  "B": "before"
+ },
+ "03": {
+  "block": "borneostraat-42-70-253816",
+  "group": 2,
+  "A": "after",
+  "B": "before"
+ },
+ "04": {
+  "block": "borneostraat-42-70-253816",
+  "group": 3,
+  "A": "before",
+  "B": "after"
+ },
+ "05": {
+  "block": "bos-en-lommerplein-2-097332",
+  "group": 0,
+  "A": "before",
+  "B": "after"
+ },
+ "06": {
+  "block": "laing-s-nekstraat-1-17-241221",
+  "group": 0,
+  "A": "before",
+  "B": "after"
+ },
+ "07": {
+  "block": "leeuwendalersweg-400-732-080532",
+  "group": 2,
+  "A": "after",
+  "B": "before"
+ },
+ "08": {
+  "block": "wiborgeiland-247551",
+  "group": 0,
+  "A": "before",
+  "B": "after"
+ },
+ "09": {
+  "block": "wiborgeiland-247551",
+  "group": 3,
+  "A": "after",
+  "B": "before"
+ }
+}
