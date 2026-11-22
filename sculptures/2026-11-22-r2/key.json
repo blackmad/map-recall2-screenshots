@@ -1,0 +1,56 @@
+{
+ "01": {
+  "id": "spinoza-standbeeld",
+  "A": "today",
+  "B": "new",
+  "newLabel": "trellis-s42"
+ },
+ "02": {
+  "id": "mama-baranka",
+  "A": "today",
+  "B": "new",
+  "newLabel": "tsrL-cac10d4136"
+ },
+ "03": {
+  "id": "walraven-van-hall",
+  "A": "today",
+  "B": "new",
+  "newLabel": "tsr-82071fd7cb"
+ },
+ "04": {
+  "id": "hoofdbureau-arms",
+  "A": "today",
+  "B": "new",
+  "newLabel": "trellis-s7"
+ },
+ "05": {
+  "id": "hofkerk-pelican",
+  "A": "new",
+  "B": "today",
+  "newLabel": "tsr"
+ },
+ "06": {
+  "id": "palace-pediment",
+  "A": "today",
+  "B": "new",
+  "newLabel": "tsr"
+ },
+ "07": {
+  "id": "west-india-pediment",
+  "A": "today",
+  "B": "new",
+  "newLabel": "tsr"
+ },
+ "08": {
+  "id": "barlaeus-group",
+  "A": "new",
+  "B": "today",
+  "newLabel": "tsr"
+ },
+ "09": {
+  "id": "hmdh-busts",
+  "A": "new",
+  "B": "today",
+  "newLabel": "trellis-s42"
+ }
+}
