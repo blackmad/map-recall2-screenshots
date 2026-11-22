@@ -1,0 +1,9 @@
+{
+ "id": "westerdok-4",
+ "tag": "w02-5",
+ "seed": "landmark-gates-20261122:w02-5",
+ "A": "new",
+ "B": "today",
+ "todayRoute": "generic",
+ "todayWhy": "default: no installed model covers the pand"
+}
