@@ -1,0 +1,26 @@
+{
+ "01": {
+  "id": "hoofdbureau-arms",
+  "A": "today",
+  "B": "new",
+  "newLabel": "r3-slim2400"
+ },
+ "02": {
+  "id": "palace-pediment",
+  "A": "today",
+  "B": "new",
+  "newLabel": "r3-fit2-welded"
+ },
+ "03": {
+  "id": "spinoza-standbeeld",
+  "A": "today",
+  "B": "new",
+  "newLabel": "trellis-s42-16k"
+ },
+ "04": {
+  "id": "hmdh-busts",
+  "A": "new",
+  "B": "today",
+  "newLabel": "r3-six-trellis"
+ }
+}
